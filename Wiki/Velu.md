@@ -14,8 +14,8 @@
 ## Overview
 
 - **Name**: Velu  
-- **Capital**: Gate Thaurin  
-- **Largest City**: Gate Thaurin (population: ~800,000)  
+- **Capital**: Byad (population: ~150,000)  
+- **Largest City**: Gate Thaurin (population: ~1,800,000)  
 - **Government**: Unknown (strictly controlled, with centralized authority)  
 - **Official Language**: (TBD)  
 - **Population**: ~2 million (estimated)  
@@ -35,7 +35,9 @@ Velu is located in the northern half of East Yanorra, bordered by the Veloku Oce
 
 ### Key Regions
 
-- **Gate Thaurin** The capital and primary port, a heavily fortified coastal city controlling access to Velu’s agricultural exports.  
+- **Byad**: The capital city, renowned for its administrative prominence and rich cultural heritage. Byad is famed as the starting point for Erik the Explorer’s legendary voyages to Anqhara, a purported continent beyond the Eastvoid Ocean. The existence of Anqhara remains fiercely debated, with scholars and locals divided over whether Erik’s tales describe a real land or a myth born of pre-Drift optimism.
+
+- **Gate Thaurin** The primary port, a heavily fortified coastal city controlling access to Velu’s agricultural exports.  
 - **Inland Plains**: Expansive farmlands producing grains, vegetables, and livestock, critical for trade with Duvessa and other East Yanorra nations.  
 
 ## Climate

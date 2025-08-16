@@ -23,7 +23,7 @@
 
 - **Name**: Thornbelt  
 - **Capital**: Holt (population: ~80,000)
-- **Largest City**: Gate Soloma (population: ~115,000)
+- **Largest City**: Gate 1 (population: ~115,000)
 - **Population**: 645,000 (estimated)  
 - **Area**: 31,000 km² (12,000 sq mi)
 - **Government**: (TBD)
@@ -47,7 +47,8 @@ Thornbelt serves as a crucial landbridge for trade between the eastern and weste
 
 ### Key Regions
 
-(TBD)
+- **Holt**: The capital city, located in the central part of Thornbelt. It serves as the administrative hub for the tribal council that governs the nation.
+- **Gate 1**: The largest city in Thornbelt, situated on the border with Ronobetu. It functions as a major gateway, overseeing and regulating travel and trade between Thornbelt and its western neighbor.
 
 ## Climate
 

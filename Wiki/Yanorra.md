@@ -3,7 +3,7 @@ Yanorra - World Overview
 # Summary 
 
 * Yanorra is a terrestrial planet in a state of societal and environmental crisis.
-* \~400 Earth years (\~146,100 days) ago, a massive celestial object entered the solar system—an event known as **The Drift**.
+* \~400 Earth years (\~146,100 days) ago, a massive celestial object, called Lo-Disporum, entered the solar system—an event known as **The Drift**.
 * The planet was thrown into an unstable elliptical orbit.
 * Summers have become shorter and hotter; winters longer and colder. Seasonal lengths are now unpredictable.
 * Astronomers are uncertain: the planet may fall into its star or be ejected from its system.
@@ -44,13 +44,16 @@ Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqa
 
 ## East Yanorra
 
+East Yanorra is the easternmost continent in the known world of Yanorra. 
 
 ### List of States and Territories in East Yanorra
 
 | Name                               | Area (approx.)    | Population     | Capital         |
 |------------------------------------|-------------------|----------------|-----------------|
 | [Barrel](./Barrel.md)              | 41,000 sq km      | (TBD)          | Seshai          |
+| [Land of Water](./Land_of_Water.md)| 29,000 sq km      | ~1,100,000     | Qaria           |
 | [Reddelstone](./Reddelstone.md)    | 150,000 sq km     | ~300,000       | Paz             |
+| [Soli](./Soli.md)                  | (TBD) sq km       | (TBD).         | (TBD).          |
 | [Velu](./Velu.md)                  | 200,000 sq km     | ~500,000       | Byad            |
 
 

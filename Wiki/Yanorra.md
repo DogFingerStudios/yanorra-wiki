@@ -54,6 +54,7 @@ East Yanorra is the easternmost continent in the known world of Yanorra.
 | [Barrel](./Barrel.md)              | 41,000 sq km      | (TBD)          | Seshai          |
 | [Booside](./Booside.md)            | 4,700 sq km       | (TBD)          | Monstagt        |
 | [Chatunkut](./Chatunkut.md)        | 52,000 sq km      | (TBD)          | Rangy           |
+| [Eastlands](./Eastlands.md)        | 217,000 sq km     | (TBD)          | ...             |
 | [Eve Hilmore](./Eve_Hilmore.md)    | 8,000 sq km       | (TBD)          | Towboketer      |
 | [Grand Hilmore](./Grand_Hilmore.md)| 6,400 sq km       | (TBD)          | Hilmore         |
 | [Land of Water](./Land_of_Water.md)| 29,000 sq km      | ~1,100,000     | Qaria           |
@@ -95,6 +96,7 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 | [Thornbelt](./Thornbelt.md)        | 210,000 sq km     | ~800,000       | Holt            | Eanorra |
 | [Totoku](./Totoku.md)              | 80,000 sq km      | ~600,000       | Totoku          | Wanorra |
 | [Tsutodo](./Tsutodo.md)            | 160,000 sq km     | ~400,000       | Cliford         | Eanorra |
+| [Westlands](./Westlands.md)        | 50,000 sq km      | (TBD)          | ...             | Sounorra|
 
 ### The Three Sisters
 

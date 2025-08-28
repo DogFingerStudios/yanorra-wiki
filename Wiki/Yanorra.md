@@ -1,5 +1,7 @@
 Yanorra - World Overview
 
+<center><img src="../Maps/Yanorra.png" alt="Yanorra Map"></center>
+
 # Summary 
 
 * Yanorra is a terrestrial planet in a state of societal and environmental crisis.

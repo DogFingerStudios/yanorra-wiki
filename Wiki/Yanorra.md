@@ -62,9 +62,7 @@ East Yanorra is the easternmost continent in the known world of Yanorra.
 | [Reddelstone](./Reddelstone.md)    | 150,000 sq km     | ~300,000       | Paz             |
 | [Saple](./Saple.md)                | 31,000 sq km      | (TBD)          | Saple Town      |
 | [Saple Islands](./Saple_Islands.md)| 9,300 sq km       | (TBD)          | Worths          |
-| [Soli](./Soli.md)                  | (TBD) sq km       | (TBD).         | (TBD).          |
 | [Velu](./Velu.md)                  | 200,000 sq km     | ~500,000       | Byad            |
-
 
 ## West Yanorra
 

@@ -4,13 +4,16 @@ Yanorra - World Overview
 
 # Summary 
 
-* Yanorra is a terrestrial planet in a state of societal and environmental crisis.
-* \~400 Earth years (\~146,100 days) ago, a massive celestial object, called Lo-Disporum, entered the solar system—an event known as **The Drift**.
-* The planet was thrown into an unstable elliptical orbit.
-* Summers have become shorter and hotter; winters longer and colder. Seasonal lengths are now unpredictable.
-* Astronomers are uncertain: the planet may fall into its star or be ejected from its system.
-* The Drift stunted global development and triggered long-term societal depression.
-* Most people believe extinction is inevitable.
+Yanorra is a terrestrial planet in a state of societal and environmental crisis. Roughly 400 Earth years (\~146,100 days) ago, a massive celestial object, called Lo-Disporum, entered the solar system—an event known as **The Drift**. The gravity of Lo-Disporum disrupted the orbit of Yanorra, throwing the planet into an unstable elliptical orbit.
+
+Summers have become shorter and hotter; winters longer and colder. Seasonal lengths are now unpredictable. Astronomers are uncertain: the planet may fall into its star or be ejected from its system. The Drift stunted global development and triggered long-term societal depression. 
+
+Most people believe extinction is inevitable.
+
+# The Drift
+* The Drift was a cataclysmic event that altered the planet's orbit and climate.
+* It caused widespread environmental upheaval, leading to the collapse of many civilizations.
+* The Drift's effects are still felt today, with unpredictable weather patterns and seasonal changes, as well as a general decline in societal mental health, leading to a pervasive sense of hopelessness and despair.
 
 # Planetary Overview
 
@@ -155,7 +158,7 @@ In the modern era, the three nations share culture and language, as well as reso
 - Interference is common; messages are delayed or lost.
 
 ## Power
-- Electricity is sparse and unreliable.
+- Electricity is common in larger cities and towns, but can be unreliable.
 - Sources: solar panels, wind-up generators, diesel (rare).
 - Kerosene, firewood, and candles are still in daily use.
 
@@ -170,8 +173,3 @@ In the modern era, the three nations share culture and language, as well as reso
 - A basic Internet-like system does exists -- think Compuserve
 - Mechanical tools, analog radios, and paper systems dominate.
 - Film photography exists but is uncommon due to scarcity of materials.
-
-# The Drift
-* The Drift was a cataclysmic event that altered the planet's orbit and climate.
-* It caused widespread environmental upheaval, leading to the collapse of many civilizations.
-* The Drift's effects are still felt today, with unpredictable weather patterns and seasonal changes, as well as a general decline in societal mental health, leading to a pervasive sense of hopelessness and despair.

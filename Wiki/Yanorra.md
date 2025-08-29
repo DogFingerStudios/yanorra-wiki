@@ -81,22 +81,23 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 
 ### List of States and Territories in West Yanorra
 
-| Name                              | Area (approx.)    | Population     | Capital         | Region  |
-|------------------------------------|-------------------|----------------|-----------------|---------|
-| [Bibi Shirif](./Bibi_Shirif.md)    | 220,000 sq km     | ~1.5 million   | Zayn al-Qamar   | Wanorra |
-| [Duvessa](./Duvessa.md)            | 310,000 sq km     | ~800,000       | Côte du Soleil  | Wanorra |
-| [Endotoku](./Endotoku.md)          | 180,000 sq km     | ~300,000       | Ornerston       | Wanorra |
-| [Hav](./Hav.md)                    | 500,000 sq km     | ~50,000        | Flord-Clif      | Sounorra |
-| [Obetoku](./Obetoku.md)            | 120,000 sq km     | ~700,000       | Sanceibei       | Wanorra |
-| [Ronobetu](./Ronobetu.md)          | 350,000 sq km     | ~1.9 million   | Cam Tower       | Eanorra |
-| [S'Tsutodo](./S_Tsutodo.md)        | 200,000 sq km     | ~700,000       | Dima Eta        | Eanorra |
-| [Samerland](./Samerland.md)        | 15,000 sq km               | ~1.2 million   | Thetbury        | Dudbinia |
-| [Soumoa](./Soumoa.md)              | 140,000 sq km     | ~1 million     | Moa City        | Wanorra |
-| [Stanshonia](./Stanshonia.md)      | 14,000 sq km      | ~1.5 million   | Carmouth        | Dudbinia |
-| [Thornbelt](./Thornbelt.md)        | 210,000 sq km     | ~800,000       | Holt            | Eanorra |
-| [Totoku](./Totoku.md)              | 80,000 sq km      | ~600,000       | Totoku          | Wanorra |
-| [Tsutodo](./Tsutodo.md)            | 160,000 sq km     | ~400,000       | Cliford         | Eanorra |
-| [Westlands](./Westlands.md)        | 50,000 sq km      | (TBD)          | ...             | Sounorra|
+| Name                                    | Area (approx.)   | Population     | Capital         | Region    |
+|---------------------------------------- |------------------|----------------|-----------------|-----------|
+| [Bharim Islands](./Bharim_Islands.md)   | 8,200 sq km      | ~1.2 million   | Thetbury        | Dudbinia  |
+| [Bibi Shirif](./Bibi_Shirif.md)         | 220,000 sq km    | ~1.5 million   | Zayn al-Qamar   | Wanorra   |
+| [Duvessa](./Duvessa.md)                 | 310,000 sq km    | ~800,000       | Côte du Soleil  | Wanorra   |
+| [Endotoku](./Endotoku.md)               | 180,000 sq km    | ~300,000       | Ornerston       | Wanorra   |
+| [Hav](./Hav.md)                         | 500,000 sq km    | ~50,000        | Flord-Clif      | Sounorra  |
+| [Obetoku](./Obetoku.md)                 | 120,000 sq km    | ~700,000       | Sanceibei       | Wanorra   |
+| [Ronobetu](./Ronobetu.md)               | 350,000 sq km    | ~1.9 million   | Cam Tower       | Eanorra   |
+| [S'Tsutodo](./S_Tsutodo.md)             | 200,000 sq km    | ~700,000       | Dima Eta        | Eanorra   |
+| [Samerland](./Samerland.md)             | 15,000 sq km     | ~1.2 million   | Thetbury        | Dudbinia  |
+| [Soumoa](./Soumoa.md)                   | 140,000 sq km    | ~1 million     | Moa City        | Wanorra   |
+| [Stanshonia](./Stanshonia.md)           | 14,000 sq km     | ~1.5 million   | Carmouth        | Dudbinia  |
+| [Thornbelt](./Thornbelt.md)             | 210,000 sq km    | ~800,000       | Holt            | Eanorra   |
+| [Totoku](./Totoku.md)                   | 80,000 sq km     | ~600,000       | Totoku          | Wanorra   |
+| [Tsutodo](./Tsutodo.md)                 | 160,000 sq km    | ~400,000       | Cliford         | Eanorra   |
+| [Westlands](./Westlands.md)             | 50,000 sq km     | (TBD)          | ...             | Sounorra  |
 
 ### The Three Sisters
 

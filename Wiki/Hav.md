@@ -39,7 +39,7 @@ Hav is located in Soumoa, extending from north western coast along to the easter
 
 ### Terrain 
 
-The southern border of Hav is characterized by a large mountain range called the Iron Peaks, which separates it from the southern Sounorra. The coastal regions feature a mix of cold sandy beaches, rocky shores, and cliffs. Inland features dense foress, with some fertile valleys where Hav grows most of its food.
+The southern border of Hav is characterized by a large mountain range called the Iron Peaks, which separates it from the southern Sounorra. The coastal regions feature a mix of cold sandy beaches, rocky shores, and cliffs. Inland features dense forest, with some fertile valleys where Hav grows most of its food.
 
 ### Key Regions
 

@@ -4,16 +4,18 @@ Yanorra - World Overview
 
 # Summary 
 
-Yanorra is a terrestrial planet in a state of societal and environmental crisis. Roughly 400 Earth years (\~146,100 days) ago, a massive celestial object, called Lo-Disporum, entered the solar system—an event known as **The Drift**. The gravity of Lo-Disporum disrupted the orbit of Yanorra, throwing the planet into an unstable elliptical orbit.
+Yanorra is a terrestrial planet in a state of societal and environmental crisis. Roughly 400 Earth years ago, a massive celestial object, called Lo-Disporum, entered the solar system and disrupted the stable orbit of Yanorra, throwing the planet into an unstable elliptical orbit. This event became known as **The Drift**.
 
-Summers have become shorter and hotter; winters longer and colder. Seasonal lengths are now unpredictable. Astronomers are uncertain: the planet may fall into its star or be ejected from its system. The Drift stunted global development and triggered long-term societal depression. 
+Gradually, summers have become shorter and hotter; winters longer and colder. Yanorran astronomers are uncertain of the planet's fate -- whether it will fall into its star or be ejected from its system. 
 
-Most people believe extinction is inevitable.
+The Drift stunted global development and triggered long-term societal depression, as most people believe extinction is inevitable.
 
+<!--
 # The Drift
 * The Drift was a cataclysmic event that altered the planet's orbit and climate.
 * It caused widespread environmental upheaval, leading to the collapse of many civilizations.
 * The Drift's effects are still felt today, with unpredictable weather patterns and seasonal changes, as well as a general decline in societal mental health, leading to a pervasive sense of hopelessness and despair.
+-->
 
 # Planetary Overview
 

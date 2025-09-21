@@ -67,7 +67,7 @@ The Barrel islands are a large archipelago located roughly halfway between East 
 
 ### Pre-Drift Era (~500,000 cycles ago, ~1,369 Earth years)
 
-Before The Drift, Barrel was a prosperous maritime power in East Yanorra. Situated on the eastern coastline with sheltered harbors and skilled shipwrights, Barrel became the foremost facilitator of commerce across the Veloku Ocean.
+Before The Drift, Barrel was a prosperous maritime power in East Yanorra. Situated on the western coastline with sheltered harbors and skilled shipwrights, Barrel became the foremost facilitator of commerce across the Veloku Ocean.
 
 Its greatest advantage was its control of the Barrel Islands — a large, strategically placed archipelago located nearly halfway between East Yanorra and West Yanorra in the southern Veloku Ocean. These islands served as a vital resupply point, allowing merchants to break the otherwise perilous voyage into manageable legs.
 

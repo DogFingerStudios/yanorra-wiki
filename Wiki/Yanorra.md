@@ -43,9 +43,9 @@ The known world consists of two main continents: **East Yanorra** and **West Yan
 
 The existence of other continents or landmasses is a subject of debate. Numerous myths and stories describe lands beyond the known world, most originating shortly before The Drift, when oceanic exploration was still possible.
 
-**Erik the Explorer** was a renowned traveler who claimed to have journeyed beyond the Eastvoid Ocean, returning with unusual artifacts, wildlife, and plants from a place he called **Aunqara**.
+**Deedrik the Explorer** was a renowned traveler who claimed to have journeyed beyond the Eastvoid Ocean, returning with unusual artifacts, wildlife, and plants from a place he called **Aunqara**.
 
-A group known as the **Aunqaran** is said to have accompanied Erik back and settled in Velu and other areas of the known world. Today, the existence of Aunqara, and the origination of the Aunqaran, is widely disputed and considered by many to be a myth. The Aunqaran themselves are now a small, insular group, concentrated in Velu, and claim to maintain cultural ties to Aunqara.
+A group known as the **Aunqaran** is said to have accompanied Deedrik back and settled in Velu and other areas of the known world. Today, the existence of Aunqara, and the origination of the Aunqaran, is widely disputed and considered by many to be a myth. The Aunqaran themselves are now a small, insular group, concentrated in Velu, and claim to maintain cultural ties to Aunqara.
 
 Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqara have ended in failure, with no one returning.
 
@@ -77,7 +77,7 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 
 - **Dudbinia**: A large island in the southeastern region of West Yanorr.
 
-- **Eanorra** - The eastern part of West Yanorra, which includes Duvessa, Moe,  Bibi Shirif and the Three Sisters (Totoku, Endotoku, Obetoku).   
+- **Eanorra** - The eastern part of West Yanorra, which includes Duvessa, Moe, Bibi Shirif and the Three Sisters (Totoku, Endotoku, Obetoku).   
 
 - **Sounorra** - A sparsely populated large island in the southern region of West Yanorra. Sounorra is known for it's wildlands and harsh weather.
 

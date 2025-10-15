@@ -4,22 +4,17 @@ Yanorra - World Overview
 
 # Summary 
 
-Yanorra is a terrestrial planet in a state of societal and environmental crisis. Roughly 400 Earth years ago, a massive celestial object, called Lo-Disporum, entered the solar system and disrupted the stable orbit of Yanorra, throwing the planet into an unstable elliptical orbit. This event became known as **The Drift**.
+Yanorra is a terrestrial planet in a state of societal and environmental crisis. 
 
-Gradually, summers have become shorter and hotter; winters longer and colder. Yanorran astronomers are uncertain of the planet's fate -- whether it will fall into its star or be ejected from its system. 
+Roughly 400 Earth years ago, a massive celestial object, called Lo-Disporum, entered the solar system and disrupted the stable orbit of Yanorra, throwing the planet into an unstable elliptical orbit. 
+
+This event became known as **The Drift**.
+
+As the orbit became more elliptical, summers have become shorter and hotter; winters longer and colder. Yanorran astronomers are uncertain of the planet's fate -- whether it will fall into its star or be ejected from its system.
 
 The Drift stunted global development and triggered long-term societal depression, as most people believe extinction is inevitable.
 
-<!--
-# The Drift
-* The Drift was a cataclysmic event that altered the planet's orbit and climate.
-* It caused widespread environmental upheaval, leading to the collapse of many civilizations.
-* The Drift's effects are still felt today, with unpredictable weather patterns and seasonal changes, as well as a general decline in societal mental health, leading to a pervasive sense of hopelessness and despair.
--->
-
-# Yanorra
-
-## Yanorra
+## Astronomical Properties
 * Terrestrial, Earth-sized
 * Rotational cycle ≈ 1 Earth day
 * Yearly cycle = Increasingly unpredictable, no longer follows a fixed calendar. Calendar system is based on cycles (i.e. days) rather than years.
@@ -132,17 +127,18 @@ In the modern era, the three nations share culture and language, as well as reso
 
 (TBD)
 
-# Calendar System (Post-Drift)
+# Calendar System
 
-- Time is measured in planetary rotations ("cycles").
-- Traditional years are no longer used. Instead, time is logged in:
+Time used to be measured in years, but after The Drift, the concept of a "year" became unreliable due to the planet's erratic orbit. Now time is measured by rotations the planet makes on its axis, called "cycles". These cycles are roughly equivalent to one Earth day.
+
     - 1 cycle   = day
     - 1 decara  = 10 cycles
     - 1 centara = 100 cycles
     - 1 milarna = 1,000 cycles
-- Dates are recorded in the format: **centara.decara.day**  
-  Example: `142.22.8` = 142,228 days since The Drift
-- The current date is approximately `146.10.0` (146,100 days since The Drift)
+
+Dates are recorded in the format: **centara.decara.day**. For example: `142.22.8` = 142,228 days since The Drift
+
+The current date is approximately `146.10.0`, meaning that about 146,100 days have passed since The Drift, or about 400 Earth years.
 
 # Geopolitics
 

@@ -124,7 +124,6 @@ In the modern era, the three nations share culture and language, as well as reso
 - Ocean separating East Yanorra from the mythical land of Aunqara.
 
 ## Westvoid Ocean
-
 (TBD)
 
 # Calendar System
@@ -136,7 +135,11 @@ Time used to be measured in years, but after The Drift, the concept of a "year" 
     - 1 centara = 100 cycles
     - 1 milarna = 1,000 cycles
 
-Dates are recorded in the format: **centara.decara.day**. For example: `142.22.8` = 142,228 days since The Drift
+Dates are written in the format: milarnas.centaras.decara.cycles, where each unit represents a place value.
+
+| Megnara (1,000,000 cycles per) | Kilara (1,000 cycles per) | Decara (10 cycles per) | Cycles (1 cycle) |
+|-------------------------|-----------------------|--------------------|------------------|
+| unlimited                | 0-999                 | 0-99               | 0-9              
 
 The current date is approximately `146.10.0`, meaning that about 146,100 days have passed since The Drift, or about 400 Earth years.
 

@@ -1,6 +1,7 @@
 # Barrel
 
-#### Table of Contents
+## Table of Contents
+
 - [Overview](#overview)
 - [Geography](#geography)
 - [Climate](#climate)
@@ -17,7 +18,7 @@
 
 **Barrel** is a nation.
 
-<a href="../Maps/Barrel.png" target="_blank"><img src="../Maps/Barrel.png" width="50%" height="50%"></a>
+[![Barrel](../Maps/Barrel.png)](../Maps/Barrel.png)
 
 ## Overview
 
@@ -55,11 +56,11 @@ The Barrel islands are a large archipelago located roughly halfway between East 
 
 (TBD)
 
-### Key Regions
+### Additional Regions
 
 (TBD)
 
-## Climate
+### Climate
 
 (TBD)
 

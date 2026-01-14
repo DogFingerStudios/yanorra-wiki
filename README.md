@@ -32,7 +32,7 @@ Yanorra orbits a single star called the **Ember Mother** which has a slight red 
 
 # Geography
 
-The known world consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Veloku Ocean**. Each continent contains several nations and loosely organized regions.
+The **known world** consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Veloku Ocean**. Each continent contains several nations and loosely organized regions.
 
 ## Historical Context
 

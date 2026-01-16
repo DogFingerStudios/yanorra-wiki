@@ -1,8 +1,6 @@
 # **Lo-Disporum**
 
-*Entry 4.12.77 — The Continental Registry of Celestial Phenomena*
-
-Lo-Disporum is the name given to the wandering red body whose passage through the outer sky led to **The Drift**. Its slow crossing, visible for several generations, marked a turning point in the world’s history. Though once feared as an omen or divine instrument, the modern sciences now classify it as a **cold star-fragment** -- a substellar object of immense mass but faint light.
+Lo-Disporum is the name given to the wandering red body whose passage through the outer sky led to **[The Drift]**. Its slow crossing, visible for several generations, marked a turning point in the world's history. Though once feared as an omen or divine instrument, the modern sciences now classify it as a **cold star-fragment** -- a substellar object of immense mass but faint light.
 
 Although Lo-Disporum never neared Yanorra’s heavens directly, its gravity altered the course of **Ember Mother**, which in turn reshaped our orbit, seasons, and tides for all the cycles that have followed.
 
@@ -99,7 +97,7 @@ Below are the three most widely accepted Reconstructions of Lo Disporum's outbou
 
 ## **1. The Duvessan Arc Model**
 
-*(Official State Model, Duvessa High Observatory)*
+### (Official State Model, Duvessa High Observatory)
 
 **Description of Diagram (word-rendered):**
 
@@ -147,7 +145,7 @@ Velu’s scholars reject curves and “sky-loops.” Their model treats Lo Dispo
 
 ---
 
-## **Appendix B — False Candidates & Historical Mistakes**
+# **Appendix B — False Candidates & Historical Mistakes**
 
 Throughout post-Drift scholarship, numerous stars, artifacts, and atmospheric phenomena have been mistaken for Lo Disporum. Several received early catalog numbers before being reclassified or debunked.
 
@@ -225,7 +223,7 @@ Now classified as a distant cold dwarf.
 
 ---
 
-# **Summary of False Candidates**
+## **Summary of False Candidates**
 
 | Candidate          | Region    | Reason for Rejection        | Status       |
 | ------------------ | --------- | --------------------------- | ------------ |
@@ -234,3 +232,6 @@ Now classified as a distant cold dwarf.
 | Sister Flame       | Velu      | Forged plate                | Fraud        |
 | Hearth-Mist Mirage | Farlands  | Ice-crystal optical trick   | Retracted    |
 | Northwander (N-1)  | North sky | Incorrect proper motion     | Reassigned   |
+
+---
+[The Drift]: The_Drift

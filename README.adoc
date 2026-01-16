@@ -1,7 +1,10 @@
 = Yanorra
+
+:doctype: book
 :toc: left
 :toclevels: 3
-:sectnums:
+
+image::Maps/Yanorra.png[align="center"]
 
 == Summary 
 
@@ -84,23 +87,25 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 
 === List of States and Territories in West Yanorra
 
-| Name                                    | Area (approx.)   | Population     | Capital         | Region    |
-|---------------------------------------- |------------------|----------------|-----------------|-----------|
-| [Bharim Islands](./Wiki/Bharim_Islands.md)   | 8,200 sq km      | ~1.2 million   | Thetbury        | Dudbinia  |
-| [Bibi Shirif](./Wiki/Bibi_Shirif.md)         | 220,000 sq km    | ~1.5 million   | Zayn al-Qamar   | Wanorra   |
-| [Duvessa](./Wiki/Duvessa.md)                 | 310,000 sq km    | ~800,000       | Côte du Soleil  | Wanorra   |
-| [Endotoku](./Wiki/Endotoku.md)               | 180,000 sq km    | ~300,000       | Ornerston       | Wanorra   |
-| [Hav](./Wiki/Hav.md)                         | 500,000 sq km    | ~50,000        | Flord-Clif      | Sounorra  |
-| [Obetoku](./Wiki/Obetoku.md)                 | 120,000 sq km    | ~700,000       | Sanceibei       | Wanorra   |
-| [Ronobetu](./Wiki/Ronobetu.md)               | 350,000 sq km    | ~1.9 million   | Cam Tower       | Eanorra   |
-| [S'Tsutodo](./Wiki/S_Tsutodo.md)             | 200,000 sq km    | ~700,000       | Dima Eta        | Eanorra   |
-| [Samerland](./Wiki/Samerland.md)             | 15,000 sq km     | ~1.2 million   | Thetbury        | Dudbinia  |
-| [Soumoa](./Wiki/Soumoa.md)                   | 140,000 sq km    | ~1 million     | Moa City        | Wanorra   |
-| [Stanshonia](./Wiki/Stanshonia.md)           | 14,000 sq km     | ~1.5 million   | Carmouth        | Dudbinia  |
-| [Thornbelt](./Wiki/Thornbelt.md)             | 210,000 sq km    | ~800,000       | Holt            | Eanorra   |
-| [Totoku](./Wiki/Totoku.md)                   | 80,000 sq km     | ~600,000       | Totoku          | Wanorra   |
-| [Tsutodo](./Wiki/Tsutodo.md)                 | 160,000 sq km    | ~400,000       | Cliford         | Eanorra   |
-| [Westlands](./Wiki/Westlands.md)             | 50,000 sq km     | (TBD)          | ...             | Sounorra  |
+[cols="1,1,1,1,1", options="header"]
+|===
+| Name | Area (approx.) | Population | Capital | Region
+| link:./Wiki/Bharim_Islands.md[Bharim Islands] | 8,200 sq km | ~1.2 million | Thetbury | Dudbinia
+| link:./Wiki/Bibi_Shirif.md[Bibi Shirif] | 220,000 sq km | ~1.5 million | Zayn al-Qamar | Wanorra
+| link:./Wiki/Duvessa.md[Duvessa] | 310,000 sq km | ~800,000 | Côte du Soleil | Wanorra
+| link:./Wiki/Endotoku.md[Endotoku] | 180,000 sq km | ~300,000 | Ornerston | Wanorra
+| link:./Wiki/Hav.md[Hav] | 500,000 sq km | ~50,000 | Flord-Clif | Sounorra
+| link:./Wiki/Obetoku.md[Obetoku] | 120,000 sq km | ~700,000 | Sanceibei | Wanorra
+| link:./Wiki/Ronobetu.md[Ronobetu] | 350,000 sq km | ~1.9 million | Cam Tower | Eanorra
+| link:./Wiki/S_Tsutodo.md[S'Tsutodo] | 200,000 sq km | ~700,000 | Dima Eta | Eanorra
+| link:./Wiki/Samerland.md[Samerland] | 15,000 sq km | ~1.2 million | Thetbury | Dudbinia
+| link:./Wiki/Soumoa.md[Soumoa] | 140,000 sq km | ~1 million | Moa City | Wanorra
+| link:./Wiki/Stanshonia.md[Stanshonia] | 14,000 sq km | ~1.5 million | Carmouth | Dudbinia
+| link:./Wiki/Thornbelt.md[Thornbelt] | 210,000 sq km | ~800,000 | Holt | Eanorra
+| link:./Wiki/Totoku.md[Totoku] | 80,000 sq km | ~600,000 | Totoku | Wanorra
+| link:./Wiki/Tsutodo.md[Tsutodo] | 160,000 sq km | ~400,000 | Cliford | Eanorra
+| link:./Wiki/Westlands.md[Westlands] | 50,000 sq km | (TBD) | ... | Sounorra
+|===
 
 === The Three Sisters
 
@@ -140,9 +145,11 @@ Time used to be measured in years, but after The Drift, the concept of a "year" 
 
 Dates are written in the format: milarnas.centaras.decara.cycles, where each unit represents a place value.
 
-| Megnara (1,000,000 cycles per) | Kilara (1,000 cycles per) | Decara (10 cycles per) | Cycles (1 cycle) |
-|-------------------------|-----------------------|--------------------|------------------|
-| unlimited                | 0-999                 | 0-99               | 0-9              
+[cols="1,1,1,1", options="header"]
+|===
+| Megnara (1,000,000 cycles per) | Kilara (1,000 cycles per) | Decara (10 cycles per) | Cycles (1 cycle)
+| unlimited | 0-999 | 0-99 | 0-9
+|===
 
 The current date is approximately `146.10.0`, meaning that about 146,100 days have passed since The Drift, or about 400 Earth years.
 

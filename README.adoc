@@ -1,6 +1,4 @@
-== Yanorra
-
-:doctype: book
+= Yanorra
 :toc: left
 :toclevels: 3
 
@@ -14,7 +12,7 @@ Roughly 400 Earth years ago, a massive celestial object, called Lo-Disporum, ent
 
 This event became known as **The Drift**.
 
-As the orbit became more elliptical, summers have become shorter and hotter; winters longer and colder. Yanorran astronomers are uncertain of the planet's fate -- whether it will fall into its star or be ejected from its system.
+As the orbit became more elliptical, summers became shorter and hotter; winters longer and colder. Yanorran astronomers are uncertain of the planet's fate -- whether it will fall into its star or be ejected from its system.
 
 The Drift stunted global development and triggered long-term societal depression, as most people believe extinction is inevitable.
 
@@ -84,7 +82,6 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 
 - **Wanorra** - The western part of West Yanorra, which includes Ronobetu, Tsutodo, and S'Tsutodo.
 
-
 ==== List of States and Territories in West Yanorra
 
 [cols="1,1,1,1,1", options="header"]
@@ -113,30 +110,32 @@ The Three Sisters are a group of three nations located in southern Eanorra. The 
 
 In the modern era, the three nations share culture and language, as well as resources. Free trade exists between the three nations, though they remain politically independent. 
 
-=== The Brooding Sea
-- Sea separating Eanorra and Wanorra, with Thornbelt in the north acting as a land bridge between the two sub-continents.
-- Cold, unstable waters with large swells and unpredictable storms
-- Given the relative proximity of East-West Yanorra and West-West Yanorra, the Brooding Sea is considered a dangerous barrier to maritime travel. Less than 200 miles apart at its narrowest point, only about 20% of ships attempting to cross the Brooding Sea survive the journey.
-
 === Aunqara
 - Mythical land beyond the Eastvoid Ocean.
 - Believed to hold relics, knowledge, or salvation.
 - No confirmed sightings.
 
-=== Veloku Ocean
+=== Oceans and Seas
+
+==== Veloku Ocean
 - Large ocean separating East Yanorra (Velu) from West Yanorra (Duvessa).
 - Ships have not been able to navigate it since The Drift.
 - Travel from West Yanorra to East Yanorra now requires a stop in the Riftlands.
 
-=== Eastvoid Ocean
+==== Eastvoid Ocean
 - Ocean separating East Yanorra from the mythical land of Aunqara.
 
-=== Westvoid Ocean
+==== Westvoid Ocean
 (TBD)
+
+==== The Brooding Sea
+- Sea separating Eanorra and Wanorra, with Thornbelt in the north acting as a land bridge between the two sub-continents.
+- Cold, unstable waters with large swells and unpredictable storms
+- Given the relative proximity of East-West Yanorra and West-West Yanorra, the Brooding Sea is considered a dangerous barrier to maritime travel. Less than 200 miles apart at its narrowest point, only about 20% of ships attempting to cross the Brooding Sea survive the journey.
 
 == Calendar System
 
-Time used to be measured in years, but after The Drift, the concept of a "year" became unreliable due to the planet's erratic orbit. Now time is measured by rotations the planet makes on its axis, called "cycles". These cycles are roughly equivalent to one Earth day.
+Time used to be measured by the planet's revolutions around the Ember Mother. After The Drift, the concept of a complete orbit became unreliable due to the planet's erratic trajectory. Time is now measured by the planet's rotations on its axis, known as cycles. Each cycle is roughly equivalent to one Earth day.
 
     - 1 cycle   = day
     - 1 decara  = 10 cycles

@@ -16,22 +16,6 @@ As the orbit became more elliptical, summers became shorter and hotter; winters 
 
 The Drift stunted global development and triggered long-term societal depression, as most people believe extinction is inevitable.
 
-== Astronomical Properties
-* Terrestrial, Earth-sized
-* Rotational cycle ≈ 1 Earth day
-* Yearly cycle = Increasingly unpredictable, no longer follows a fixed calendar. Calendar system is based on cycles (i.e. days) rather than years.
-
-=== Celestial Satellites
-
-Yanorra has two satellites. Their competing gravitation has made sea travel difficult -- an issue amplified by The Drift.
-
-* **Serya** - Larger moon, stable, linked to timekeeping and tradition.
-* **Mirelda** - Smaller, erratic moon associated with misfortune and tidal chaos.
-
-=== Local Star
-
-Yanorra orbits a single star called the **Ember Mother** which has a slight red hue. The Ember Mother has remained stable since The Drift. 
-
 == Geography
 
 The **known world** consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Veloku Ocean**. Each continent contains several nations and loosely organized regions.
@@ -131,6 +115,22 @@ Aunqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of
 - Sea separating Eanorra and Wanorra, with Thornbelt in the north acting as a land bridge between the two sub-continents.
 - Cold, unstable waters with large swells and unpredictable storms
 - Given the relative proximity of East-West Yanorra and West-West Yanorra, the Brooding Sea is considered a dangerous barrier to maritime travel. Less than 200 miles apart at its narrowest point, only about 20% of ships attempting to cross the Brooding Sea survive the journey.
+
+== Astronomical Properties
+* Terrestrial, Earth-sized
+* Rotational cycle ≈ 1 Earth day
+* Yearly cycle = Increasingly unpredictable, no longer follows a fixed calendar. Calendar system is based on cycles (i.e. days) rather than years.
+
+=== Celestial Satellites
+
+Yanorra has two satellites. Their competing gravitation has made sea travel difficult -- an issue amplified by The Drift.
+
+* **Serya** - Larger moon, stable, linked to timekeeping and tradition.
+* **Mirelda** - Smaller, erratic moon associated with misfortune and tidal chaos.
+
+=== Local Star
+
+Yanorra orbits a single star called the **Ember Mother** which has a slight red hue. The Ember Mother has remained stable since The Drift. 
 
 == Calendar System
 

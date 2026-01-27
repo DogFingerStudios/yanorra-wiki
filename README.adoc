@@ -132,6 +132,13 @@ Yanorra has two satellites. Their competing gravitation has made sea travel diff
 
 Yanorra orbits a single star called the **Ember Mother** which has a slight red hue. The Ember Mother has remained stable since The Drift. 
 
+== Geopolitics
+
+=== Duvessa-Velu Sea Trade
+- Goods flow from **Port Sable** (mainland Duvessa) to **Sabletown** (on Sable Island in the Riftlands).
+- Most ships stop in **Sabletown** before heading east or west.
+- Velu's **Gate Thaurin** is the only sanctioned port for Velu-bound ships.
+
 == Calendar System
 
 Time used to be measured by the planet's revolutions around the Ember Mother. After The Drift, the concept of a complete orbit became unreliable due to the planet's erratic trajectory. Time is now measured by the planet's rotations on its axis, known as cycles. Each cycle is roughly equivalent to one Earth day.
@@ -151,14 +158,8 @@ Dates are written in the format: milarnas.centaras.decara.cycles, where each uni
 
 The current date is approximately `146.10.0`, meaning that about 146,100 days have passed since The Drift, or about 400 Earth years.
 
-== Geopolitics
 
-=== Duvessa-Velu Sea Trade
-- Goods flow from **Port Sable** (mainland Duvessa) to **Sabletown** (on Sable Island in the Riftlands).
-- Most ships stop in **Sabletown** before heading east or west.
-- Velu's **Gate Thaurin** is the only sanctioned port for Velu-bound ships.
-
-== World Technology
+== Technology
 
 === Communication
 - No cell towers or internet infrastructure ever developed.
@@ -182,4 +183,3 @@ The current date is approximately `146.10.0`, meaning that about 146,100 days ha
 - A basic Internet-like system does exists -- think Compuserve
 - Mechanical tools, analog radios, and paper systems dominate.
 - Film photography exists but is uncommon due to scarcity of materials.
-

@@ -178,7 +178,7 @@ The current date is approximately `146.10.0`, meaning that about 146,100 days ha
 - Steam and diesel engines power trawlers and ferries.
 
 === Computing
-- Computers euivalent to those of the late 80s and early 90s exist
+- Computers equivalent to those of the late 80s and early 90s exist
 - A basic Internet-like system does exists -- think Compuserve
 - Mechanical tools, analog radios, and paper systems dominate.
 - Film photography exists but is uncommon due to scarcity of materials.

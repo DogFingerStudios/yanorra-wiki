@@ -161,25 +161,28 @@ The current date is approximately `146.10.0`, meaning that about 146,100 days ha
 == World Technology
 
 === Communication
-- No cell towers or internet infrastructure ever developed.
-- Handheld devices function via packet radio or shortwave relays.
-- Signal range is limited to line-of-sight or tower bounce.
-- Interference is common; messages are delayed or lost.
+Communication beyond immediate proximity relies primarily on packet radio and shortwave relay systems. Handheld and stationary devices transmit data and voice signals across relay towers, though effective range is typically limited to line-of-sight or single-bounce transmission. Signal interference is common, particularly in regions affected by atmospheric instability, and messages are frequently delayed or lost in transit. 
 
-=== Power
-- Electricity is common in larger cities and towns, but can be unreliable.
-- Sources: solar panels, wind-up generators, diesel (rare).
-- Kerosene, firewood, and candles are still in daily use.
+While no centralized communication network exists, regional systems are interconnected through long-distance wired connections, enabling cross-regional voice communication and data transmission. Long-distance calls can be placed between regions, though connectivity depends on the maintenance and availability of physical infrastructure, which varies significantly by location.
 
 === Transportation
-- No airplanes or helicopters exist.
-- Oceanic ships are limited to coastal or short-island routes.
-- No vessels capable of transoceanic navigation.
-- Steam and diesel engines power trawlers and ferries.
+Transportation remains largely terrestrial and coastal. Oceanic vessels are restricted to short-range coastal routes and inter-island travel, as no ships capable of sustained transoceanic navigation have been developed since The Drift. The primary maritime vessels are steam and diesel-powered trawlers and ferries, which serve regional trade networks and passenger transport along stable shorelines.
+
+Long-distance overland travel relies on rail networks where they exist, supplemented by diesel-powered road vehicles in areas with maintained infrastructure. In more remote or resource-scarce regions, animal-drawn transport and foot travel remain the primary means of movement.
+
+Aerial transportation has not been realized. In recent years, several experimental programs have attempted to develop functional aircraft, but thus far no practical method of sustained aerial travel or cargo transport has been successfully demonstrated. The combination of technological limitations, resource scarcity, and the planet's increasingly unstable atmospheric conditions has hindered progress in this field.
+
+=== Power
+Electricity is common in larger cities and towns, but remains unreliable in many areas. Power generation typically relies on solar panels, wind-up generators, and diesel fuel, though the latter is increasingly scarce. Wind power has become more commonplace in recent years, as The Drift has destabilized the upper atmosphere, creating persistent turbulent conditions that generate strong and unpredictable surface winds. While this atmospheric instability has proven advantageous for power generation, it is also a primary factor preventing the development of aerial flight. In rural and resource-limited regions, kerosene lamps, firewood, and candles remain in daily use.
 
 === Computing
-- Computers equivalent to those of the late 80s and early 90s exist
-- A basic Internet-like system does exists -- think Compuserve
-- Mechanical tools, analog radios, and paper systems dominate.
-- Film photography exists but is uncommon due to scarcity of materials.
+Computing remains limited in both capability and reach, shaped heavily by the disruptions following The Drift and the ongoing scarcity of reliable power. Digital systems exist, but they are neither ubiquitous nor essential to daily life, and are often viewed as fragile conveniences rather than dependable infrastructure.
+
+Most machines in common use are text-oriented systems designed for recordkeeping, communication, and basic calculation rather than visual display. Processing power is modest, storage is constrained, and interaction typically occurs through keyboards and monochrome or low-resolution displays, reinforcing a culture of efficiency and brevity in digital communication.
+
+The Intalink reflects these constraints directly. It is a largely text-driven network, favoring message boards, indexed archives, and direct terminal access over visual or interactive media. While experiments with more graphical systems are underway, they remain slow, resource-heavy, and impractical for widespread use under current conditions.
+
+More advanced graphical computing environments do exist, but access is limited almost entirely to universities, state research institutions, and select government systems. These platforms are treated as experimental or strategic tools and have not yet reached public or commercial circulation.
+
+As a result, mechanical tools, analog radios, and paper documentation continue to dominate everyday workflows, with computing systems serving as supplements rather than replacements. Film photography is technically possible but uncommon, as the materials required to produce and preserve film are scarce and typically reserved for institutional, archival, or scientific purposes.
 

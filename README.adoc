@@ -18,17 +18,23 @@ The Drift stunted global development and triggered long-term societal depression
 
 == Geography
 
-The **known world** consists of two main continents: **East Yanorra** and **West Yanorra**, separated by the **Veloku Ocean**. Each continent contains several nations and loosely organized regions.
+The approximate size and shape of the planet have long been established with a high degree of confidence. This understanding predates The Drift and is preserved through astronomical observation, early navigation records, and geometric measurement techniques refined over many centara.
 
-=== Historical Context
+By observing the motion of the sun, stars, and moons across different latitudes, early scholars were able to independently calculate planetary curvature in multiple regions. These results were later reinforced by overland surveys and maritime logs from the pre-Drift era, which recorded distances traveled, heading changes, and horizon behavior over extended routes. Although individual records vary in precision, their convergence supports a stable planetary circumference and mass within narrow tolerances.
 
-The existence of other continents or landmasses is a subject of debate. Numerous myths and stories describe lands beyond the known world, most originating shortly before The Drift, when oceanic exploration was still possible.
+The Drift disrupted direct verification of these measurements, but it did not alter planetary scale. While orbital instability reshaped climate and sea conditions, contemporary astronomers continue to observe stellar parallax and lunar behavior consistent with inherited models, reinforcing confidence in the established dimensions of the world.
 
-**Thalen of the Eastvoid** was a renowned traveler who claimed to have journeyed beyond the Eastvoid Ocean, returning with unusual artifacts, wildlife, and plants from a place he called **Aunqara**.
+It is therefore broadly accepted that the known world represents only a portion of the planet's total surface. Large regions, particularly across the southern oceans, polar expanses, and any lands beyond the Eastvoid and Westvoid remain unmapped not because they are believed not to exist, but because access to them is currently unachievable.
 
-A group known as the **Aunqaran** is said to have accompanied Thalen back and settled in Velu and other areas of the known world. Today, the existence of Aunqara, and the origination of the Aunqaran, is widely disputed and considered by many to be a myth. The Aunqaran themselves are now a small, insular group, concentrated in Velu, and claim to maintain cultural ties to Aunqara.
+Modern cartography operates with clearly defined boundaries of knowledge rather than assumptions of completeness. Maps reflect what is reachable, observable, and verifiable under present conditions, while acknowledging that substantial portions of the planet remain undocumented.
 
-Since The Drift, several attempts to cross the Eastvoid Ocean in search of Aunqara have ended in failure, with no one returning.
+The existence of other continents or distant landmasses remains a subject of debate. Numerous myths and historical accounts describe lands beyond the known world, many of which originate shortly before The Drift, when advancements in ship-building made long-distance oceanic exploration possible.
+
+**Thalen of the Eastvoid** is among the most frequently cited figures in these accounts. He claimed to have crossed the Eastvoid Ocean and returned with unfamiliar artifacts, plants, and wildlife from a land he and others on the voyage called **Aunqara**.
+
+According to these accounts, a group now known as the **Aunqaran** accompanied Thalen back and settled primarily in Velu, with smaller populations elsewhere. The existence of Aunqara, as well as the origin of the Aunqaran, is widely disputed and regarded by many scholars as mythological. The Aunqaran themselves remain a small, insular community and continue to assert cultural ties to Aunqara.
+
+Since The Drift, several expeditions have attempted to cross the Eastvoid and Westvoid Oceans in search of other lands. None have returned. The oceans are considered impassable under present conditions, and the existence of other continents remains unverified.
 
 === East Yanorra
 
@@ -158,28 +164,30 @@ Dates are written in the format: milarnas.centaras.decara.cycles, where each uni
 
 The current date is approximately `146.10.0`, meaning that about 146,100 days have passed since The Drift, or about 400 Earth years.
 
-
-== Technology
+== World Technology
 
 === Communication
-- No cell towers or internet infrastructure ever developed.
-- Handheld devices function via packet radio or shortwave relays.
-- Signal range is limited to line-of-sight or tower bounce.
-- Interference is common; messages are delayed or lost.
+Communication beyond immediate proximity relies primarily on packet radio and shortwave relay systems. Handheld and stationary devices transmit data and voice signals across relay towers, though effective range is typically limited to line-of-sight or single-bounce transmission. Signal interference is common, particularly in regions affected by atmospheric instability, and messages are frequently delayed or lost in transit. 
 
-=== Power
-- Electricity is common in larger cities and towns, but can be unreliable.
-- Sources: solar panels, wind-up generators, diesel (rare).
-- Kerosene, firewood, and candles are still in daily use.
+While no centralized communication network exists, regional systems are interconnected through long-distance wired connections, enabling cross-regional voice communication and data transmission. Long-distance calls can be placed between regions, though connectivity depends on the maintenance and availability of physical infrastructure, which varies significantly by location.
 
 === Transportation
-- No airplanes or helicopters exist.
-- Oceanic ships are limited to coastal or short-island routes.
-- No vessels capable of transoceanic navigation.
-- Steam and diesel engines power trawlers and ferries.
+Transportation remains largely terrestrial and coastal. Oceanic vessels are restricted to short-range coastal routes and inter-island travel, as no ships capable of sustained transoceanic navigation have been developed since The Drift. The primary maritime vessels are steam and diesel-powered trawlers and ferries, which serve regional trade networks and passenger transport along stable shorelines.
+
+Long-distance overland travel relies on rail networks where they exist, supplemented by diesel-powered road vehicles in areas with maintained infrastructure. In more remote or resource-scarce regions, animal-drawn transport and foot travel remain the primary means of movement.
+
+Aerial transportation has not been realized. In recent years, several experimental programs have attempted to develop functional aircraft, but thus far no practical method of sustained aerial travel or cargo transport has been successfully demonstrated. The combination of technological limitations, resource scarcity, and the planet's increasingly unstable atmospheric conditions has hindered progress in this field.
+
+=== Power
+Electricity is common in larger cities and towns, but remains unreliable in many areas. Power generation typically relies on solar panels, wind-up generators, and diesel fuel, though the latter is increasingly scarce. Wind power has become more commonplace in recent years, as The Drift has destabilized the upper atmosphere, creating persistent turbulent conditions that generate strong and unpredictable surface winds. While this atmospheric instability has proven advantageous for power generation, it is also a primary factor preventing the development of aerial flight. In rural and resource-limited regions, kerosene lamps, firewood, and candles remain in daily use.
 
 === Computing
-- Computers equivalent to those of the late 80s and early 90s exist
-- A basic Internet-like system does exists -- think Compuserve
-- Mechanical tools, analog radios, and paper systems dominate.
-- Film photography exists but is uncommon due to scarcity of materials.
+Computing developed cautiously in the cycles following The Drift, guided by the need for stability, predictability, and administrative clarity. Digital systems exist throughout much of the known world, but their value lies in controlled use rather than ubiquity. Where employed properly, they support governance, record integrity, and long-range coordination; where adopted carelessly, they tend to amplify fragility rather than reduce it.
+
+Most machines in common circulation are text-oriented systems designed for documentation, correspondence, and structured calculation. Interaction is typically mediated through keyboards and monochrome or low-resolution displays, encouraging disciplined input and concise communication. Storage is managed conservatively, and processing tasks are expected to complete deterministically, reinforcing a culture that favors reliability over experimentation.
+
+The Intalink reflects these priorities. It functions primarily as a text-driven network, centered on message boards, indexed archives, and direct terminal access. Information is exchanged deliberately and is intended to be retrievable rather than ephemeral. Proposals for visually expressive or interactive extensions surface periodically, but such systems impose substantial demands on power and transmission capacity and have yet to demonstrate sustained practical value.
+
+More advanced graphical computing environments are maintained within universities, state research facilities, and select government offices. These systems are used for modeling, analysis, and planning tasks where visual abstraction provides measurable benefit. Access remains restricted, and their operation is closely managed; broad public deployment has not been pursued.
+
+Accordingly, mechanical instruments, analog radios, and paper documentation continue to underpin most everyday workflows. Computing systems are employed as supplements to established practices, not substitutes for them. Film photography remains technically achievable, but the materials required for reliable production and preservation are scarce and are therefore reserved for institutional, archival, or scientific use rather than routine application.

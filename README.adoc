@@ -2,26 +2,10 @@
 :toc: left
 :toclevels: 3
 
-+++
-<style>
-.yellow-highlight {
-    background-color: #fff3b0;
-    border-left: 4px solid #f1c40f;
-    padding: 0.75rem 1rem;
-    border-radius: 6px;
-}
-
-.yellow-highlight p {
-    margin: 0.5rem 0;
-}
-</style>
-+++
-
 image::Maps/Yanorra.png[align="center"]
 
 == Summary 
 
-[.yellow-highlight]
 ****
 Yanorra is a terrestrial planet in a state of societal and environmental crisis. 
 

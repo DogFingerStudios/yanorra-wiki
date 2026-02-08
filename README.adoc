@@ -7,7 +7,7 @@ image::Maps/Yanorra.png[align="center"]
 == Summary 
 
 ****
-Yanorra is a terrestrial planet in a state of societal and environmental crisis. 
+NOTE: Yanorra is a terrestrial planet in a state of societal and environmental crisis. 
 
 Roughly 400 Earth years ago, a massive celestial object, called Lo-Disporum, entered the solar system and disrupted the stable orbit of Yanorra, throwing the planet into an unstable elliptical orbit. 
 

@@ -1,0 +1,37 @@
+name: Yanorra wiki pipeline
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build_wiki:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Do whatever Yanorra does (tests/validation/etc.)"
+
+  trigger_website:
+    needs: [build_wiki]
+    if: ${{ needs.build_wiki.result == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger yanorra-website build
+        env:
+          DISPATCH_TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+          OWNER: DogFingerStudios
+          REPO: yanorra-website
+          WORKFLOW_FILE: deploy.yml
+          REF: master
+        run: |
+          curl -sS -X POST \
+            -H "Authorization: Bearer $DISPATCH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/$OWNER/$REPO/actions/workflows/$WORKFLOW_FILE/dispatches \
+            -d @- <<JSON
+          {
+            "ref": "$REF",
+            "inputs": {
+              "yanorra_sha": "${{ github.sha }}"
+            }
+          }
+          JSON

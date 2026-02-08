@@ -26,9 +26,9 @@
   - **Normoa**: Capital - Port Moa (~80,000), acquired after the Duvessa-Moa War (~100,000 cycles ago, ~274 Earth years). Known for rugged terrain and harsh winters.  
   - **Kutboga**: Capital - Fort 32 (population ~60K), borders Thornbelt, the Brooding Sea, and the Veloku Ocean. 
 - **Key Islands**:  
-  - **The Riftlands**: A chain of islands northeast of Duvessa, serving as a maritime rest stop for trade with Velu. Includes Sable Island (Sabletown port), Saint Armandre, Iskay, Morn’e, Yana Wat’a, Aguillon, Quelvasto, and Sopoko.  
-  - **The Farlands**: Northern islands, including Saint Aveline (partially inhabited, under siege), Port Veiskar, and Karrholm.  
-  - **Noxoch Isle**: Uninhabited, storm-battered northernmost landmass, considered cursed.  
+  - **The Riftlands**: A chain of islands northeast of Duvessa, serving as a maritime rest stop for trade with Velu. Includes Sable Island (Sabletown port), Saint Armandre, Iskay, Morn'e, Yana Wat'a, Aguillon, Quelvasto, and Sopoko.  
+    - **The Farlands**: Northern islands, including Saint Aveline (partially inhabited, under siege), Port Veiskar, and Karrholm.  
+    - **[Noxoch Isle](./Noxoch_Isle.md)**: Uninhabited, storm-battered northernmost landmass, considered cursed.  
 - **Climate**: Unpredictable due to The Drift (~146,100 cycles ago, ~400 Earth years). Short, scorching summers and long, severe winters. Coastal areas experience frequent storms from the Brooding Sea.
 
 ## History

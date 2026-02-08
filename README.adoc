@@ -94,11 +94,11 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 | link:./Wiki/Westlands.md[Westlands] | 50,000 sq km | (TBD) | ... | Sounorra
 |===
 
-==== The Three Sisters
+=== The Three Sisters
 
-The Three Sisters are a group of three nations located in southern Eanorra. The name __Three Sisters__ comes from pre-Drift ruler, Kind Aputoku, who ruled all of Eanorra and gifted his three daughters (Ende, Obe, and Tsue) with the lands that would each become their own nation. 
+The link:./Wiki/The_Three_Sisters.md[Three Sisters] is a collective term for three neighboring nations in the Eanorra region of West Yanorra: **Totoku**, **Endotoku**, and **Obetoku**. 
 
-In the modern era, the three nations share culture and language, as well as resources. Free trade exists between the three nations, though they remain politically independent. 
+These islands form a distinct geographical and cultural cluster, sharing historical ties and maritime connections despite being governed as separate territories. 
 
 === Aunqara
 

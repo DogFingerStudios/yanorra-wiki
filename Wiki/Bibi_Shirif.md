@@ -33,11 +33,11 @@
 
 ## Geography
 
-Located in the southern and eastern part of West Yanorra. It borders Duvessa to the north and Southmoa to the east.
+(TBD)
 
 ### Location
 
-Southern and eastern West Yanorra; northern border with Duvessa; eastern border with Southmoa.
+Located in Eanorra, Bibi Shirif occupies the much of the eastern shore, with a long coastline along the Veloku Ocean. Bibi Shirif also claims several islands and land in the north west portion of [Dudburia](Dudburia.md). 
 
 ### Terrain
 

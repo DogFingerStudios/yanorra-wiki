@@ -6,11 +6,17 @@ Though sparsely populated and difficult to reach, Saint Aveline holds strategic,
 
 ---
 
-## Geographic Position
+## Geography
 
-Saint Aveline lies north of [Sabletown Isle](./Sabletown_Isle.md) beyond the regular stops of maritime supply routes. It is surrounded by smaller satellite islets and exposed shoals, many of which are uncharted or only partially mapped due to shifting tides and hazardous waters.
+**Location**:Saint Aveline lies north of [Sabletown Isle](./Sabletown_Isle.md) beyond the regular stops of maritime supply routes. It is surrounded by smaller satellite islets and exposed shoals, many of which are uncharted or only partially mapped due to shifting tides and hazardous waters.
 
 The island sits beneath volatile atmospheric convergence zones influenced by Yanorra’s unstable orbit and the competing gravitational effects of [The Drift](./The_Drift.md). As a result, sudden storms, unpredictable winds, and extreme seasonal swings are common.
+
+**Terrain**: Saint Aveline is a volcanic island dominated by the dormant caldera of an ancient volcano. The landscape is rugged and windswept, with rocky cliffs, narrow coves, and limited arable land. The coastline is marked by jagged basalt formations and treacherous reefs.
+
+The interior rises toward the volcanic peaks, with low ridgelines and sparse vegetation adapted to harsh conditions. Most significantly, the caldera contains a substantial freshwater lake—a critical resource for the settlement's survival. Within this crater lake lies **Lognoms Island**, a small landmass of volcanic origin. The island hosts **Lognoms Pond**, a shallow freshwater basin whose origins and properties remain poorly understood by local scholars.
+
+Access to both Lognoms Island and the crater lake is limited by steep caldera walls and unpredictable water conditions. The site holds both practical and speculative significance; some residents regard it as sacred ground, while others view it as a potential secondary water source should coastal supplies fail.
 
 ---
 
@@ -24,7 +30,7 @@ Vegetation is limited to hardy grasses, lichen, and wind-resistant shrubs. Anima
 
 ## Political Status
 
-Saint Aveline is **technically claimed by [Duvessa](./Duvessa.md) as part of its Farlands holdings. In practice, governance is minimal. The island receives infrequent oversight, and most administrative authority is exercised locally.
+Saint Aveline is **technically** claimed by [Duvessa](./Duvessa.md) as part of its holdings in [The Farlands](./The_Farlands.md). In practice, governance is minimal. The island receives infrequent oversight, and most administrative authority is exercised locally.
 
 The ruling power within Duvessa, the [The Dornish Order](./The_Dornish_Order.md), maintains nominal jurisdiction over the island but does not station permanent forces there. Enforcement is largely symbolic, relying on supply control rather than direct rule.
 
@@ -59,18 +65,6 @@ The island is also associated with unexplained phenomena: atmospheric anomalies,
 Pre-Drift records indicate Saint Aveline was once a minor but functional waypoint during northern exploratory efforts. After The Drift, worsening sea conditions severed regular travel, and the island’s role shifted from transit hub to long-term outpost.
 
 Despite multiple proposals to abandon the settlement entirely, Saint Aveline has remained continuously inhabited—largely due to inertia, tradition, and the absence of feasible large-scale evacuation.
-
----
-
-## Current Assessment
-
-Modern Yanorran encyclopedias classify Saint Aveline as:
-- *Inhabited*
-- *Strategically marginal*
-- *Environmentally high-risk*
-- *Politically peripheral*
-
-Yet, its continued existence challenges prevailing assumptions about survivability in the Farlands and serves as a living case study in adaptation under post-Drift conditions.
 
 ---
 

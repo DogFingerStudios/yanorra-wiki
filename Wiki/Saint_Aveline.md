@@ -1,4 +1,7 @@
 # Saint Aveline
+![Saint Aveline - Globe View](../Maps/SaintAveline-GlobeView.jpeg)
+![Saint Aveline - Localized View](../Maps/SaintAveline-LocalizedView.png)
+
 
 **Saint Aveline** is a remote island settlement located in [The Farlands](./The_Farlands.md), far north of the primary trade routes between Duvessa and Velu. It is widely regarded as one of the most isolated inhabited places in the known world, defined as much by environmental hostility and uncertainty as by human persistence.
 
@@ -8,7 +11,7 @@ Though sparsely populated and difficult to reach, Saint Aveline holds strategic,
 
 ## Geography
 
-**Location**:Saint Aveline lies north of [Sabletown Isle](./Sabletown_Isle.md) beyond the regular stops of maritime supply routes. It is surrounded by smaller satellite islets and exposed shoals, many of which are uncharted or only partially mapped due to shifting tides and hazardous waters.
+**Location**: Saint Aveline lies north of [Sabletown Isle](./Sabletown_Isle.md) beyond the regular stops of maritime supply routes. It is surrounded by smaller satellite islets and exposed shoals, many of which are uncharted or only partially mapped due to shifting tides and hazardous waters.
 
 The island sits beneath volatile atmospheric convergence zones influenced by Yanorra’s unstable orbit and the competing gravitational effects of [The Drift](./The_Drift.md). As a result, sudden storms, unpredictable winds, and extreme seasonal swings are common.
 
@@ -56,7 +59,7 @@ Fuel, medicine, replacement machine parts, and preserved food are considered cri
 
 Among Yanorran scholars and storytellers, Saint Aveline occupies a liminal place in cultural memory. It is often described as *“the last light northward”*—a symbol of endurance at the edge of the known world.
 
-The island is also associated with unexplained phenomena: atmospheric anomalies, electromagnetic interference, and sightings attributed to environmental stress or sensory distortion. While none are officially classified as supernatural, Saint Aveline is frequently cited in academic debates regarding the limits of post-Drift science.
+The island is also associated with unexplained phenomena: atmospheric anomalies, electromagnetic interference, and sightings attributed to environmental stress or sensory distortion. While none are officially classified as supernatural, Saint Aveline is frequently cited as an example of the limitations of scientific understanding in the face of extreme environments.
 
 ---
 

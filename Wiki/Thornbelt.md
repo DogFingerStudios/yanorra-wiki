@@ -1,5 +1,7 @@
 # Thornbelt
 
+<MapElement zoom="5" center="-29.03, 50.91" minZoom="3" maxZoom="7" scrollWheelZoom="true" debug="true" />
+
 #### Table of Contents
 - [Overview](#overview)
 - [Geography](#geography)

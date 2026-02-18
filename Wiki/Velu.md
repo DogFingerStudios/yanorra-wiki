@@ -1,5 +1,7 @@
 # Velu
 
+<MapElement zoom="4" center="-30.00, 135.56" minZoom="3" maxZoom="7" scrollWheelZoom="true" debug="true" />
+
 #### Table of Contents
 - [Overview](#overview)
 - [Geography](#geography)

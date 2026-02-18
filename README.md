@@ -2,6 +2,8 @@
 
 ![Yanorra Map](Maps/Yanorra.png)
 
+<MapElement zoom="4" center="-86.69, 41.63" minZoom="3" maxZoom="7" scrollWheelZoom="true" debug="true" />
+
 ## Summary
 
 > **Note:** Yanorra is a terrestrial planet in a state of societal and environmental crisis.

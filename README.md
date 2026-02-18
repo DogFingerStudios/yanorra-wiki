@@ -1,17 +1,14 @@
 # Yanorra
 
 <div style="display: flex; gap: 12px; align-items: flex-start; padding: 12px 14px; border-radius: 6px; background: #E9F2FF; border: 1px solid #B3D4FF; margin: 12px 0;">
-	<div style="display: flex; align-items: center; justify-content: center; color: #0C66E4; flex-shrink: 0;">
-		<span role="img" aria-label="info panel">ℹ️</span>
-	</div>
-	<div>
-        <p>Yanorra is a fictional Earth-like planet and the primary setting of the game <a href="https://dogfinger.com/" target="_blank"><strong>Saint Aveline</strong></a>.</p>
+    <div>
+        <p>Yanorra is a fictional Earth-like planet and the primary setting of the game <a href="https://dogfinger.com/saintaveline/" target="_blank"><strong>Saint Aveline</strong></a>.</p>
         <p>Similar in size, gravity, and atmosphere to Earth, Yanorra supports complex ecosystems and human civilizations. Roughly 400 Earth years ago, a massive object known as <strong>Lo-Disporum</strong> disrupted its orbit in an event called <strong>The Drift</strong>, forcing the planet into an unstable elliptical path around its red-hued star, the <em>Ember Mother</em>.</p>
         <p>Since then, seasons have grown extreme and unpredictable, sea travel has become perilous due to unstable tides from its two moons, and much of the planet remains unreachable.</p>
         <p>Technologically, Yanorra resembles a restrained late-20th-century world: electricity is unreliable, aircraft do not exist, and computing is largely text-based through a terminal network known as the <em>Intalink</em>.</p>
         <p>The result is a world both familiar and fractured, shaped by environmental instability and existential uncertainty.</p>
         <p><strong>This wiki documents Yanorra’s geography, history, culture, and technology from an in-world perspective, evolving alongside the game and its community.</strong></p>
-	</div>
+    </div>
 </div>
 
 ![Yanorra Map](Maps/Yanorra.png)

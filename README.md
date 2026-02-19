@@ -12,7 +12,7 @@
 </div>
 
 ![](Maps/Yanorra.png)
-<MapElement zoom="4" center="-86.69, 41.63" minZoom="2" maxZoom="7" scrollWheelZoom="true" debug="true" />
+<MapElement zoom="4" center="-86.69, 41.63" minZoom="2" maxZoom="7" scrollWheelZoom="true" debug="true" showFullScreenLink="true" />
 
 ## Summary
 

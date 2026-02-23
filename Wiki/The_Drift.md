@@ -7,7 +7,7 @@ Although its precise astronomical cause remains debated, most scholars agree tha
 
 ---
 
-# **Overview**
+## **Overview**
 
 * The Drift **altered Yanorra’s orbit**, transforming the former regular yearly cycle into an unpredictable ellipse.
 * Summers became **short, severe, and sudden**; winters grew **long, violent, and deadly**. Seasonal timing no longer aligns with any pre-Drift calendar system.
@@ -19,7 +19,7 @@ Many regions divide history into **Before Drift (BD)** and **After Drift (AD)**.
 
 ---
 
-# **Historical Background**
+## **Historical Background**
 
 Prior to The Drift, Yanorra’s civilizations were experiencing a period of accelerated maritime expansion. Explorers ventured across the Eastvoid and Veloku Oceans, returning with stories and artifacts—most famously the disputed accounts of the lands of **Aunqara**. Maritime knowledge was advancing rapidly, and coastal trade routes linked the continents efficiently.
 
@@ -29,7 +29,7 @@ All of this changed after the rising of a new red wanderer in the night sky: **L
 
 ---
 
-# **Onset of The Drift**
+## **Onset of The Drift**
 
 ### **Appearance of the Red Wanderer**
 
@@ -52,9 +52,9 @@ Then came the first **Cycle Collapse Winter**, and all debate ended.
 
 ---
 
-# **Consequences of the Drift**
+## **Consequences of the Drift**
 
-## **Orbital Instability**
+### **Orbital Instability**
 
 Yanorra now moves on an **elongated and unpredictable ellipse**. Astronomers cannot agree whether:
 
@@ -66,7 +66,7 @@ All agree, however, that the old “year” has no meaning — hence the modern 
 
 ---
 
-## **Climate Transformation**
+### **Climate Transformation**
 
 The Drift destroyed the previous climate model:
 
@@ -79,7 +79,7 @@ Coastal nations in West Yanorra lost nearly all capacity for stable farming, whi
 
 ---
 
-## **Maritime and Geographic Isolation**
+### **Maritime and Geographic Isolation**
 
 Before The Drift, oceanic travel connected the known continents. After the orbital shift:
 
@@ -92,7 +92,7 @@ The known world effectively shrank to East and West Yanorra.
 
 ---
 
-## **Societal Collapse**
+### **Societal Collapse**
 
 The Drift triggered:
 
@@ -108,7 +108,7 @@ Most Yanorrans today believe global extinction is a matter of time.
 
 ---
 
-# **Religious and Cultural Interpretations**
+## **Religious and Cultural Interpretations**
 
 Different cultures read The Drift differently:
 
@@ -130,7 +130,7 @@ A cosmic omen signaling the beginning of the “Long Night” era.
 
 ---
 
-# **Scientific Understanding (Modern Consensus)**
+## **Scientific Understanding (Modern Consensus)**
 
 While tools remain primitive and data incomplete, astronomers generally agree:
 
@@ -144,7 +144,7 @@ Three observatories maintain active **Lo Disporum Candidate Catalogues**, though
 
 ---
 
-# **Legacy of The Drift**
+## **Legacy of The Drift**
 
 The Drift forms the backbone of modern Yanorran identity:
 

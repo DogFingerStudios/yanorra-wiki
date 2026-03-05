@@ -1,7 +1,7 @@
 # Yanorra
 
 ![](Maps/Yanorra.png)
-<MapElement zoom="2" center="-59.95, 112.00" minZoom="2" maxZoom="7" scrollWheelZoom="true" debug="true" showFullScreenLink="true" />
+<span y-type="mapelement" y-zoom="2" y-center="-59.95, 112.00" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true" y-showfullscreenlink="true"/>
 
 ## Summary
 

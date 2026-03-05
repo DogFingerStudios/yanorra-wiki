@@ -1,6 +1,6 @@
 # Velu
 
-<MapElement zoom="4" center="-30.00, 135.56" minZoom="2" maxZoom="7" scrollWheelZoom="true" debug="true" />
+<span y-type="mapelement" y-zoom="4" y-center="-30.00, 135.56" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 #### Table of Contents
 - [Overview](#overview)

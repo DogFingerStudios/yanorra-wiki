@@ -1,6 +1,6 @@
 # Thornbelt
 
-<MapElement zoom="5" center="-29.03, 50.91" minZoom="2" maxZoom="7" scrollWheelZoom="true" debug="true" />
+<span y-type="mapelement" y-zoom="5" y-center="-29.03, 50.91" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 #### Table of Contents
 - [Overview](#overview)

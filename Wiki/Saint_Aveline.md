@@ -73,13 +73,13 @@ Despite multiple proposals to abandon the settlement entirely, Saint Aveline has
 
 ---
 
-## Who was Saint Aveline?
+## Origin of the Name
 
 (Lucien)/(Matthias) Aveline began his journey from Port Sable in [Duvessa](./Duvessa.md) as part of a small exploratory convoy attempting to establish a permanent northern waypoint beyond Sabletown Isle. Several ships were lost on the shoals areound the volcanic island. Aveline's ship barely managed to beach, but thanks to sheer determination and a skilled crew, they made it. His journals described three things that frightened most other adventurers:
 
-The magnetic irregularities around the island.
+The magnetic irregularities around the entire island.
 The low-frequency atmospheric noise carried by the winds.
-And the strange behavior of the crater lake.
+And the strange behavior of Lognoms Pond (crater lake).
 
 He theorized that the volcanic basin interacted with the gravitational distortions associated with the Drift, producing subtle electromagnetic effects. When the crust shifts, electric fields form, sometimes producing faint light in the air.
 

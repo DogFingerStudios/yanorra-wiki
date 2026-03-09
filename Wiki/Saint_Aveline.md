@@ -73,4 +73,26 @@ Despite multiple proposals to abandon the settlement entirely, Saint Aveline has
 
 ---
 
+## Who was Saint Aveline?
+
+(Lucien)/(Matthias) Aveline began his journey from Port Sable in [Duvessa](./Duvessa.md) as part of a small exploratory convoy attempting to establish a permanent northern waypoint beyond Sabletown Isle. Several ships were lost on the shoals areound the volcanic island. Aveline's ship barely managed to beach, but thanks to sheer determination and a skilled crew, they made it. His journals described three things that frightened most other adventurers:
+
+The magnetic irregularities around the island.
+The low-frequency atmospheric noise carried by the winds.
+And the strange behavior of the crater lake.
+
+He theorized that the volcanic basin interacted with the gravitational distortions associated with the Drift, producing subtle electromagnetic effects. When the crust shifts, electric fields form, sometimes producing faint light in the air.
+
+What Aveline did was nothing short of genius. He mapped the reef lines and studied the wind corridors created by the caldera cliffs. Using this knowledge, he established a series of signal fires along the southern cliffs to guide ships through the hazardous approach. The fires were placed precisely where the wind would keep them visible even in fog.
+
+Ships that followed his signals survived.
+
+Ships that ignored them wrecked.
+
+Over decades the settlement grew around those signal fires.
+
+When Aveline eventually died, the settlers buried him overlooking the inlet that later became the harbor. In their telling, he had not simply mapped the island. He had tamed it.
+
+---
+
 *See also:* [The Farlands](./The_Farlands.md), [The Riftlands](./The_Riftlands.md), [Duvessa](./Duvessa.md), [The Drift](./The_Drift.md)

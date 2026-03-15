@@ -23,7 +23,7 @@
 
 ## Overview
 
-- **Name**: Samerland  
+- **Name**: Samariland  
 - **Capital**: Totoku (population: TBD)
 - **Largest City**: (TBD)
 - **Area**: (TBD) km² (15,000 sq mi)

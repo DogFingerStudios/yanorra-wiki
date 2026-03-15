@@ -77,7 +77,7 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 | [Obetoku](./Wiki/Obetoku.md) | 120,000 sq km | ~700,000 | Sanceibei | Wanorra |
 | [Ronobetu](./Wiki/Ronobetu.md) | 350,000 sq km | ~1.9 million | Cam Tower | Eanorra |
 | [S'Tsutodo](./Wiki/S_Tsutodo.md) | 200,000 sq km | ~700,000 | Dima Eta | Eanorra |
-| [Samerland](./Wiki/Samerland.md) | 15,000 sq km | ~1.2 million | Thetbury | Dudbinia |
+| [Samariland](./Wiki/Samariland.md) | 15,000 sq km | ~1.2 million | Thetbury | Dudbinia |
 | [Soumoa](./Wiki/Soumoa.md) | 140,000 sq km | ~1 million | Moa City | Wanorra |
 | [Stanshonia](./Wiki/Stanshonia.md) | 14,000 sq km | ~1.5 million | Carmouth | Dudbinia |
 | [Thornbelt](./Wiki/Thornbelt.md) | 210,000 sq km | ~800,000 | Holt | Eanorra |

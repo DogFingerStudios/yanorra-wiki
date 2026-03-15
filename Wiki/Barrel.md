@@ -103,7 +103,7 @@ Every year on the same day, known as **Island Day**, a single stout vessel is pr
 
 The ship departs at dawn amid ceremonies, the docks crowded with thousands of onlookers. Bells toll, horns sound, and flower petals are scattered on the waves as the vessel slips into the southern horizon. No ship has ever returned. 
 
-Voyages from other nations, such as Samerland and Bibi Shirif, have also been attempted, but all ended in failure. The only anomaly came decades ago, when the remains of a small fishing boat washed ashore near Seshai, its hull shattered but its mast still intact — carved in a style unrecognized by any shipbuilder in Barrel or beyond.
+Voyages from other nations, such as Samariland and Bibi Shirif, have also been attempted, but all ended in failure. The only anomaly came decades ago, when the remains of a small fishing boat washed ashore near Seshai, its hull shattered but its mast still intact — carved in a style unrecognized by any shipbuilder in Barrel or beyond.
 
 Some claim this is proof the islanders still live, taking in the voyagers but forbidding their return. Others believe the expeditions are swallowed by the ocean. 
 

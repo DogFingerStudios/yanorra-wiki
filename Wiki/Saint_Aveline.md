@@ -20,7 +20,7 @@ The island sits beneath volatile atmospheric convergence zones influenced by Yan
 **Terrain**: Saint Aveline is a volcanic island dominated by the dormant caldera of an ancient volcano. The landscape is rugged and windswept, with rocky cliffs, narrow coves, and limited arable land. The coastline is marked by jagged basalt formations and treacherous reefs.
 
 The interior rises toward the volcanic peaks, with low ridgelines and sparse vegetation adapted to harsh conditions. Most significantly, the caldera contains a substantial freshwater lake—a critical resource for the settlement's survival. Within this crater lake lies **Lognom's Island**, a small landmass of volcanic origin. The island hosts **Lognom's Pond**, a shallow freshwater basin whose origins and properties remain poorly understood by local scholars.
-    
+
 Access to both Lognom's Island and the crater lake is limited by steep caldera walls and unpredictable water conditions. The site holds both practical and speculative significance; some residents regard it as sacred ground, while others view it as a potential secondary water source should coastal supplies fail.
 
 ---

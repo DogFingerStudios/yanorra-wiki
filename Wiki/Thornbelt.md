@@ -1,60 +1,46 @@
 # Thornbelt
 
+<link rel="stylesheet" href="../ai-generated.css">
+
 <span y-type="mapelement" y-zoom="5" y-center="-29.03, 50.91" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
-#### Table of Contents
-- [Overview](#overview)
-- [Geography](#geography)
-- [Climate](#climate)
-- [History](#history)
-- [Politics](#politics)
-- [Economy](#economy)
-- [Culture](#culture)
-- [Technology](#technology)
-- [Military](#military)
-- [Demographics](#demographics)
-- [Infrastructure](#infrastructure)
-- [Environment](#environment)
-- [Notable Events](#notable-events)
-
-**Thornbelt** is a thin isthmus nation that connects northern parts of Eanorra and Wanorra, namely the nations of Ronobetu and Duvessa. Thornbelt acts as an important landbridge for trade betwen the eastern and western parts of West Yanorra.
-
 <a href="../Maps/Thornbelt.png" target="_blank"><img src="../Maps/Thornbelt.png" width="50%" height="50%"></a>
+
+**Thornbelt** is a thin isthmus nation that connects northern parts of Eanorra and Wanorra, namely the nations of Ronobetu and Duvessa. It serves as a crucial landbridge for trade between the eastern and western parts of West Yanorra, facilitating economic exchange and cultural interactions.
+
+---
 
 ## Overview
 
 - **Name**: Thornbelt  
 - **Capital**: Holt (population: ~80,000)
-- **Largest City**: Gate 1 (population: ~115,000)
+- **Largest City**: East Gate 1 (population: ~115,000)
 - **Population**: 645,000 (estimated)  
 - **Area**: 31,000 km² (12,000 sq mi)
 - **Government**: (TBD)
 - **Official Language**: (TBD)  
 - **Currency**: (TBD)  
-- **Religion**: (TBD)  
+- **Religion**: (TBD)
+
+---
 
 ## Geography
 
-**Thornbelt** is a thin isthmus nation that connecting the subcontinents of Eanorra and WanorraIt is bordered by the Brooding Sea to the south and the Sea of Storms to the north. The terrain is primarily flat low-lying land, with some areas of dense forest and wetlands. The region is prone to flooding during heavy rains, which can impact transportation and agriculture.
+**Thornbelt** is a thin isthmus nation that connecting the subcontinents of Eanorra and Wanorra. It is bordered by the Brooding Sea to the south and the Sea of Storms to the north. 
 
-Thornbelt serves as a crucial landbridge for trade between the eastern and western parts of West Yanorra, facilitating economic exchange and cultural interactions.
-
-### Location
-
-(TBD)
 
 ### Terrain 
 
-(TBD)
+<span class="ai-generated" data-ai-label="AI Generated" tabindex="0">Most of Thornbelt rests on a narrow band of a low plateau, with the land generally sitting between 50 and 100 feet above sea level. Along both coasts, that plateau breaks suddenly into sharp cliffs that drop toward the surrounding waters, shaping travel routes, settlement patterns, and the region’s exposure to storm-driven flooding.</span>
 
 ### Key Regions
 
 - **Holt**: The capital city, located in the central part of Thornbelt. It serves as the administrative hub for the tribal council that governs the nation.
-- **Gate 1**: The largest city in Thornbelt, situated on the border with Ronobetu. It functions as a major gateway, overseeing and regulating travel and trade between Thornbelt and its western neighbor.
+- **East Gate 1**: The largest city in Thornbelt, situated on the border with Ronobetu. It functions as a major gateway, ovewerseeing and regulating travel and trade between Thornbelt and its western neighbor.
 
-## Climate
+## Climate and Environment
 
-(TBD)
+The climate of Thornbelt is characterized by mild temperatures and high humidity, influenced by its proximity to the Brooding Sea and the Sea of Storms. The region experiences frequent rainfall, particularly during the storm season, which contributes to the lush vegetation and fertile soil that supports agriculture.
 
 ## History
 

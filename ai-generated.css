@@ -1,0 +1,30 @@
+.ai-generated {
+  position: relative;
+  display: inline-block;
+  cursor: help;
+}
+
+.ai-generated::after {
+  content: attr(data-ai-label);
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 8px);
+  transform: translateX(-50%) translateY(4px);
+  padding: 4px 8px;
+  border-radius: 6px;
+  background: rgba(20, 20, 20, 0.92);
+  color: #fff;
+  font-size: 12px;
+  line-height: 1.2;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 120ms ease, transform 120ms ease;
+  z-index: 999;
+}
+
+.ai-generated:hover::after,
+.ai-generated:focus-visible::after {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}

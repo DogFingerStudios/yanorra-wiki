@@ -1,6 +1,6 @@
 # Velu
 
-<span y-type="mapelement" y-zoom="4" y-center="-30.00, 135.56" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="4" y-center="-31.13, 135.69" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 #### Table of Contents
 - [Overview](#overview)

@@ -26,7 +26,7 @@ Because no vessel has successfully crossed the Eastvoid Ocean since that time, t
 
 ---
 
-# Thalen of the Eastvoid and the Voyage to Anqara
+## Thalen of the Eastvoid and the Voyage to Anqara
 
 Thalen of the Eastvoid was a navigator from the Veluan city of **Byad**, remembered as one of the final great maritime explorers of the pre-Drift age. 
 

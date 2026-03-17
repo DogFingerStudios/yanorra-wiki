@@ -21,7 +21,7 @@ Many regions divide history into **Before Drift (BD)** and **After Drift (AD)**.
 
 ## **Historical Background**
 
-Prior to The Drift, Yanorra’s civilizations were experiencing a period of accelerated maritime expansion. Explorers ventured across the Eastvoid and Veloku Oceans, returning with stories and artifacts—most famously the disputed accounts of the lands of **Aunqara**. Maritime knowledge was advancing rapidly, and coastal trade routes linked the continents efficiently.
+Prior to The Drift, Yanorra’s civilizations were experiencing a period of accelerated maritime expansion. Explorers ventured across the Eastvoid and Veloku Oceans, returning with stories and artifacts—most famously the disputed accounts of the lands of **Anqara**. Maritime knowledge was advancing rapidly, and coastal trade routes linked the continents efficiently.
 
 The steady rhythms of the old orbit fostered predictable seasons and long-term agricultural planning. Records from this era describe the climate as calm, with “gentle summers and winters that did not overstay their welcome.”
 
@@ -86,7 +86,7 @@ Before The Drift, oceanic travel connected the known continents. After the orbit
 * **Serya** and **Mirelda's** competing tides grew chaotic.
 * Storms became too frequent to predict.
 * Long-distance navigation all but ceased.
-* The Aunqaran migration stories became untestable myths.
+* The Anqaran migration stories became untestable myths.
 
 The known world effectively shrank to East and West Yanorra.
 

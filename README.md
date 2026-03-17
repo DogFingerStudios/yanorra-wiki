@@ -25,9 +25,9 @@ Modern cartography operates with clearly defined boundaries of knowledge rather 
 
 The existence of other continents or distant landmasses remains a subject of debate. Numerous myths and historical accounts describe lands beyond the known world, many of which originate shortly before The Drift, when advancements in ship-building made long-distance oceanic exploration possible.
 
-**Thalen of the Eastvoid** is among the most frequently cited figures in these accounts. He claimed to have crossed the Eastvoid Ocean and returned with unfamiliar artifacts, plants, and wildlife from a land he and others on the voyage called **Aunqara**.
+**Thalen of the Eastvoid** is among the most frequently cited figures in these accounts. He claimed to have crossed the Eastvoid Ocean and returned with unfamiliar artifacts, plants, and wildlife from a land he and others on the voyage called **[Anqara](./Anqara.md)**. 
 
-According to these accounts, a group now known as the **Aunqaran** accompanied Thalen back and settled primarily in Velu, with smaller populations elsewhere. The existence of Aunqara, as well as the origin of the Aunqaran, is widely disputed and regarded by many scholars as mythological. The Aunqaran themselves remain a small, insular community and continue to assert cultural ties to Aunqara.
+According to these accounts, a group now known as the **Anqaran** accompanied Thalen back and settled primarily in Velu, with smaller populations elsewhere. The existence of Anqara, as well as the origin of the Anqaran, is widely disputed and regarded by many scholars as mythological. The Anqaran themselves remain a small, insular community and continue to assert cultural ties to Anqara.
 
 Since The Drift, several expeditions have attempted to cross the Eastvoid and Westvoid Oceans in search of other lands. None have returned. The oceans are considered impassable under present conditions, and the existence of other continents remains unverified.
 
@@ -91,9 +91,9 @@ The [Three Sisters](./Wiki/The_Three_Sisters.md) is a collective term for three 
 
 These islands form a distinct geographical and cultural cluster, sharing historical ties and maritime connections despite being governed as separate territories.
 
-### Aunqara
+### Anqara
 
-Aunqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a mariner active several decara before The Drift. Surviving records describe a voyage to an unfamiliar shore and the return of artifacts, plant specimens, and a small group of people who identified themselves as **Aunqaran**. These individuals are believed to have settled primarily in Velu, where their descendants remain a distinct and insular community. While some scholars cite the continued presence of the Aunqaran and associated material culture as evidence supporting Thalen's account, others argue that the voyage was misrecorded or later mythologized following the collapse of reliable navigation. No confirmed crossings of the Eastvoid Ocean have occurred since The Drift, and Aunqara itself remains unverified.
+Anqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of its existence originates primarily from accounts attributed to **Thalen of the Eastvoid**, a mariner active several decara before The Drift. Surviving records describe a voyage to an unfamiliar shore and the return of artifacts, plant specimens, and a small group of people who identified themselves as **Anqaran**. These individuals are believed to have settled primarily in Velu, where their descendants remain a distinct and insular community. While some scholars cite the continued presence of the Anqaran and associated material culture as evidence supporting Thalen's account, others argue that the voyage was misrecorded or later mythologized following the collapse of reliable navigation. No confirmed crossings of the Eastvoid Ocean have occurred since The Drift, and Anqara itself remains unverified.
 
 ### Oceans and Seas
 
@@ -103,7 +103,7 @@ Aunqara is a disputed land said to exist beyond the Eastvoid Ocean. Knowledge of
 - Travel from West Yanorra to East Yanorra now requires a stop in the Riftlands.
 
 #### Eastvoid Ocean
-- Ocean separating East Yanorra from the mythical land of Aunqara.
+- Ocean separating East Yanorra from the mythical land of Anqara.
 
 #### Westvoid Ocean
 (TBD)

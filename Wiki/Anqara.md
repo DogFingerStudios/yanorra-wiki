@@ -10,7 +10,7 @@ The existence of Anqara itself remains unverified. Since **The Drift**, the East
 
 ---
 
-# Theorized Continent of Anqara
+## Theorized Continent of Anqara
 
 Anqara is believed to lie somewhere east of **East Yanorra**, beyond the Eastvoid Ocean.
 
@@ -46,7 +46,7 @@ Skepticism toward Thalen’s voyage has persisted for centuries. Since The Drift
 
 ---
 
-# The Anqaran People
+## The Anqaran People
 
 The **Anqaran** are a small cultural group believed to descend from the people who accompanied Thalen back from Anqara.
 
@@ -62,7 +62,7 @@ Over time, however, political centralization in Velu and competition for farmlan
 
 ---
 
-# Early Anqaran Settlements in Velu
+## Early Anqaran Settlements in Velu
 
 **Several Veluan traditions record that among the Anqaran settlers were two prominent figures known as Aunqua and Auntia, who arrived with roughly twenty followers and a collection of unfamiliar plants and seeds.** 
 
@@ -76,7 +76,7 @@ When Veluans attempted to cultivate nashi themselves, they discovered the plant 
 
 ---
 
-# Nashi
+## Nashi
 
 **Nashi is an agricultural plant introduced by the Anqaran settlers that produces a dark, bitter-sweet substance resembling chocolate.** 
 
@@ -94,7 +94,7 @@ These methods prevented the plant from spreading into surrounding soil.
 
 ---
 
-# Discovery of Reddle Stone
+## Discovery of Reddle Stone
 
 As tensions with Veluan farmers increased, Anqaran communities were gradually pushed away from the fertile plains and into the mountainous interior of central Velu.
 
@@ -106,7 +106,7 @@ Using this discovery, the Anqarans constructed **containment walls** that allowe
 
 ---
 
-# Founding of Paz
+## Founding of Paz
 
 **After being displaced from the plains, Anqaran settlers and several Veluan followers established a settlement in the central mountains known as *Paz*.** 
 
@@ -118,7 +118,7 @@ Paz eventually became the cultural and agricultural center of the Anqaran popula
 
 ---
 
-# Post-Drift Relations with Velu
+## Post-Drift Relations with Velu
 
 Following **The Drift**, Velu attempted several times to seize the Reddle Stone deposits located in Anqaran territory.
 
@@ -132,7 +132,7 @@ A boundary agreement was eventually reached.
 
 ---
 
-# Modern Anqaran Communities
+## Modern Anqaran Communities
 
 Today the Anqaran people remain a distinct cultural group within East Yanorra.
 

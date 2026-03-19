@@ -46,25 +46,130 @@ The climate of Thornbelt is characterized by mild temperatures and high humidity
 
 ### Pre-Drift Era (~500,000 cycles ago, ~1,369 Earth years)
 
-The area of Thornbelt was inhabited by various nomadic tribes who relied on fishing and hunting for sustenance. The region's strategic location made it a crossroads for trade and cultural exchange between several ancient civilizations.
+Before The Drift, Thornbelt was a narrow isthmus linking the Ronobetu, to the west, to Duvessa, in the east. 
 
-As trade increased, Thornebelt became a strategic land bridge as sea travel was often dangerous due to the unpredictable weather patterns of the Brooding Sea and the Sea of Storms. The tribes began to establish more permanent settlements.
+Though formally claimed by Ronobetu, its authority in Thornbelt was asserted by a patchwork of tribunal communities, each with its own customs and loyalties. The region was instead shaped by a mosaic of semi-settled communities, fishing enclaves, caravan stops, and kin-based settlements whose identities were distinct from both Ronobetu and Duvessa.
 
-When Ronobetu was established as a kingdom, it sought to control the trade routes through Thornbelt. This led to the construction of fortifications near the border with Duvessa, and to an elevated road system that connected the major settlements in the region.
+These people developed a reputation for being pragmatically independent, culturally hybrid, and protective of passage. While recognizing the nominal authority of Ronobetu, they resisted attempts to be fully integrated, maintaing autonomy and blending cultural influences from both sides. They viewed the isthmus not as land to be owned, but as movement to be managed.
+
+Thornbelt operated on **customary routes** that were well-known crossings where caravans passed, paying tolls along the way. These routes were often contested, with local leaders negotiating with both Ronobetu and Duvessa to maintain their own influence and control over passage.
+
+---
 
 ### The Drift (~146,100 cycles ago, ~400 Earth years)
 
-Soon after The Drift, the region of Thornbelt was significantly affected by the environmental changes and the resulting unpredictable tides. As all nations began to fortify their borders, a contingency in Thornbelt was established and declared their independence from Ronobetu, forming the nation of Thornbelt. The new nation focused on importing agricultural techniques from distant Velu, which allowed them to cultivate the land more effectively.
+The Drift transformed Thornbelt into one of the most strategically critical locations in Yanorra. 
 
-Given the relatively small population, Thornbelt was able to feed itself almost purely through its own agriculture. 
+With the collapse of reliable sea travel, the Brooding Sea became largely impassable, cutting off direct maritime exchange between Ronobetu and the western nations Wanorra and Duvessa and the eastern nations of Eanorra and East Yanorra.
 
-### Post-Drift Era (~145,000–130,000 cycles ago, ~397–356 Earth years)
+Because all viable land routes between these regions passed through Thornbelt, the isthmus became a chokepoint for trade, migration, and communication. As a result, both Ronobetu and Duvessa sought to assert control over the region.
 
-(TBD)
+The people of Thornbelt, this was not opportunity—it was encroachment.
 
-### Current Era (~146,100 cycles, ~400 Earth years since The Drift)
+Caravans grew militarized. Tariffs were dictated rather than negotiated. Ronobetu began speaking not of stewardship, but of **ownership**.
 
-(TBD)
+In response, leaders from across the isthmus gathered in what would become **Holt**, and formally declared independence.
+
+This moment is remembered as **The Severing of the Belt**—not a violent rebellion, but a collective refusal to be a passage controlled by others.
+
+---
+
+### North Gate 1 and the Birth of Control (~145,900 cycles)
+
+The newly independent Thornbelt faced an immediate problem:
+
+If they did not control the flow of people and goods, someone else would.
+
+The solution was radical.
+
+Near the narrowest and most defensible point of the isthmus—slightly north of Holt—they constructed the first true gate:
+
+**North Gate 1**
+
+Unlike the informal crossings of the past, North Gate 1 was:
+
+* fortified with permanent structures
+* staffed continuously
+* empowered to inspect, tax, or deny passage
+
+For the first time in Thornbelt’s history, **movement through the land became conditional**.
+
+---
+
+### Expansion of the Gate Network (~145,900–140,000 cycles)
+
+As pressure from both directions increased, Thornbelt extended its control outward from North Gate 1.
+
+Gates were constructed along the primary east-west trade routes, following a simple directional logic:
+
+* Toward **Ronobetu (west/southwest)**:
+  **West Gate 1, West Gate 2, West Gate 3...**
+* Toward **Duvessa (east/northeast)**:
+  **East Gate 1, East Gate 2, East Gate 3...**
+
+The numbering reflected **distance from North Gate 1**, not cardinal position—solving the problem of the isthmus’s curvature.
+
+Each gate served multiple roles:
+
+* customs enforcement
+* military checkpoint
+* trade coordination hub
+
+Over time, settlements formed organically around these gates.
+
+Notable early developments include:
+
+* **East Gate 1**: Became the largest city due to heavy Duvessan trade traffic entering Thornbelt
+* **West Gate 2**: Site of the *Ronobetuan Recall*, where a convoy of officials was turned back after refusing inspection
+* **East Gate 5**: Known for the *Iron Toll Dispute*, where Duvessan merchants attempted to establish fixed-rate tariffs and were expelled
+
+These events cemented a new reality:
+
+**Thornbelt was no longer a road—it was a filter.**
+
+---
+
+### The Gate Identity (~140,000–130,000 cycles)
+
+Over time, Thornbelt’s identity reorganized around its gates.
+
+Tribal affiliations faded, replaced by **gate-based identity**:
+
+* People identified themselves by where they lived or served
+* Loyalty shifted to local gate communities
+* Economic specialization emerged between gates
+
+Holt was deliberately maintained as a **non-gate capital**, ensuring no single gate could dominate politically.
+
+The **Gate Council** was formed—each major gate sending representatives to Holt to coordinate policy, tariffs, and defense.
+
+---
+
+### Modern Era (~146,100 cycles, ~400 years after The Drift)
+
+Today, Thornbelt is defined by its system of gates.
+
+What began as a defensive measure has evolved into a governing philosophy:
+
+> *“Passage is a privilege, not a right.”*
+
+The gates now function as:
+
+* major population centers
+* economic engines
+* symbols of sovereignty
+
+Trade between Ronobetu and Duvessa still depends on Thornbelt—but neither fully trusts it.
+
+* Ronobetu resents losing control of what it once claimed
+* Duvessa resents the tariffs imposed on its eastern trade flow
+
+Internally, Thornbelt faces its own tensions:
+
+* corruption among gate officials
+* smuggling routes that bypass official crossings
+* disagreements between eastern and western gates over policy
+
 
 ## Politics
 

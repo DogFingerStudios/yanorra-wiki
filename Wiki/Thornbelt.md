@@ -26,17 +26,16 @@
 
 ## Geography
 
-**Thornbelt** is a thin isthmus nation that connecting the subcontinents of Eanorra and Wanorra. It is bordered by the Brooding Sea to the south and the Sea of Storms to the north. 
-
+**Thornbelt** is a thin isthmus nation bordering Duvessa to the east, and Ronobetu to the west, with the Brooding Sea to the south and the Sea of Storms to the north. It serves as a critical land bridge for trade and travel between Ronobetu and Duvessa, ultimately connecting all of Wanorra to Eanorra and the rest of Yanorra as a whole.
 
 ### Terrain 
 
-<span class="ai-generated" data-ai-label="AI Generated" tabindex="0">Most of Thornbelt rests on a narrow band of a low plateau, with the land generally sitting between 50 and 100 feet above sea level. Along both coasts, that plateau breaks suddenly into sharp cliffs that drop toward the surrounding waters, shaping travel routes, settlement patterns, and the region’s exposure to storm-driven flooding.</span>
+Most of Thornbelt rests on a relatively narrow band of plateau, with the land generally sitting between 50 and 100 feet above sea level. Along both coasts, that plateau breaks suddenly into sharp cliffs that drop toward the surrounding waters, shaping travel routes, settlement patterns, and the region’s exposure to storm-driven flooding.
 
 ### Key Regions
 
 - **Holt**: The capital city, located in the central part of Thornbelt. It serves as the administrative hub for the tribal council that governs the nation.
-- **East Gate 1**: The largest city in Thornbelt, situated on the border with Ronobetu. It functions as a major gateway, ovewerseeing and regulating travel and trade between Thornbelt and its western neighbor.
+- **East Gate 31**: The largest city in Thornbelt, situated on the border with Duvessa. It functions as a major gateway, overseeing and regulating travel and trade between Thornbelt and its western neighbor.
 
 ## Climate and Environment
 
@@ -46,13 +45,13 @@ The climate of Thornbelt is characterized by mild temperatures and high humidity
 
 ### Pre-Drift Era (~500,000 cycles ago, ~1,369 Earth years)
 
-Before The Drift, Thornbelt was a narrow isthmus linking the Ronobetu, to the west, to Duvessa, in the east. 
+Before The Drift, Thornbelt was a narrow isthmus linking Ronobetu in the west to Duvessa in the east. Over time, well-known crossings emerged where caravans passed and local communities collected tolls. These routes were frequently contested, with local leaders negotiating with both Ronobetu and Duvessa to preserve their own influence and control over passage.
 
-Though formally claimed by Ronobetu, its authority in Thornbelt was asserted by a patchwork of tribunal communities, each with its own customs and loyalties. The region was instead shaped by a mosaic of semi-settled communities, fishing enclaves, caravan stops, and kin-based settlements whose identities were distinct from both Ronobetu and Duvessa.
+Though formally claimed by Ronobetu, authority in Thornbelt was exercised through a patchwork of tribal communities, each with its own customs and loyalties. These semi-settled groups formed fishing enclaves, caravan stops, and kin-based settlements whose identities remained distinct from both neighboring powers.
 
-These people developed a reputation for being pragmatically independent, culturally hybrid, and protective of passage. While recognizing the nominal authority of Ronobetu, they resisted attempts to be fully integrated, maintaing autonomy and blending cultural influences from both sides. They viewed the isthmus not as land to be owned, but as movement to be managed.
+The people of Thornbelt developed a reputation for being pragmatically independent and strongly protective of passage. While acknowledging Ronobetu’s nominal authority, they resisted full integration by at times asserting local autonomy. Ultimately, they viewed the isthmus as their land, and passage through it as their right to protect. 
 
-Thornbelt operated on **customary routes** that were well-known crossings where caravans passed, paying tolls along the way. These routes were often contested, with local leaders negotiating with both Ronobetu and Duvessa to maintain their own influence and control over passage.
+<!-- Mention any significant events, conflicts, or cultural developments during this period. -->
 
 ---
 
@@ -60,17 +59,15 @@ Thornbelt operated on **customary routes** that were well-known crossings where 
 
 The Drift transformed Thornbelt into one of the most strategically critical locations in Yanorra. 
 
-With the collapse of reliable sea travel, the Brooding Sea became largely impassable, cutting off direct maritime exchange between Ronobetu and the western nations Wanorra and Duvessa and the eastern nations of Eanorra and East Yanorra.
+With the collapse of reliable sea travel, direct maritime exchange between Ronobetu and Duvessa across the Brooding Sea became impossible. The only land route that existed was through Thornbelt, thus making the isthmus a chokepoint for trade, migration, and communication. 
 
-Because all viable land routes between these regions passed through Thornbelt, the isthmus became a chokepoint for trade, migration, and communication. As a result, both Ronobetu and Duvessa sought to assert control over the region.
+Both Ronobetu and Duvessa sought to assert control over the region. Caravans from Ronobetu heading east toward Duvessa became militarized. Soldiers foritified the crossing at strategic points, demanding tariffs from anyone traveling through the checkpoint. Even those traveling through Thornbelt itself were not exempt from the tariffs. Duvessa, in response, began making claims to territory well within Thornbelt and fortifying their own areas, demanding more tariffs.
 
-The people of Thornbelt, this was not opportunity—it was encroachment.
+As the effects of The Drift settled in, the people of Thornbelt found themselves caught between two powerful neighbors, each seeking to control the flow of goods through what they viewed as their land. 
 
-Caravans grew militarized. Tariffs were dictated rather than negotiated. Ronobetu began speaking not of stewardship, but of **ownership**.
+Approximately <span class="ai-generated" data-ai-label="~10 Earth years" tabindex="0">3,500 cycles</span> after The Drift, leaders from across the isthmus gathered in the small town of  **Holt** to formalize their independence. They demanded all soldiers from both sides leave the isthmus, and declared that passage through Thornbelt would be controlled by its own people, not by foreign powers.
 
-In response, leaders from across the isthmus gathered in what would become **Holt**, and formally declared independence.
-
-This moment is remembered as **The Severing of the Belt**—not a violent rebellion, but a collective refusal to be a passage controlled by others.
+This moment is remembered as **The Severing of the Belt** and is remembered not as a violent rebellion, but as a collective refusal to be a passage controlled by others.
 
 ---
 

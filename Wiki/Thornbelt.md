@@ -43,7 +43,7 @@ The climate of Thornbelt is characterized by mild temperatures and high humidity
 
 ## History
 
-### Pre-Drift Era (~500,000 cycles ago, ~1,369 Earth years)
+### Pre-Drift Era (<span class="ai-generated" data-ai-label="~1,300 Earth years" tabindex="0">~500,000 cycles ago</span>)
 
 Before The Drift, Thornbelt was a narrow isthmus linking Ronobetu in the west to Duvessa in the east. Over time, well-known crossings emerged where caravans passed and local communities collected tolls. These routes were frequently contested, with local leaders negotiating with both Ronobetu and Duvessa to preserve their own influence and control over passage.
 
@@ -55,7 +55,7 @@ The people of Thornbelt developed a reputation for being pragmatically independe
 
 ---
 
-### The Drift (~146,100 cycles ago, ~400 Earth years)
+### The Drift (<span class="ai-generated" data-ai-label="~400 Earth years" tabindex="0">~146,100 cycles ago</span>)
 
 The Drift transformed Thornbelt into one of the most strategically critical locations in Yanorra. 
 
@@ -73,72 +73,29 @@ This moment is remembered as **The Severing of the Belt** and is remembered not 
 
 ### North Gate 1 and the Birth of Control (~145,900 cycles)
 
-The newly independent Thornbelt faced an immediate problem:
+The newly independent Thornbelt faced an immediate problem: if it did not control the flow of people and goods, another power would. In response, leaders adopted a radical solution and built the first true gate near the narrowest, most defensible stretch of the isthmus, slightly north of Holt. This crossing became known as <strong>North Gate 1</strong>.
 
-If they did not control the flow of people and goods, someone else would.
+Unlike the informal passages that came before it, North Gate 1 was a permanent, continuously staffed institution with legal authority to inspect travelers, collect tariffs, and deny passage when necessary. For the first time in Thornbelt’s history, <strong>movement through the land became conditional</strong>, turning geography into policy.
 
-The solution was radical.
+---
 
-Near the narrowest and most defensible point of the isthmus—slightly north of Holt—they constructed the first true gate:
+### The Eight Cycle War (~145,890 cycles)
 
-**North Gate 1**
+Thornbelt’s consolidation of control at North Gate 1 quickly triggered open conflict. Alarmed by rising tariffs and inspection authority, leaders in Ronobetu and Duvessa formed a military alignment, believing a coordinated strike could break Thornbelt’s hold over the isthmus before its gate system matured.
 
-Unlike the informal crossings of the past, North Gate 1 was:
+The campaign became known as the **Eight Cycle War**. Thornbelt forces deliberately destroyed the main approach roads leading to North Gate 1, forcing larger armies into narrow, exposed corridors where movement, supply, and command broke down. Fighting in small mobile units, Thornbelt’s defenders relied on ambushes, night raids, and repeated disruption of forward positions, turning the isthmus itself into a weapon.
 
-* fortified with permanent structures
-* staffed continuously
-* empowered to inspect, tax, or deny passage
-
-For the first time in Thornbelt’s history, **movement through the land became conditional**.
+By the eighth cycle, both invading coalitions had failed to secure decisive passage and were facing mounting losses with no strategic breakthrough. Delegations from Ronobetu and Duvessa requested peace, resulting in an accord that recognized Thornbelt control of its crossings in exchange for guaranteed, regulated transit.
 
 ---
 
 ### Expansion of the Gate Network (~145,900–140,000 cycles)
 
-As pressure from both directions increased, Thornbelt extended its control outward from North Gate 1.
+Thornbelt continued to extend its control outward from North Gate 1. Gates were constructed along the primary trade routes according to a simple directional logic: crossings leading toward Ronobetu in the west and southwest became <strong>West Gate 1, West Gate 2, West Gate 3</strong>, and so on, while those leading toward Duvessa in the east became <strong>East Gate 1, East Gate 2, East Gate 3</strong>. 
 
-Gates were constructed along the primary east-west trade routes, following a simple directional logic:
+Each gate served several functions at once. It operated as a customs point, a military checkpoint, and a trade coordination hub, allowing Thornbelt to regulate movement while also concentrating commerce at controlled crossings. Over time, permanent settlements formed around these gates, and many of them developed distinct local roles within the wider gate network.
 
-* Toward **Ronobetu (west/southwest)**:
-  **West Gate 1, West Gate 2, West Gate 3...**
-* Toward **Duvessa (east/northeast)**:
-  **East Gate 1, East Gate 2, East Gate 3...**
-
-The numbering reflected **distance from North Gate 1**, not cardinal position—solving the problem of the isthmus’s curvature.
-
-Each gate served multiple roles:
-
-* customs enforcement
-* military checkpoint
-* trade coordination hub
-
-Over time, settlements formed organically around these gates.
-
-Notable early developments include:
-
-* **East Gate 1**: Became the largest city due to heavy Duvessan trade traffic entering Thornbelt
-* **West Gate 2**: Site of the *Ronobetuan Recall*, where a convoy of officials was turned back after refusing inspection
-* **East Gate 5**: Known for the *Iron Toll Dispute*, where Duvessan merchants attempted to establish fixed-rate tariffs and were expelled
-
-These events cemented a new reality:
-
-**Thornbelt was no longer a road—it was a filter.**
-
----
-
-### The Gate Identity (~140,000–130,000 cycles)
-
-Over time, Thornbelt’s identity reorganized around its gates.
-
-Tribal affiliations faded, replaced by **gate-based identity**:
-
-* People identified themselves by where they lived or served
-* Loyalty shifted to local gate communities
-* Economic specialization emerged between gates
-
-Holt was deliberately maintained as a **non-gate capital**, ensuring no single gate could dominate politically.
-
-The **Gate Council** was formed—each major gate sending representatives to Holt to coordinate policy, tariffs, and defense.
+Several early gates became especially important. <strong>East Gate 31</strong> grew into Thornbelt’s largest city because of the volume of Duvessan trade entering the country. <strong>West Gate 34</strong> became known as the site of the <em>Ronobetuan Recall</em>, where a convoy of officials was turned back after refusing inspection. 
 
 ---
 

@@ -101,33 +101,15 @@ Several early gates became especially important. <strong>East Gate 31</strong> g
 
 ### Modern Era (~146,100 cycles, ~400 years after The Drift)
 
-Today, Thornbelt is defined by its system of gates.
+In the modern era, Thornbelt is defined by its gate system. The nation proudly muses the doctrine: *“Passage is a privilege, not a right.”* The crossings are designed to be nearly impenetrable, with layered inspections, fortified checkpoints, and tightly controlled approach roads that make unsanctioned movement extremely difficult. In practical terms, each gate now serves as a population center, an economic engine, and a visible symbol of Thornbelt sovereignty and power.
 
-What began as a defensive measure has evolved into a governing philosophy:
+The state is administered through a central government in Holt led by a council of tribal representatives. In keeping with pre-Drift traditions of local authority, each tribe is responsible for one or more gates, overseeing security, inspections, and local enforcement under national law. This structure allows Thornbelt to maintain a unified policy on passage while still preserving the political weight of its historic gate communities.
 
-> *“Passage is a privilege, not a right.”*
-
-The gates now function as:
-
-* major population centers
-* economic engines
-* symbols of sovereignty
-
-Trade between Ronobetu and Duvessa still depends on Thornbelt—but neither fully trusts it.
-
-* Ronobetu resents losing control of what it once claimed
-* Duvessa resents the tariffs imposed on its eastern trade flow
-
-Internally, Thornbelt faces its own tensions:
-
-* corruption among gate officials
-* smuggling routes that bypass official crossings
-* disagreements between eastern and western gates over policy
-
+Thornbelt’s strict tariff regime remains the foundation of its power and the source of its diplomatic friction. Trade between Ronobetu and Duvessa still depends on transit across the isthmus, but neither neighbor fully trusts Thornbelt control of that chokepoint: Ronobetu resents losing direct authority over territory it once claimed, while Duvessa resents the heavy tariffs placed on outgoing and incoming trade flow. Internally, the same system that sustains the country also strains it, as corruption among gate officials, smuggling routes that bypass official crossings, and policy disputes between eastern and western gates continue to test central authority.
 
 ## Politics
 
-- **Government**: (TBD)  
+- **Government**: Central gate-state council in Holt, composed of tribal representatives with delegated authority over designated gates  
 - **Foreign Relations**: (TBD)  
 - **Key Issues**: (TBD)
 

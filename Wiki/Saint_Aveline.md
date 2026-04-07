@@ -47,6 +47,8 @@ The primary settlement, commonly referred to simply as *Saint Aveline*, is locat
 
 Population estimates vary, typically ranging between several hundred and just over a thousand residents depending on seasonal conditions, departures, and unrecorded losses at sea. Census accuracy is poor, and migration is largely one-directional; few who leave ever return.
 
+The second largest concentration of inhabitants is called Sablelight Beach, a small cluster of homes and workshops near the island's eastern shore. A third area, known as Pride Rock's Landing, is a another beach settlement on the northern coast, primarily used for fishing and boat repair.
+
 ---
 
 ## Economy and Supply

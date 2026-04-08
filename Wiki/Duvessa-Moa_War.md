@@ -41,7 +41,7 @@ The DO implemented increasingly oppressive measures in Normoa:
 
 * Banned Moan language and cultural practices
 * Relocated Duvessan loyalists to "re-educate" the population
-* Established **Fort 44** and **Fort Gotokua** as military occupation bases
+* Established **Fort 32** and **Fort Gotokua** as military occupation bases
 * Created the **Inti Youth Corps**, forcing Normoan children into DO indoctrination programs
 
 ## Seeds of the Sombra Insurgency

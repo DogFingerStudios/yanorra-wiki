@@ -14,13 +14,13 @@
 
 - **Name**: Thornbelt  
 - **Capital**: Holt (population: ~80,000)
-- **Largest City**: East Gate 1 (population: ~115,000)
+- **Largest City**: East Gate 31 (population: ~115,000)
 - **Population**: 645,000 (estimated)  
 - **Area**: 31,000 km² (12,000 sq mi)
-- **Government**: (TBD)
+<!-- - **Government**: (TBD)
 - **Official Language**: (TBD)  
 - **Currency**: (TBD)  
-- **Religion**: (TBD)
+- **Religion**: (TBD) -->
 
 ---
 

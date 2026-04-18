@@ -80,7 +80,7 @@ The following entries are commonly cited by harbor offices, military notices, an
 
 Estimated 63-90 walkers entered during a rare calm interval between storm fronts. Four returned by morning in severe hypothermic shock. No bodies were recovered from the remaining group.
 
-## 145.10.03 - Black Reef Inlet, Outer Duvessa coast
+## 145.10.03 - Hautspeej Massacre, Outer Duvessa coast
 
 A prohibited gathering dispersed under warning fire from local Dornish detachments. The front rank continued into surf while rear ranks broke formation. Reported losses: 11 confirmed dead, 27 missing, unknown number fled inland.
 

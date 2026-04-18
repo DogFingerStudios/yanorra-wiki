@@ -71,7 +71,7 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
 ## Politics
 
  ### Government
- The Dornish Order (DO) enforces authoritarian rule, centered on Inti worship and strict control of trade routes. The Sombra Insurgents, led by Capac Dupont, challenge the DO with Yana-Pacha ideology, advocating rebellion and chaos.  
+ The Dornish Order (DO) governs through centralized decrees, military policing, and total control of public life. Education is tightly controlled by the state: approved histories are mandatory, loyalty rites are conducted in schools, and teachers who deviate from DO doctrine are removed or disappeared. The Sombra Insurgents, led by Capac Dupont, cite the Hautspeej massacre as proof of DO brutality; witnesses dispute the opening moments, with some claiming soldiers fired warning shots while others insist the detachments fired directly into the Walkers during the coastal purge, an event now invoked across rebel cells as a call to resistance.  
 
 ### Foreign Relations 
 

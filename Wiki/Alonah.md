@@ -4,10 +4,6 @@
 
 **Alonah** is an island settlement region located roughly halfway between [Tsutodo](./Tsutodo.md) and [Hav](./Hav.md). Though little is known of the island's interior, it is recognized by sailors across the southern routes as the site of **Alonah-Clif**, a tightly controlled port stop opened after [The Drift](./The_Drift.md) to aid vessels crossing between Dima Eta in Tsutodo and Flord-Clif in Hav.
 
-Despite their hospitality in trade, the Alonah people remain among the most enigmatic known populations of Yanorra. They operate the inns, kitchens, and storehouses of the port, yet appear in full-body coverings from head to toe, with even the eyes hidden behind fine mesh. They do not speak to foreigners within the port. Instead, they rely on an elaborate sign language developed over generations of controlled exchange. Though most scholars assume the Alonah possess a spoken language of their own, no verified outsider has ever heard one of them utter a single word.
-
-Travelers' accounts, though inconsistent, often describe glimpses beneath shifting cloth and sea mist: blue-tinted skin like that of the drowning, piercing red eyes, and hair of pale ash-grey. Such descriptions remain unconfirmed, but they have done much to shape the island's fearful reputation.
-
 ---
 
 ## Geography
@@ -54,9 +50,11 @@ Despite the limited scope of trade, Alonah-Clif remains a vital stop along the s
 
 ## Cultural Significance
 
-Among sailors, Alonah is spoken of with equal parts gratitude and unease. To some it is a necessary refuge between two distant coasts; to others it is a silent island whose people reveal only what they must.
+Despite their hospitality in trade, the Alonah people remain among the most enigmatic known populations of Yanorra. They operate the inns, kitchens, and storehouses of the port, yet appear in full-body coverings from head to toe, with even the eyes hidden behind fine mesh. They do not speak to foreigners within the port. Instead, they rely on an elaborate sign language developed over generations of controlled exchange. Though most scholars assume the Alonah possess a spoken language of their own, no verified outsider has ever heard one of them utter a single word.
 
-The Alonah sign language, reserved conduct, and complete bodily coverings have made the island a frequent subject of rumor, speculation, and embellished dockside stories.
+Travelers' accounts, though inconsistent, often describe glimpses beneath shifting cloth and sea mist: blue-tinted skin, piercing red eyes, and hair of pale ash-grey. Such descriptions remain unconfirmed, but they have done much to shape the island's fearful reputation.
+
+Among sailors, Alonah is spoken of with equal parts gratitude and unease. To some it is a necessary refuge between two distant coasts; to others it is a silent island whose people reveal only what they must.
 
 ---
 

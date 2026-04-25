@@ -1,6 +1,6 @@
 # The Farlands
 
-<span y-type="mapelement" y-zoom="5" y-center="-9.50, 108.94" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="6" y-center="32.08, -4.47" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 **The Farlands** are the northernmost islands of the Riftlands chain, extending beyond the regular trade routes between Duvessa and Velu. They are known for extreme isolation, severe climate volatility, and unreliable navigation conditions.
 

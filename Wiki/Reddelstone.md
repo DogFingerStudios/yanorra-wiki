@@ -1,6 +1,6 @@
 # Reddelstone
 
-<span y-type="mapelement" y-zoom="5" y-center="-40.19, 157.00" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="5" y-center="7.93, 32.87" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 **Reddelstone** is a landlocked region located in the mountainous interior of central Velu. It is the single largest settlement of the Anqaran people, and is also the largest producer of nashi-derived products.
 ---

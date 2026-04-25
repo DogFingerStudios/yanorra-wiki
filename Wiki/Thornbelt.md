@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="../ai-generated.css">
 
-<span y-type="mapelement" y-zoom="5" y-center="-29.03, 50.91" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="5" y-center="15.34, -50.89" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 <a href="../Maps/Thornbelt.png" target="_blank"><img src="../Maps/Thornbelt.png" width="50%" height="50%"></a>
 

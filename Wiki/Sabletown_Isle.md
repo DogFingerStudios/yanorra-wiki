@@ -1,6 +1,6 @@
 # Sabletown Isle
 
-<span y-type="mapelement" y-zoom="6" y-center="-11.27, 106.41" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="7" y-center="30.37, -5.71" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 **Sabletown** Isle is a wind-battered island off the western reaches of Yanorra, best known for its dark, glassy sands and the steadfast harbor town that shares its name. Mariners regard it as a reliable refuge, while scholars value its coastal formations and tidal life.
 

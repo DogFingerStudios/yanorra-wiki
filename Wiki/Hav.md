@@ -1,6 +1,6 @@
 # Hav
 
-<span y-type="mapelement" y-zoom="4" y-center="-86.69, 41.63" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="4" y-center="-31.03, -55.15" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 #### Table of Contents
 - [Overview](#overview)

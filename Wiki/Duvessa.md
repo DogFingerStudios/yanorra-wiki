@@ -1,6 +1,6 @@
 # Duvessa
 
-<span y-type="mapelement" y-zoom="4" y-center="-24.88, 76.25" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
+<span y-type="mapelement" y-zoom="4" y-center="20.13, -29.00" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 **Duvessa** is a coastal nation on the north-eastern shores of West Yanorra (also known as [Wanorra](./Wanorra.md)), a continent on the planet Yanorra.  Known for its strategic control over maritime trade routes and its role in the ongoing civil war between the authoritarian **Dornish Order (DO)** and the **Sombra Insurgents**, Duvessa is a key geopolitical player in the post-Drift world.
 

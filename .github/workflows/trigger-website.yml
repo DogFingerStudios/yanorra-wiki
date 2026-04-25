@@ -31,7 +31,7 @@ jobs:
           {
             "ref": "$REF",
             "inputs": {
-              "yanorra_sha": "${{ github.sha }}"
+              "yanorra_wiki_sha": "${{ github.sha }}"
             }
           }
           JSON

@@ -114,7 +114,7 @@ The **Nashi Fields of the Eastern Void** are the vast unmanaged nashi lands of t
 
 <figure style="max-width: 500px; margin: auto; margin-bottom: 15px; margin-top: 15px; text-align: center;">
     <img src="../Images/Nashi1.png" alt="Nashi Fields" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 0.9em;">A caravan heading through the Nashi Fields south to Saple Town</figcaption>
+    <figcaption style="font-size: 0.9em;">A caravan heading through the Nashi Fields south of Khn Saple Town</figcaption>
 </figure>
 
 People west of the Chatunkut Mountains often describe the Eastern Void with the phrase **“Only nashi.”** This is mostly true, though birds still appear near the coast, and insects return in wet seasons. 

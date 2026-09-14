@@ -2,7 +2,7 @@
 
 Horizon Chain is a ground-based long-range navigation system used by civilian and government navigators across much of Yanorra. It allows a properly equipped receiver to estimate its position by comparing timed radio pulses sent from fixed land stations known as chain towers.
 
-The system came online in early [AC414](./Calendar.md), first providing service along the coastal nations of the [Brooding Sea](./Brooding_Sea.md). It was developed in response to the navigational failures that followed [The Drift](./The_Drift.md), when older maritime tables and compass bearings became less reliable over long distances. Horizon Chain gives navigators a better way to confirm where they are when weather or poor visibility has made ordinary methods uncertain.
+The system came online in early [AC414](./Calendar.md) in eastern [Ronobetu](./Ronobetu.md) and [S'Tsutodo](./S_Tsutodo.md), providing service along the coastal nations of the [Brooding Sea](./Brooding_Sea.md). It was developed in response to the navigational failures that followed [The Drift](./The_Drift.md), when older maritime tables and compass bearings became less reliable over long distances. Horizon Chain gives navigators a better way to confirm where they are when weather or poor visibility has made ordinary methods uncertain.
 
 Line of sight is not required for Horizon Chain receiver to work. It only needs to receive enough timed pulses from different towers in the same operating chain. By comparing the slight differences in arrival time, the receiver can calculate a position estimate and display it as a chart reference or numbered grid position, depending on the device.
 

@@ -1,4 +1,12 @@
-## Yanorra System
+---
+id: ember_system
+title: Ember System
+category: places
+subcategory: star_systems
+summary: The Ember System is the 
+show_in_indexes: true
+---
+## Ember System
 
 ### Irosha
 

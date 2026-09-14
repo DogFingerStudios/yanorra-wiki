@@ -2,10 +2,9 @@
 id: saintaveline
 category: places
 subcategory: island
-
 title: Saint Aveline
 info_panel:
-    diplay_type: island
+    display_type: island
     location: "[The Farlands](./The_Farlands.md)"
     population: 500-1000
     area: 15 sq mi

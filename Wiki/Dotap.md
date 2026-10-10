@@ -10,7 +10,7 @@ show_in_indexes: true
 
 **Dotap** is a major coastal city in northern **Ronobetu**, situated near the border with **Thornbelt** and close to **West Gate 43**, the first Thornbelt gate encountered by goods and travelers moving west. Because of its position, Dotap serves as one of Ronobetu’s most important trade and transit cities, handling agricultural exports, overland caravans, coastal shipping, border traffic, and the steady movement of people between Ronobetu and Thornbelt.
 
-Unlike many settlements along the **Brooding Sea**, Dotap is also known for its unusually calm shoreline. Its beaches are among the few places in Wanorra where the sea is gentle enough near the coast for regular swimming, making the city both a commercial hub and a rare leisure destination.
+Unlike many settlements along the **Brooding Sea**, Dotap is also known for its unusually calm shoreline. Its beaches are among the few places in Wanorra where the sea is gentle enough near the coast for regular swimming, making the city both a commercial and leisure destination.
 
 ## Geography
 

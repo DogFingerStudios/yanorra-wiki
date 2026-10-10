@@ -8,11 +8,9 @@ No permanent settlement is known to exist on the islands in the current era.
 
 ## Geography
 
-The chain consists of narrow rock islands, broken shelves, and low sea-cut ridges. Most coastlines are steep, with little beach access and frequent submerged stone near the tide line.
+The chain consists of several hundred narrow rock islands, broken shelves, and low sea-cut ridges. Most coastlines are steep, with little beach access and frequent submerged stone near the tide line.
 
-The largest island is **Ajanea**, where the ruins of an old lighthouse and a collapsed settlement remain on the northern cliffs. In navigation records, the site is referred to as **Ajanea-Clif**. No surviving civic roll, harbor register, or clan record has been tied with certainty to the people who once lived there, and no accepted account explains their disappearance.
-
-A medium-sized island near the mainland shore is known as **Gracie Island**.
+The largest island is **Ajanea**, where the ruins of an old lighthouse and a collapsed settlement remain on the northern cliffs. In navigation records, the site is referred to as **Ajanea-Clif**. No surviving record has been tied with certainty to the people who once lived there, and no accepted account explains their disappearance.
 
 ---
 

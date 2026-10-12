@@ -26,11 +26,6 @@ show_in_indexes: true
 **Population**: ~12.5 million  
 **Largest City**: Port Sable (population: ~1.2 million)  
 **Government**: Authoritarian regime under the Dornish Order (DO), contested by Sombra Insurgents  
-<!--
-**Official Language**: Qheswa (native), with colonial influences (French-like dialects)  
-**Currency**: Unknown  
-**Religion**: Inti-Tahuantinsuyo (sun worship, enforced by DO); Yana-Pacha (counter-ideology of Sombra Insurgents)  
--->
 
 ## Geography
 
@@ -114,7 +109,7 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
   - Rural areas, especially Normoa, are rugged and insular, with lingering Moan cultural identity.  
 - **Notable Sites**:  
   - **Torre-Casa de Runa**: Tower-houses in Saint Aveline, home to families like the player’s in the *No Escape* narrative.  
-  - **Saint Aveline**: A remote island blending Quechua and French influences, now a conflict zone.
+  - **Saint Aveline**: A remote island that is a conflict zone between the Duvessan government and rebellion.
 
 ## Technology
 
@@ -137,7 +132,7 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
 
 - **Population**: ~2.5 million, concentrated in Port Sable (~1.2 million) and Normoa (~80,000 in Port Moa).  
 - **Ethnicity**: Blend of native Qheswa peoples and colonial descendants, with Normoa retaining Moan cultural elements.  
-- **Languages**: Qheswa (primary), with French-like dialects in urban areas and DO administration.
+- **Languages**: Duvessan (primary), with Trade Speech ussed in administrative, commercial and educational contexts.
 
 ## Infrastructure
 

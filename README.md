@@ -89,7 +89,7 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 
 The [Three Sisters](./Wiki/The_Three_Sisters.md) is a collective term for three neighboring nations in the Eanorra region of West Yanorra: **Totoku**, **Endotoku**, and **Obetoku**.
 
-These islands form a distinct geographical and cultural cluster, sharing historical ties and maritime connections despite being governed as separate territories.
+These nations form a distinct geographical and cultural cluster, sharing historical ties and maritime connections despite being governed as separate territories.
 
 ### Anqara
 

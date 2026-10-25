@@ -2,9 +2,9 @@
 
 ## Background and Causes
 
-In the years following The Drift, both Duvessa and Moa struggled with food shortages and economic collapse. Moa, desperate to secure access to the Thornbelt trade route and Duvessa's coastal resources, launched a surprise invasion in 73,450 days ago (~201 Earth years ago, ~Year 1825 CE equivalent).
+In the years following The Drift, both Duvessa and Moa struggled with food shortages and economic collapse. Moa, desperate to secure access to the Thornbelt trade route and Duvessa's coastal resources, launched a surprise invasion in AC73.
 
-General Huascar Tovar, leader of Moa's military forces, led an army of approximately 15,000 soldiers across the border, seizing the strategic fortress of Qhapaq Tunki and advancing toward Port Moa. The invasion caught Duvessa's fragmented military off-guard, as regional commanders struggled to coordinate a response in the chaos of post-Drift instability.
+General Huascar Tovar, leader of Moa's military forces, led an army of approximately 15,000 soldiers across the border, seizing the strategic fortress of Fort 32 and advancing toward Port Moa. The invasion caught Duvessa's fragmented military off-guard, as regional commanders struggled to coordinate a response in the chaos of post-Drift instability.
 
 ## The War's Turning Point
 
@@ -13,10 +13,10 @@ The conflict raged for seven brutal years. Initially, Moa gained ground, capturi
 Dorn implemented several controversial measures:
 
 * **Total Mobilization**: Conscripted all able-bodied men between ages 16-50, enforcing strict penalties for desertion (execution by firing squad).
-* **Scorched Earth Policy**: Ordered the burning of villages along retreat routes to deny Moan forces supplies and shelter.
+* **Ashen Fields Doctrine**: Ordered the burning of villages along retreat routes to deny Moan forces supplies and shelter.
 * **The Blood Oath**: Required soldiers to swear loyalty to Inti and the emerging Dornish Order, framing the war as a holy crusade.
 
-The decisive **Battle of Rumi Chaka** (67,200 days ago, ~184 Earth years ago) saw Dorn's forces trap Tovar's army in a narrow mountain valley during a winter storm. Over 8,000 Moan soldiers froze to death or were slaughtered in what became known as "The Red Snow." General Tovar was captured and publicly executed in Port Moa.
+The decisive **Battle of Rumi Chaka** in AC79 saw Dorn's forces trap Tovar's army in a narrow mountain valley during a winter storm. Over 8,000 Moan soldiers froze to death or were slaughtered in what became known as "The Red Snow." General Tovar was captured and publicly executed in Port Moa.
 
 ## Aftermath and Annexation
 

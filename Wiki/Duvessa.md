@@ -34,17 +34,17 @@ show_in_indexes: true
 **Terrain**: Rocky and inhospitable northern coast; mountainous southern border adjacent to Southmoa and Bibi Shirif; fertile coastal plains around Port Sable. 
  
 - **Provinces**:  
-  - **Normoa**: Capital - Port Moa (~80,000), acquired after the Duvessa-Moa War (~100,000 days ago, ~274 Earth years). Known for rugged terrain and harsh winters.  
+  - **Normoa**: Capital - Port Moa (~80,000). Known for rugged terrain and harsh winters.  
   - **Kutboga**: Capital - Fort 32 (population ~60K), borders Thornbelt, the Brooding Sea, and the Veloku Ocean. 
 - **Key Islands**:  
   - **The Riftlands**: A chain of islands northeast of Duvessa, serving as a maritime rest stop for trade with Velu. Includes Sable Island (Sabletown port), Saint Armandre, Iskay, Morn'e, Yana Wat'a, Aguillon, Quelvasto, and Sopoko.  
     - **The Farlands**: Northern islands, including Saint Aveline (partially inhabited, under siege), Port Veiskar, and Karrholm.  
     - **[Noxoch Isle](./Noxoch_Isle.md)**: Uninhabited, storm-battered northernmost landmass, considered cursed.  
-- **Climate**: Unpredictable due to The Drift (~146,100 days ago, ~400 Earth years). Short, scorching summers and long, severe winters. Coastal areas experience frequent storms from the Brooding Sea.
+- **Climate**: Unpredictable due to The Drift. Short, scorching summers and long, severe winters. Coastal areas experience frequent storms from the Brooding Sea.
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 Before The Drift, Duvessa was a maritime powerhouse, dominating the Brooding Sea with a vast fleet of advanced vessels. 
 
@@ -111,13 +111,6 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
   - **Torre-Casa de Runa**: Tower-houses in Saint Aveline, home to families like the player’s in the *No Escape* narrative.  
   - **Saint Aveline**: A remote island that is a conflict zone between the Duvessan government and rebellion.
 
-## Technology
-
-- **Communication**: Limited to packet radio and shortwave relays, with frequent interference and delays. No internet or cell towers.  
-- **Power**: Sparse electricity from solar panels, wind-up generators, and rare diesel sources. Kerosene, firewood, and candles are common.  
-- **Transportation**: Coastal ships and ferries (steam/diesel-powered) navigate short routes to the Riftlands. No transoceanic vessels or aircraft.  
-- **Computing**: Equivalent to late 1980s/early 1990s Earth technology, with a basic Compuserve-like network. Mechanical tools and analog systems dominate.
-
 ## Military
 
 - **Dornish Order (DO)**:  
@@ -147,7 +140,7 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
 
 ## Notable Events
 
-- **The Drift (~146,100 days ago, ~400 Earth years)**: Disrupted trade and climate, leading to DO’s rise.  
-- **Duvessa-Moa War (~110,000 days ago, ~301 Earth years)**: Resulted in Moa’s division into Normoa and Soumoa.  
-- **Sombra Insurgent Uprising (~50,000 days ago, ~137 Earth years)**: Ongoing civil war challenging DO rule.
+- **The Drift**: Disrupted trade and climate, leading to DO’s rise.  
+- **Duvessa-Moa War (AC73-AC80)**: Resulted in Moa’s division into Normoa and Soumoa.
+- **Sombra Insurgent Uprising (AC137)**: Ongoing civil war challenging DO rule.
 

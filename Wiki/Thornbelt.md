@@ -55,7 +55,7 @@ The climate of Thornbelt is characterized by mild temperatures and high humidity
 
 ## History
 
-### Pre-Drift Era (<span class="ai-generated" data-ai-label="~1,300 Earth years" tabindex="0">~500,000 days ago</span>)
+### Pre-Drift Era
 
 Before The Drift, Thornbelt was a narrow isthmus linking Ronobetu in the west to Duvessa in the east. Over time, well-known crossings emerged where caravans passed and local communities collected tolls. These routes were frequently contested, with local leaders negotiating with both Ronobetu and Duvessa to preserve their own influence and control over passage.
 
@@ -67,7 +67,7 @@ The people of Thornbelt developed a reputation for being pragmatically independe
 
 ---
 
-### The Drift (<span class="ai-generated" data-ai-label="~400 Earth years" tabindex="0">~146,100 days ago</span>)
+### The Drift
 
 The Drift transformed Thornbelt into one of the most strategically critical locations in Yanorra. 
 
@@ -77,7 +77,7 @@ Both Ronobetu and Duvessa sought to assert control over the region. Caravans fro
 
 As the effects of The Drift settled in, the people of Thornbelt found themselves caught between two powerful neighbors, each seeking to control the flow of goods through what they viewed as their land. 
 
-Approximately <span class="ai-generated" data-ai-label="~10 Earth years" tabindex="0">3,500 days</span> after The Drift, leaders from across the isthmus gathered in the small town of  **Holt** to formalize their independence. They demanded all soldiers from both sides leave the isthmus, and declared that passage through Thornbelt would be controlled by its own people, not by foreign powers.
+In the year AC10, leaders from across the isthmus gathered in the small town of  **Holt** to formalize their independence. They demanded all soldiers from both sides leave the isthmus, and declared that passage through Thornbelt would be controlled by its own people, not by foreign powers.
 
 This moment is remembered as **The Severing of the Belt** and is remembered not as a violent rebellion, but as a collective refusal to be a passage controlled by others.
 

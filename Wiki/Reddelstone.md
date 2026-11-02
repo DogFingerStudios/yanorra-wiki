@@ -16,8 +16,6 @@ show_in_indexes: true
 
 **Reddelstone** is a landlocked region located in the mountainous interior of central Velu. It is the single largest settlement of the Anqaran people, and is also the largest producer of nashi-derived products.
 
-
-
 ## Geography
 
 **Location**: Reddelstone lies in the mountainous interior of central [Velu](./Velu.md), just inland from **Big Bay**. Its capital, **Paz**, sits on the shore of **Penilton Lake**, a large inland freshwater lake occupying one of the most defensible and fertile basins in the region. From this lakeside center, the rest of Reddelstone spreads outward across surrounding valleys, terraces, and red-stone ridges.

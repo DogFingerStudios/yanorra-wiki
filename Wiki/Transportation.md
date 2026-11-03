@@ -61,6 +61,11 @@ These restrictions make coastal ports, island connections, and overland passages
 
 ## Experimental air travel
 
+<figure style="max-width: 500px; margin: auto; margin-bottom: 15px; margin-top: 15px; text-align: center;">
+    <img src="../Images/Transportation_Airplane1.png" alt="Experimental Air Travel" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 0.9em;">An experimental tandem-wing aircraft makes a low pass over a test field in Ronobetu during trials to improve control in gusty air.</figcaption>
+</figure>
+
 Universities, governments, and other institutions are experimenting with air travel, but aviation has not developed into a dependable passenger transport system. Atmospheric instability above the terrain restricts the height, range, and reliability of experimental flights.
 
 A shifting zone of dangerous wind shear and vertical air currents often begins low above the terrain, well above the rooftops but still within the lower air. Its lower boundary varies with location and atmospheric conditions, and the hazardous air extends substantially higher than the initial boundary.

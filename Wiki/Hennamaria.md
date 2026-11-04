@@ -1,6 +1,6 @@
 ---
 id: country_hennaland
-title: Hennaland
+title: Hennamaria
 category: places
 subcategory: countries
 region: Dudbinia
@@ -10,7 +10,7 @@ status: confirmed
 map_feature_id: country_stsutodo
 show_in_indexes: true
 ---
-# Hennaland
+# Hennamaria
 
 <span y-type="mapelement" y-zoom="5" y-center="-22.26, -26.89" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
 
@@ -29,13 +29,13 @@ show_in_indexes: true
 - [Environment](#environment)
 - [Notable Events](#notable-events)
 
-**Hennaland** is a nation.
+**Hennamaria** is a nation.
 
-<a href="../Maps/Hennaland.png" target="_blank"><img src="../Maps/Hennaland.png" width="50%" height="50%"></a>
+<a href="../Maps/Hennamaria.png" target="_blank"><img src="../Maps/Hennamaria.png" width="50%" height="50%"></a>
 
 ## Overview
 
-- **Name**: Hennaland  
+- **Name**: Hennamaria  
 - **Capital**: Thetbury (population: ~80,000)
 - **Largest City**: Levilbury (population: 117,000)
 - **Area**: (TBD) km² (15,000 sq mi)

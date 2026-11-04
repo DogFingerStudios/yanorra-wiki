@@ -37,7 +37,7 @@ Or:
 | Row | Name   | Days | Meaning / Use                                                                                                                                            |
 | --: | ---------------- | ---: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | **Nandi**        |   41 | The opening row of the year, associated with renewal, first entries, and official beginnings. Many contracts and civic records preferred to begin here.  |
-|   2 | **Samari**       |   40 | A quieter row tied to household duties, repairs, local accounts, and the settling of ordinary obligations.                                               |
+|   2 | **Henna**       |   40 | A quieter row tied to household duties, repairs, local accounts, and the settling of ordinary obligations.                                               |
 |   3 | **Kotlega**      |   41 | Traditionally associated with planting, labor, travel preparation, and the beginning of serious work after the year’s opening period.                    |
 |   4 | **Irosha**       |   40 | Considered a watchful row, often linked with legal petitions, border reports, tax declarations, and public notices.                                      |
 |   5 | **Cassia**       |   41 | The central row of the Qamar Table, regarded as the hinge of the year. Major proclamations, state ceremonies, and religious observances often fell here. |

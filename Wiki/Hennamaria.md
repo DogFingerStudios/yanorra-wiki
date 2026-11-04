@@ -1,5 +1,5 @@
 ---
-id: country_hennaland
+id: country_hennamaria
 title: Hennamaria
 category: places
 subcategory: countries

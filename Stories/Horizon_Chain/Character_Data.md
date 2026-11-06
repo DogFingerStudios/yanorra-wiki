@@ -18,24 +18,31 @@ The **Northern Interior Extension** is a Horizon Chain Authority field survey le
 
 ### Julien Voss
 
-Sex: Male
-Age: 32
-Nationality: S’Tsutodo
-Occupation: Journalist
-Affiliation: Dima Eta Register
+- Sex: Male
+- Age: 32
+- Nationality: Dima Eta, S’Tsutodo
+- Occupation: Journalist
+- Affiliation: Dima Eta Register
 
 #### Background
 
 A thirty-two-year-old journalist with the *Dima Eta Register*, from the capital of S’Tsutodo. Known for writing about civic projects and road failures, he comes to Velu to document the extension. He joins as a temporary observer under a S’Tsutodo Civic Press credential. His field agreement requires him to follow Maresk’s orders, seek permission to access technical ledgers, and submit dispatches for review before transmitting them.
 
+Julien was raised primarily by his mother who was widowed when Julien was only five years old. Julien's mother is a retired nusre who lives in Spencer, S'Tsutodo.
+
 #### Personal traits and skills
 
-Julien is observant and detail-oriented, with a keen eye for civic and infrastructural developments. 
+Julien is observant and detail-oriented. 
 
 #### Appearance
-Julien has short, dark hair and wears practical field clothing suitable for travel and observation.
+
+Julien has a slim to average build, and is of moderate height. He has short, dark hair and wears practical field clothing suitable for travel and observation. He prefers flannel shirts and cargo pants where he keeps notebooks and writing tools.
 
 #### Hobbies
+
+Julien enjoys sketching architectural and infrastructural elements he encounters during his travels He'll also sketch portraits of people he meets along the way.
+
+Julien also 
 
 #### Likes
 
@@ -43,8 +50,11 @@ Julien enjoys drinking alcohol and is not above paying for the company of a woma
 
 #### Dislikes
 
+- Evasive and difficult to pin down, Julien dislikes being misled or obstructed in his reporting.
 
 #### Relationships
+
+Julien is close to his mother. 
 
 #### Notable Incidents
 
@@ -77,9 +87,21 @@ The armed crew member responsible for what he calls **field discipline**. He hel
 
 ### Nadiq
 
+- Sex: Male
+- Age: 44
+- Nationality: Point Golqik, Velu
+- Occupation: Frontier Guide
+- Affiliation: Independent
+
 A guide who knows the country beyond the reliable surveys. Julien first notices him quieting a restless horse. He helps Pela fit the pack animals, and his exchange with Julien about maps shows how little trust he puts in what a survey leaves unsaid.
 
 ### Pela
+
+- Sex: Male
+- Age: 38
+- Nationality: Gate Yorn, Velu
+- Occupation: Frontier Guide
+- Affiliation: Independent
 
 The crew member responsible for the animals and camp loads. She fits and checks the pack gear alongside Nadiq and is blunt with anyone likely to mishandle the animals or their loads.
 

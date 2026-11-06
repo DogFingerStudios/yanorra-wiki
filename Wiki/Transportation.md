@@ -31,7 +31,7 @@ On electrified routes, haulers draw power from overhead wires. The vehicles run 
 
 <figure style="max-width: 500px; margin: auto; margin-bottom: 15px; margin-top: 15px; text-align: center;">
     <img src="../Images/Transportation_Relay2.png" alt="Nashi Fields" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 0.9em;">A diesel hauler and its passenger carriage wait outside a Thornbelt wayhouse.</figcaption>
+    <figcaption style="font-size: 0.9em;">A diesel-powered relay carrying passengers through the busy streets of Big Bay, Velu.</figcaption>
 </figure>
 
 Wayhouses serve as stopping places, interchange points, and maintenance facilities. Depending on their size, they provide meals, lodging, luggage handling, repairs, and replacement haulers. Longer journeys may include overnight stops.

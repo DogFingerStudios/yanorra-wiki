@@ -20,7 +20,7 @@ The **Northern Interior Extension** is a Horizon Chain Authority field survey le
 
 - Sex: Male
 - Age: 32
-- Nationality: Dima Eta, S’Tsutodo
+- Birthplace: Dima Eta, S’Tsutodo
 - Occupation: Journalist
 - Affiliation: Dima Eta Register
 
@@ -30,13 +30,14 @@ A thirty-two-year-old journalist with the *Dima Eta Register*, from the capital 
 
 Julien was raised primarily by his mother who was widowed when Julien was only five years old. Julien's mother is a retired nusre who lives in Spencer, S'Tsutodo.
 
-#### Personal traits and skills
-
-Julien is observant and detail-oriented. 
-
 #### Appearance
 
 Julien has a slim to average build, and is of moderate height. He has short, dark hair and wears practical field clothing suitable for travel and observation. He prefers flannel shirts and cargo pants where he keeps notebooks and writing tools.
+
+
+#### Personal traits and skills
+
+Julien is observant and detail-oriented. 
 
 #### Hobbies
 
@@ -58,24 +59,60 @@ Julien is close to his mother.
 
 #### Notable Incidents
 
-
-
 ### Maresk Toven
 
+- Sex: Male
+- Age: 52
+- Birthplace: Big Bay, Velu
+- Occupation: Field Commander
+- Affiliation: Independent
+
 A Veluan field commander responsible for the survey crew and its conduct. The crew calls him **Chief**. Deputy Registrar Pell explains that Toven’s command is an expedition appointment rather than a military rank. Maresk objects to bringing a journalist into the field and makes Julien’s place on the crew conditional on following the same orders as everyone else.
+
+#### Background
+
+Maresk grew up in Big Bay, Velu, and joined the Veluan military at a young age, eventually rising through the ranks to become a commander. He left the military, and took a job with Horizon Office as a field expedition leader.
+
+#### Appearance
+
+Maresk is a tall and imposing figure with a strong build, reflecting his military background. He has short-cropped hair, a neatly trimmed beard, and typically wears practical field attire suitable for leading expeditions.
 
 
 ### Saffa
 
-The expedition’s timing engineer. At the Horizon Office, he works on the tower-three timing correction. In the yard, he personally checks the travel lock and runs the oscillator briefly before departure. He explains to Julien how a station at Point Golqik would provide a fixed reference for positioning in the poorly covered interior.
+#### Role
+
+Saffa is the expedition’s timing engineer, responsible for calibrating the network's precise timing intervals and managing equipment like the oscillator and timing engine to ensure accurate positioning data.   
 
 ### Qwen
 
-The specialist responsible for field radios, batteries, receivers, and electrical power. He lets Julien listen to the Horizon Chain pulses at the office and is working under the second hauler’s open hood when Julien arrives in the yard.
+- Sex: Male
+- Age: 35
+- Birthplace: Big Bay, Velu
+- Occupation: Tactical Communications Specialist
+- Affiliation: Independent
+
+#### Role
+
+Qwen is the specialist responsible for field radios, batteries, receivers, and electrical power. He lets Julien listen to the Horizon Chain pulses at the office and is working under the second hauler’s open hood when Julien arrives in the yard.
+
+#### Background
+
+Qwen served as a Veluan military radio technician until his discharge for unauthorized radio use when he tuned official receivers to monitor unmonitored atmospheric static for his personal research. His father, a Horizon Office administrator, used his position to get Qwen hired as a communications specialist for field expeditions.
 
 ### Orro
 
-The mechanic responsible for the field haulers. Julien first sees him working on the lead hauler’s left brake. He calls Maresk **Chief** and is comfortable joking with him while the crew gets ready.
+- Sex: Male
+- Age: 40
+- Birthplace: Vir, Laghunya
+- Occupation: Field Mechanic
+- Affiliation: Independent
+
+#### Role
+
+Orro is the mechanic responsible for the field haulers. Julien first sees him working on the lead hauler’s left brake. He calls Maresk **Chief** and is comfortable joking with him while the crew gets ready.
+
+#### Background
 
 ### Berrit
 
@@ -83,7 +120,15 @@ The expedition’s quartermaster and records keeper. He tracks supplies, load or
 
 ### Hesk
 
+- Sex: Male
+- Age: 48
+- Birthplace: Big Bay, Velu
+- Occupation: Field Security
+- Affiliation: Independent
+
 The armed crew member responsible for what he calls **field discipline**. He helps Saffa load the oscillator and checks the rifle cases against Maresk’s list. He prefers his own title because he thinks the word “security” gives people too narrow an idea of where danger comes from.
+
+#### Background
 
 ### Nadiq
 

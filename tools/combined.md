@@ -79,7 +79,7 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 | [Obetoku](./Wiki/Obetoku.md) | 120,000 sq km | ~700,000 | Sanceibei | Wanorra |
 | [Ronobetu](./Wiki/Ronobetu.md) | 350,000 sq km | ~1.9 million | Cam Tower | Eanorra |
 | [S'Tsutodo](./Wiki/S_Tsutodo.md) | 200,000 sq km | ~700,000 | Dima Eta | Eanorra |
-| [Samariland](./Wiki/Samariland.md) | 15,000 sq km | ~1.2 million | Thetbury | Dudbinia |
+| [Hennamaria](./Wiki/Hennamaria.md) | 15,000 sq km | ~1.2 million | Thetbury | Dudbinia |
 | [Soumoa](./Wiki/Soumoa.md) | 140,000 sq km | ~1 million | Moa City | Wanorra |
 | [Stanshonia](./Wiki/Stanshonia.md) | 14,000 sq km | ~1.5 million | Carmouth | Dudbinia |
 | [Thornbelt](./Wiki/Thornbelt.md) | 210,000 sq km | ~800,000 | Holt | Eanorra |
@@ -91,7 +91,7 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 
 The [Three Sisters](./Wiki/The_Three_Sisters.md) is a collective term for three neighboring nations in the Eanorra region of West Yanorra: **Totoku**, **Endotoku**, and **Obetoku**.
 
-These islands form a distinct geographical and cultural cluster, sharing historical ties and maritime connections despite being governed as separate territories.
+These nations form a distinct geographical and cultural cluster, sharing historical ties and maritime connections despite being governed as separate territories.
 
 ### Anqara
 
@@ -563,7 +563,7 @@ The Barrel islands are a large archipelago located roughly halfway between East 
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 Before The Drift, Barrel was a prosperous maritime power in East Yanorra. Situated on the western coastline with sheltered harbors and skilled shipwrights, Barrel became the foremost facilitator of commerce across the Veloku Ocean.
 
@@ -571,10 +571,10 @@ Its greatest advantage was its control of the Barrel Islands — a large, strate
 
 The Barrel fleet was famed for its speed and reliability, and merchants from both East and West Yanorra relied on its captains to move goods, people, and information. Some historians argue that without Barrel, true intercontinental trade between the East and West Yanorra would have developed centuries later.
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 With the Veloku crossing severed, Barrel’s economy collapsed almost immediately. Shipbuilding shifted from vast ocean-going galleons to smaller coastal craft, and the once-grand harbors silted over.
 
@@ -582,7 +582,7 @@ The fate of the Barrel Islands remained unknown. Attempts to reestablish contact
 
 The loss reshaped the nation’s culture. Songs, festivals, and seafaring traditions came to center on remembrance and the yearning for reunion.
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 ### The Barrel Island
 
@@ -600,7 +600,7 @@ Every year on the same day, known as **Island Day**, a single stout vessel is pr
 
 The ship departs at dawn amid ceremonies, the docks crowded with thousands of onlookers. Bells toll, horns sound, and flower petals are scattered on the waves as the vessel slips into the southern horizon. No ship has ever returned. 
 
-Voyages from other nations, such as Samariland and Bibi Shirif, have also been attempted, but all ended in failure. The only anomaly came decades ago, when the remains of a small fishing boat washed ashore near Seshai, its hull shattered but its mast still intact — carved in a style unrecognized by any shipbuilder in Barrel or beyond.
+Voyages from other nations, such as Hennamaria and Bibi Shirif, have also been attempted, but all ended in failure. The only anomaly came decades ago, when the remains of a small fishing boat washed ashore near Seshai, its hull shattered but its mast still intact — carved in a style unrecognized by any shipbuilder in Barrel or beyond.
 
 Some claim this is proof the islanders still live, taking in the voyagers but forbidding their return. Others believe the expeditions are swallowed by the ocean. 
 
@@ -780,19 +780,19 @@ The **Bharim Islands** is an archipelago nation, acting as a conduit between [Ha
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 
@@ -892,19 +892,19 @@ Located in Eanorra, Bibi Shirif occupies much of the eastern shore, with a long 
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 
@@ -974,11 +974,9 @@ No permanent settlement is known to exist on the islands in the current era.
 
 ## Geography
 
-The chain consists of narrow rock islands, broken shelves, and low sea-cut ridges. Most coastlines are steep, with little beach access and frequent submerged stone near the tide line.
+The chain consists of several hundred narrow rock islands, broken shelves, and low sea-cut ridges. Most coastlines are steep, with little beach access and frequent submerged stone near the tide line.
 
-The largest island is **Ajanea**, where the ruins of an old lighthouse and a collapsed settlement remain on the northern cliffs. In navigation records, the site is referred to as **Ajanea-Clif**. No surviving civic roll, harbor register, or clan record has been tied with certainty to the people who once lived there, and no accepted account explains their disappearance.
-
-A medium-sized island near the mainland shore is known as **Gracie Island**.
+The largest island is **Ajanea**, where the ruins of an old lighthouse and a collapsed settlement remain on the northern cliffs. In navigation records, the site is referred to as **Ajanea-Clif**. No surviving record has been tied with certainty to the people who once lived there, and no accepted account explains their disappearance.
 
 ---
 
@@ -1075,7 +1073,7 @@ After The Drift, the Qamar Tables survived in archives, ceremonies, and local tr
 
 The modern calendar of Yanorra is known as the **Axial Count**. It was created after The Drift made the old year-based systems unreliable, but it did not abandon the idea of a year entirely. Instead, the Axial Count defines a year as a fixed civil unit of **365 days**, independent of Yanorra’s changing position around the Ember Mother. Because the modern year no longer attempts to remain synchronized with a true solar revolution, the fractional correction used by the Qamar Tables is no longer needed.
 
-Year 0 of the Axial Count begins on the first day after **[Lo-Disporum](./Lo-Disporum.md) passed beyond naked-eye visibility**. Although The Drift itself unfolded over many years, this disappearance became the accepted symbolic boundary between the old sky and the modern era. Dates before this point are generally recorded by the Qamar Tables, while dates after it are recorded by the Axial Count.
+Year 1 of the Axial Count begins on the first day after **[Lo-Disporum](./Lo-Disporum.md) passed beyond naked-eye visibility**. Although The Drift itself unfolded over many years, this disappearance became the accepted symbolic boundary between the old sky and the modern era. Dates before this point are generally recorded by the Qamar Tables, while dates after it are recorded by the Axial Count.
 
 Astronomers separately track Yanorra’s actual revolutions around the Ember Mother. These are called **solar revolutions** or, in formal observatory records, **completed orbital returns**. Since The Drift stretched Yanorra’s orbit into a more eccentric path, a true revolution now takes longer than an Axial year. As a result, the number of completed revolutions since The Drift is lower than the number of years recorded by the Axial Count. In ordinary life this distinction rarely matters, but in astronomy, climate study, navigation, and Drift research, both numbers are preserved.
 
@@ -1098,7 +1096,7 @@ Or:
 | Row | Name   | Days | Meaning / Use                                                                                                                                            |
 | --: | ---------------- | ---: | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1 | **Nandi**        |   41 | The opening row of the year, associated with renewal, first entries, and official beginnings. Many contracts and civic records preferred to begin here.  |
-|   2 | **Samari**       |   40 | A quieter row tied to household duties, repairs, local accounts, and the settling of ordinary obligations.                                               |
+|   2 | **Henna**       |   40 | A quieter row tied to household duties, repairs, local accounts, and the settling of ordinary obligations.                                               |
 |   3 | **Kotlega**      |   41 | Traditionally associated with planting, labor, travel preparation, and the beginning of serious work after the year’s opening period.                    |
 |   4 | **Irosha**       |   40 | Considered a watchful row, often linked with legal petitions, border reports, tax declarations, and public notices.                                      |
 |   5 | **Cassia**       |   41 | The central row of the Qamar Table, regarded as the hinge of the year. Major proclamations, state ceremonies, and religious observances often fell here. |
@@ -1275,7 +1273,7 @@ No interpretation has achieved broad consensus.
 
 -------------------------------------------------------- Clitham.md -------------------------------------------------------- 
 
-# Citham
+# Clitham
 
 
 
@@ -1291,7 +1289,7 @@ No interpretation has achieved broad consensus.
 
 **Dotap** is a major coastal city in northern **Ronobetu**, situated near the border with **Thornbelt** and close to **West Gate 43**, the first Thornbelt gate encountered by goods and travelers moving west. Because of its position, Dotap serves as one of Ronobetu’s most important trade and transit cities, handling agricultural exports, overland caravans, coastal shipping, border traffic, and the steady movement of people between Ronobetu and Thornbelt.
 
-Unlike many settlements along the **Brooding Sea**, Dotap is also known for its unusually calm shoreline. Its beaches are among the few places in Wanorra where the sea is gentle enough near the coast for regular swimming, making the city both a commercial hub and a rare leisure destination.
+Unlike many settlements along the **Brooding Sea**, Dotap is also known for its unusually calm shoreline. Its beaches are among the few places in Wanorra where the sea is gentle enough near the coast for regular swimming, making the city both a commercial and leisure destination.
 
 ## Geography
 
@@ -1337,9 +1335,9 @@ For this reason, Dotap is sometimes described as “the soft shore with a hard s
 
 ## Background and Causes
 
-In the years following The Drift, both Duvessa and Moa struggled with food shortages and economic collapse. Moa, desperate to secure access to the Thornbelt trade route and Duvessa's coastal resources, launched a surprise invasion in 73,450 days ago (~201 Earth years ago, ~Year 1825 CE equivalent).
+In the years following The Drift, both Duvessa and Moa struggled with food shortages and economic collapse. Moa, desperate to secure access to the Thornbelt trade route and Duvessa's coastal resources, launched a surprise invasion in AC73.
 
-General Huascar Tovar, leader of Moa's military forces, led an army of approximately 15,000 soldiers across the border, seizing the strategic fortress of Qhapaq Tunki and advancing toward Port Moa. The invasion caught Duvessa's fragmented military off-guard, as regional commanders struggled to coordinate a response in the chaos of post-Drift instability.
+General Huascar Tovar, leader of Moa's military forces, led an army of approximately 15,000 soldiers across the border, seizing the strategic fortress of Fort 32 and advancing toward Port Moa. The invasion caught Duvessa's fragmented military off-guard, as regional commanders struggled to coordinate a response in the chaos of post-Drift instability.
 
 ## The War's Turning Point
 
@@ -1348,10 +1346,10 @@ The conflict raged for seven brutal years. Initially, Moa gained ground, capturi
 Dorn implemented several controversial measures:
 
 * **Total Mobilization**: Conscripted all able-bodied men between ages 16-50, enforcing strict penalties for desertion (execution by firing squad).
-* **Scorched Earth Policy**: Ordered the burning of villages along retreat routes to deny Moan forces supplies and shelter.
+* **Ashen Fields Doctrine**: Ordered the burning of villages along retreat routes to deny Moan forces supplies and shelter.
 * **The Blood Oath**: Required soldiers to swear loyalty to Inti and the emerging Dornish Order, framing the war as a holy crusade.
 
-The decisive **Battle of Rumi Chaka** (67,200 days ago, ~184 Earth years ago) saw Dorn's forces trap Tovar's army in a narrow mountain valley during a winter storm. Over 8,000 Moan soldiers froze to death or were slaughtered in what became known as "The Red Snow." General Tovar was captured and publicly executed in Port Moa.
+The decisive **Battle of Rumi Chaka** in AC79 saw Dorn's forces trap Tovar's army in a narrow mountain valley during a winter storm. Over 8,000 Moan soldiers froze to death or were slaughtered in what became known as "The Red Snow." General Tovar was captured and publicly executed in Port Moa.
 
 ## Aftermath and Annexation
 
@@ -1420,11 +1418,6 @@ Current Sombra leader **Capac Dupont** (great-grandson of Isabeau Dupont) freque
 **Population**: ~12.5 million  
 **Largest City**: Port Sable (population: ~1.2 million)  
 **Government**: Authoritarian regime under the Dornish Order (DO), contested by Sombra Insurgents  
-<!--
-**Official Language**: Qheswa (native), with colonial influences (French-like dialects)  
-**Currency**: Unknown  
-**Religion**: Inti-Tahuantinsuyo (sun worship, enforced by DO); Yana-Pacha (counter-ideology of Sombra Insurgents)  
--->
 
 ## Geography
 
@@ -1433,17 +1426,17 @@ Current Sombra leader **Capac Dupont** (great-grandson of Isabeau Dupont) freque
 **Terrain**: Rocky and inhospitable northern coast; mountainous southern border adjacent to Southmoa and Bibi Shirif; fertile coastal plains around Port Sable. 
  
 - **Provinces**:  
-  - **Normoa**: Capital - Port Moa (~80,000), acquired after the Duvessa-Moa War (~100,000 days ago, ~274 Earth years). Known for rugged terrain and harsh winters.  
+  - **Normoa**: Capital - Port Moa (~80,000). Known for rugged terrain and harsh winters.  
   - **Kutboga**: Capital - Fort 32 (population ~60K), borders Thornbelt, the Brooding Sea, and the Veloku Ocean. 
 - **Key Islands**:  
   - **The Riftlands**: A chain of islands northeast of Duvessa, serving as a maritime rest stop for trade with Velu. Includes Sable Island (Sabletown port), Saint Armandre, Iskay, Morn'e, Yana Wat'a, Aguillon, Quelvasto, and Sopoko.  
     - **The Farlands**: Northern islands, including Saint Aveline (partially inhabited, under siege), Port Veiskar, and Karrholm.  
     - **[Noxoch Isle](./Noxoch_Isle.md)**: Uninhabited, storm-battered northernmost landmass, considered cursed.  
-- **Climate**: Unpredictable due to The Drift (~146,100 days ago, ~400 Earth years). Short, scorching summers and long, severe winters. Coastal areas experience frequent storms from the Brooding Sea.
+- **Climate**: Unpredictable due to The Drift. Short, scorching summers and long, severe winters. Coastal areas experience frequent storms from the Brooding Sea.
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 Before The Drift, Duvessa was a maritime powerhouse, dominating the Brooding Sea with a vast fleet of advanced vessels. 
 
@@ -1508,14 +1501,7 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
   - Rural areas, especially Normoa, are rugged and insular, with lingering Moan cultural identity.  
 - **Notable Sites**:  
   - **Torre-Casa de Runa**: Tower-houses in Saint Aveline, home to families like the player’s in the *No Escape* narrative.  
-  - **Saint Aveline**: A remote island blending Quechua and French influences, now a conflict zone.
-
-## Technology
-
-- **Communication**: Limited to packet radio and shortwave relays, with frequent interference and delays. No internet or cell towers.  
-- **Power**: Sparse electricity from solar panels, wind-up generators, and rare diesel sources. Kerosene, firewood, and candles are common.  
-- **Transportation**: Coastal ships and ferries (steam/diesel-powered) navigate short routes to the Riftlands. No transoceanic vessels or aircraft.  
-- **Computing**: Equivalent to late 1980s/early 1990s Earth technology, with a basic Compuserve-like network. Mechanical tools and analog systems dominate.
+  - **Saint Aveline**: A remote island that is a conflict zone between the Duvessan government and rebellion.
 
 ## Military
 
@@ -1531,7 +1517,7 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
 
 - **Population**: ~2.5 million, concentrated in Port Sable (~1.2 million) and Normoa (~80,000 in Port Moa).  
 - **Ethnicity**: Blend of native Qheswa peoples and colonial descendants, with Normoa retaining Moan cultural elements.  
-- **Languages**: Qheswa (primary), with French-like dialects in urban areas and DO administration.
+- **Languages**: Duvessan (primary), with Trade Speech ussed in administrative, commercial and educational contexts.
 
 ## Infrastructure
 
@@ -1546,9 +1532,9 @@ Duvessa remains locked in a civil war between the DO and the Sombra Insurgents, 
 
 ## Notable Events
 
-- **The Drift (~146,100 days ago, ~400 Earth years)**: Disrupted trade and climate, leading to DO’s rise.  
-- **Duvessa-Moa War (~110,000 days ago, ~301 Earth years)**: Resulted in Moa’s division into Normoa and Soumoa.  
-- **Sombra Insurgent Uprising (~50,000 days ago, ~137 Earth years)**: Ongoing civil war challenging DO rule.
+- **The Drift**: Disrupted trade and climate, leading to DO’s rise.  
+- **Duvessa-Moa War (AC73-AC80)**: Resulted in Moa’s division into Normoa and Soumoa.
+- **Sombra Insurgent Uprising (AC137)**: Ongoing civil war challenging DO rule.
 
 
 
@@ -1631,6 +1617,87 @@ Because the Eastern Void lies between Khn and Saple Town, the Service is conside
 *See also:* [Anqara](./Anqara.md), [Reddelstone](./Reddelstone.md), [Land of Water](./Land_of_Water.md), [Saple Islands](./Saple_Islands.md)
 
 
+-------------------------------------------------------- Ember_System.md -------------------------------------------------------- 
+
+## Ember System
+
+### Irosha
+
+**Type:** Lost rocky terrestrial planet<br/>
+**Common titles:** The Fallen World, The Watcher, The Burned Planet<br/>
+**Former orbit:** Between Ember Mother and Yanorra<br/>
+**Estimated orbital period:** ~219 Yanorran days<br/>
+**Estimated diameter:** Roughly half to two-thirds of Yanorra’s diameter<br/>
+**Estimated mass:** Uncertain; commonly estimated at less than one-third of Yanorra’s mass<br/>
+**Moons:** None known<br/>
+
+Irosha was the lost inner planet once observed between Yanorra and the Ember Mother. Before The Drift, it was bright enough to hold a place in common sky lore, appearing most often near dawn or dusk as a steady inner wanderer. The fourth row of the Qamar Tables preserves its name, a remnant from an older age when Irosha was associated with vigilance, judgment, and careful recordkeeping.
+
+After The Drift, Irosha’s orbit became increasingly unstable. For generations, observatories recorded its position drifting farther from the old tables, its close passages growing more difficult to predict. In the year AC344, Irosha disappeared during a final close approach to the Ember Mother. 
+
+---
+
+### Yanorra
+
+Yanorra is the inhabited heart of the Ember Mother system, circling the star beside its two moons, Serya and Mirelda. Its present orbit was bent during The Drift, a celestial wound that still governs the world’s calendar, unsettles its seasons, and shapes the rites by which many peoples reckon sacred time.
+
+---
+
+### Nemei
+
+**Type:** Rocky terrestrial planet<br/>
+**Common title:** The Sister Planet<br/>
+**Orbit:** Slightly farther from Ember Mother than Yanorra<br/>
+**Orbital period:** ~389 Yanorran days<br/>
+**Diameter:** ~0.97 Yanorra diameters<br/>
+**Mass:** ~0.89 Yanorra masses<br/>
+**Moons:** Two small captured moons<br/>
+
+Nemei is Yanorra’s nearest surviving planetary sister, a cold world near the outer edge of the habitable zone and the subject of long-standing speculation among astronomers. Its faint seasonal shifts from green-white to blue-gray have been interpreted as signs of retreating ice, exposed ocean, atmospheric change, or, more controversially, some form of vegetation. To many cultures, Nemei represents reflection, longing, fertility, and the life Yanorra might have lived under different heavens.
+
+---
+
+### Hita
+
+**Type:** Gas giant<br/>
+**Common titles:** The Storm Shield, The Crooked Guardian<br/>
+**Orbit:** Beyond Nemei, sharply inclined relative to the other planets<br/>
+**Orbital period:** ~9.8 Yanorran years<br/>
+**Diameter:** ~11.6 Yanorra diameters<br/>
+**Mass:** ~360 Yanorra masses<br/>
+**Moons:** More than 40 known or suspected<br/>
+**Rings:** Faint, dusty, fed by captured debris<br/>
+
+Hita is the system’s great visible shield, a massive storm-banded giant whose strange upright orbit cuts across the paths of the other worlds. Its gravity helps shape debris from the Amar-Ket Belt, holding back many fragments while occasionally throwing others inward as meteor streams. In religion and folklore, Hita is both protector and danger: the guardian who stands sideways against the heavens, but whose shield sometimes slips.
+
+---
+
+### Amar-Ket Belt
+
+**Type:** Asteroid and debris belt<br/>
+**Common titles:** The Broken Ring, The Grave Road, The Shattered Crown<br/>
+**Orbit:** Between Hita and Solaq-Mar<br/>
+**Composition:** Rock, metal, ice-rich fragments, and dark carbon bodies<br/>
+**Visibility:** Not visible as individual objects to the naked eye, but associated with recurring meteor showers<br/>
+
+The Amar-Ket Belt is the great scar of the Yanorran system. Though invisible as a true ring from the ground, its dust trails produce recurring meteor showers that have shaped centuries of omen, prophecy, and fear. Many traditions describe it as the remains of a broken world, a warning that planets, kingdoms, and divine orders can be shattered.
+
+---
+
+### Solaq-Mar
+
+**Type:** Outer gas giant or ice giant<br/>
+**Common titles:** The Dark Shepherd, The Black Lantern, The Vanishing Planet<br/>
+**Orbit:** Far beyond the Amar-Ket Belt<br/>
+**Orbital period:** ~74 Yanorran years<br/>
+**Diameter:** ~6.5 Yanorra diameters<br/>
+**Mass:** ~61 Yanorra masses<br/>
+**Moons:** At least 9 known<br/>
+**Rings:** Very dark, nearly invisible<br/>
+
+Solaq-Mar is the farthest known planet, a dim blue-black giant that vanishes from ordinary sight for decades at a time. Some generations see it clearly; others know it only through records and inherited stories. Its rare returns are associated with grief, hidden gods, forgotten truths, and things once dismissed as myth becoming visible again.
+
+
 -------------------------------------------------------- Endotoku.md -------------------------------------------------------- 
 
 # Endotoku
@@ -1690,19 +1757,19 @@ Because the Eastern Void lies between Khn and Saple Town, the Service is conside
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 
@@ -1843,7 +1910,7 @@ The southern border of Hav is characterized by a large mountain range called the
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 Hav was a sparsely populated region, primarily inhabited by nomadic tribes who relied on hunting and gathering. As neighboring S'Tsutodo to north searched for alternative food sources, they discovered the fertile valleys of Hav. 
 
@@ -1851,7 +1918,7 @@ S'Tsutodo's expansion into Hav, however, caused conflict with the indigenous tri
 
 Two hundred years before The Drift, Hav officially became a protectorate of Ronobetu, which established trade routes and military outposts to secure its interests in the region. This led to increased stability and the development of Hav's agricultural practices, particularly in the fertile valleys.
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 After The Drift, many states adopted isolationist policies to protect their resources and populations. Hav, cut off from Ronobetu due to the Brooding Sea's dangers, focused on self-sufficiency and local governance.
 
@@ -1859,7 +1926,7 @@ S'Tsutodo, desperate for food, attempted to reassert control over Hav, but the i
 
 Instead, Hav's leaders declared independence, establishing a loose confederation of tribes and settlements. This confederation quickly normalized trade with S'Tsutodo, exchanging agricultural goods for manufactured items and technology.
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 After The Drift, Hav remained isolated and relied on subsistence farming. Around 145.400.0 (~300 years ago), iron deposits in the Iron Peaks were developed, first through small forges and later larger smelters. This marked the beginning of Hav’s industrial growth.
 
@@ -1871,7 +1938,7 @@ Industrialization also displaced many clans in the southern valleys, leading to 
 
 Hav’s economy was based on iron and coal exports, giving it influence in trade with S’Tsutodo and Ronobetu. 
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 In the present day, Hav is defined by its iron industry. Mining in the Iron Peaks continues to be the country’s economic foundation, with ore processed in Flord-Clif and exported through Harbortown Yval. Coal remains the primary fuel source, though small power stations provide electricity to parts of the capital and surrounding towns.
 
@@ -1934,19 +2001,145 @@ Despite these divisions, Hav has achieved modest prosperity. Its iron exports ma
 
 (TBD)
 
+-------------------------------------------------------- Hennamaria.md -------------------------------------------------------- 
+
+# Hennamaria
+
+<span y-type="mapelement" y-zoom="5" y-center="-22.26, -26.89" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+
+#### Table of Contents
+- [Overview](#overview)
+- [Geography](#geography)
+- [Climate](#climate)
+- [History](#history)
+- [Politics](#politics)
+- [Economy](#economy)
+- [Culture](#culture)
+- [Technology](#technology)
+- [Military](#military)
+- [Demographics](#demographics)
+- [Infrastructure](#infrastructure)
+- [Environment](#environment)
+- [Notable Events](#notable-events)
+
+**Hennamaria** is a nation.
+
+<a href="../Maps/Hennamaria.png" target="_blank"><img src="../Maps/Hennamaria.png" width="50%" height="50%"></a>
+
+## Overview
+
+- **Name**: Hennamaria  
+- **Capital**: Thetbury (population: ~80,000)
+- **Largest City**: Levilbury (population: 117,000)
+- **Area**: (TBD) km² (15,000 sq mi)
+- **Government**: (TBD)
+- **Official Language**: (TBD)  
+- **Population**: 1 million (estimated)  
+- **Currency**: (TBD)  
+- **Religion**: (TBD)  
+
+## Geography
+
+### Location
+
+(TBD)
+
+### Terrain 
+
+(TBD)
+
+### Key Regions
+
+(TBD)
+
+## Climate
+
+(TBD)
+
+## History
+
+### Pre-Drift Era
+
+(TBD)
+
+### The Drift
+
+(TBD)
+
+### Post-Drift Era
+
+(TBD)
+
+### Current Era
+
+(TBD)
+
+## Politics
+
+- **Government**: (TBD)  
+- **Foreign Relations**: (TBD)  
+- **Key Issues**: (TBD)
+
+## Economy
+
+- **Overview**: (TBD)  
+- **Main Exports**: (TBD)  
+- **Main Imports**: (TBD)  
+- **Trade Hubs**: (TBD)  
+- **Challenges**: (TBD)
+
+## Culture
+
+- **Cultural Influences**: (TBD)  
+- **Religion**: (TBD)  
+- **Society**: (TBD)  
+
+## Technology
+
+- **Communication**: (TBD)  
+- **Power**: (TBD)  
+- **Transportation**: (TBD)  
+- **Computing**: (TBD)
+
+## Military
+
+- **Overview**: (TBD)  
+- **Key Conflicts**: (TBD)
+
+## Demographics
+
+- **Population**: 700,000 (estimated)  
+- **Ethnicity**: (TBD)  
+- **Languages**: (TBD)  
+
+## Infrastructure
+
+- **Ports**: (TBD)  
+- **Fortifications**: (TBD)  
+- **Housing**: (TBD)
+
+## Environment
+
+- **Post-Drift Effects**: (TBD)  
+- **Natural Resources**: (TBD)
+
+## Notable Events
+
+(TBD)
+
 -------------------------------------------------------- Horizon_Chain.md -------------------------------------------------------- 
 
 # Horizon Chain
 
-Horizon Chain is a ground-based long-range navigation system used by ships, survey teams, rescue offices, and military navigators across much of Yanorra. It allows a properly equipped receiver to estimate its position by comparing timed radio pulses sent from fixed land stations known as chain towers.
+Horizon Chain is a ground-based long-range navigation system used by civilian and government navigators across much of Yanorra. It allows a properly equipped receiver to estimate its position by comparing timed radio pulses sent from fixed land stations known as chain towers.
 
-The system came online in early [AC418](./Calendar.md), first providing service along the coastal nations of the [Brooding Sea](./Brooding_Sea.md). It was developed in response to the navigational failures that followed [The Drift](./The_Drift.md), when older maritime tables and compass bearings became less reliable over long distances. Horizon Chain does not make dangerous waters safe, but it gives navigators a better way to confirm where they are when weather or poor visibility has made ordinary methods uncertain.
+The system came online in early [AC414](./Calendar.md) in eastern [Ronobetu](./Ronobetu.md) and [S'Tsutodo](./S_Tsutodo.md), providing service along the coastal nations of the [Brooding Sea](./Brooding_Sea.md). It was developed in response to the navigational failures that followed [The Drift](./The_Drift.md), when older maritime tables and compass bearings became less reliable over long distances. Horizon Chain gives navigators a better way to confirm where they are when weather or poor visibility has made ordinary methods uncertain.
 
 Line of sight is not required for Horizon Chain receiver to work. It only needs to receive enough timed pulses from different towers in the same operating chain. By comparing the slight differences in arrival time, the receiver can calculate a position estimate and display it as a chart reference or numbered grid position, depending on the device.
 
 Current Horizon Chain accuracy is generally listed at three to six hundred paces under normal conditions. During storms, atmospheric distortion, or heavy interference, accuracy may fall beyond a thousand paces. Even then, it remains useful enough to keep vessels near safe corridors, help rescuers locate damaged ships, and allow survey teams to correct older maps.
 
-As of the present era, most nations have deployed the chain towers and timing stations needed to provide coverage across much of Yanorra, extending as far west as [Cam Tower](./Cam_Tower.md) and as far east as [Byad](./Byad.md). Expansion north to [Sabletown](./Sabletown.md) is scheduled for late [AC420](./Calendar.md), which will bring the northern Riftlands more securely into the navigation field. By [AC425](./Calendar.md), planners expect coverage to reach as far south as [Hav](./Hav.md) in the southwest and the [Saple Islands](./Saple_Islands.md) in the southeast.
+Most nations have deployed the chain towers and timing stations needed to provide coverage across much of Yanorra, extending as far west as [Cam Tower](./Cam_Tower.md) and as far east as [Byad](./Byad.md). Expansion north to [Sabletown](./Sabletown.md) is scheduled for late [AC420](./Calendar.md), which will bring the northern Riftlands more securely into the navigation field. By [AC425](./Calendar.md), planners expect coverage to reach as far south as [Hav](./Hav.md) in the southwest and the [Saple Islands](./Saple_Islands.md) in the southeast.
 
 Although Horizon Chain is often described as a single system, it is really a linked network of regional chains. Each chain depends on maintained towers, accurate surveys, disciplined timing engines, and clear correction tables. Local failures can create gaps, and some governments have restricted tower data for political reasons such as border disputes or war.
 
@@ -2007,6 +2200,599 @@ Today, Intalink is often taken for granted, but its history is still remembered 
 *See also:* [Barrel](./Barrel.md), [Velu](./Velu.md), [Duvessa](./Duvessa.md), [Reddelstone](./Reddelstone.md), [Saple Islands](./Saple_Islands.md), [Land of Water](./Land_of_Water.md)
 
 
+-------------------------------------------------------- Khn_Crisis.md -------------------------------------------------------- 
+
+# The Khn Crisis
+
+The **Khn Crisis** was a political and diplomatic confrontation between the frontier city of **Khn** and the government of **Velu** that resulted in Khn becoming a functionally autonomous city-state.
+
+The crisis began after Khn requested national assistance for the increasingly expensive containment of the **Konashi** growth south of the Khn River. The Veluan government refused major assistance, maintaining that containment remained a local responsibility. Khn subsequently appealed directly to foreign governments and private relief organizations.
+
+The neighboring nation of **Barrel** became the first foreign government to send substantial assistance. Its decision was followed by widespread international criticism of Velu, particularly after journalist **Ilyra Dast** published a widely read account of conditions along the containment line.
+
+Velu responded by asserting its authority over foreign relief entering what it continued to regard as Veluan territory, threatening duties, seizure, and in some cases destruction of unauthorized supplies.
+
+Khn's council then issued the threat for which the crisis is remembered: if Veluan soldiers or tax officials attempted to enforce the order, Khn would suspend containment operations south of the river.
+
+Velu ultimately withdrew its enforcement order.
+
+Although Khn never issued a conventional declaration of independence, Veluan authority in the city effectively ended during the crisis. Foreign governments subsequently dealt directly with Khn's council, and the city gradually assumed the functions of an independent state.
+
+Velu continues to dispute Khn's legal independence.
+
+---
+
+## Background
+
+Khn lies at the northern edge of the **Nashi Fields of the Eastern Void**, where the Khn River forms the most important natural barrier between the unmanaged Konashi growth to the south and the inhabited lands to the north.
+
+The containment line developed gradually after the collapse of **Kona** and the abandonment of much of the eastern lowlands.
+
+Unlike ordinary nashi, the strain surrounding Kona became increasingly difficult to control. This strain, eventually known as **Konashi**, grew rapidly through disturbed soil, produced deep underground runners, frequently returned after burning, and sometimes responded to cutting by producing multiple new points of growth.
+
+As settlements disappeared from the eastern lowlands, the practical authority of Velu disappeared with them.
+
+Khn remained.
+
+Over time, the city developed an elaborate containment system based around:
+
+- salted fields
+- brine trenches
+- controlled burns
+- runner cutting
+- river watches
+- perimeter patrols
+- bell and fence warning systems
+- strict controls on movement south of the river
+
+Containment crews crossed the Khn River continually to destroy new growth before it could establish itself north of the existing line.
+
+These operations were never expected to eliminate Konashi.
+
+Their purpose was simply to prevent the line from moving.
+
+---
+
+## Government of Khn
+
+At the time of the crisis, Khn was governed by the **Khn Council**, a municipal body whose responsibilities had expanded considerably as the surrounding region became depopulated.
+
+The presiding member of the council was known as the **First Councillor**.
+
+Although comparable in some respects to a mayor, the First Councillor traditionally possessed limited independent authority. Most important decisions were made collectively by the council.
+
+This system reflected Khn's frontier character. Many services that elsewhere would be regarded as national responsibilities were treated in Khn as municipal functions.
+
+These included:
+
+- maintenance of salt reserves
+- operation of burn units
+- river defense
+- emergency evacuation planning
+- control of travel into the Eastern Void
+- medical support for containment workers
+- maintenance of the Khn Trail
+
+By the time of the crisis, the distinction between ordinary municipal government and frontier defense had largely disappeared.
+
+### Nera Vey
+
+**Nera Vey**, First Councillor during the crisis, became the principal political figure associated with Khn's emergence as an autonomous state.
+
+Vey was not initially considered a separatist.
+
+She regarded Khn as part of Velu and repeatedly sought assistance through established Veluan political channels. Later accounts emphasizing Vey as the founder of an independent Khn often overlook her reluctance to sever the city's relationship with Byad.
+
+A statement frequently attributed to her in later years summarized this position:
+
+> "Khn did not leave Velu. Velu stopped coming to Khn."
+
+Whether these were her exact words is uncertain.
+
+### Tomas Kesh
+
+**Tomas Kesh**, Councillor for Containment and Works, represented the harder faction within the Khn Council.
+
+Before entering politics, Kesh had spent many years working with the burn units and was known for his close relationship with containment crews.
+
+During the later confrontation with Velu, Kesh became one of the strongest advocates of using Khn's control of the containment line as political leverage.
+
+He argued that Velu could not simultaneously declare containment a local responsibility while asserting national authority over the supplies required to perform that responsibility.
+
+---
+
+## Khn's Request for Assistance
+
+The immediate crisis developed during a period of increasing pressure on Khn's containment system.
+
+Salt reserves were falling, equipment required replacement, and several burn units were operating with insufficient fuel and medical supplies.
+
+The Khn Council sent a formal request to the government in **Byad**, asking for national assistance.
+
+The request reportedly included:
+
+- bulk salt
+- fuel
+- replacement pumps
+- cutting equipment
+- protective clothing
+- medical supplies
+- transport vehicles
+- additional trained personnel
+
+President **Arven Tal** and his government declined to assume responsibility for the operation.
+
+Veluan ministries argued that Khn had historically administered the containment line locally and that accepting Khn's request would create a permanent national obligation of uncertain cost.
+
+Limited technical assistance was reportedly discussed, but the large-scale material support requested by Khn was rejected.
+
+The government described the matter as a **local containment responsibility**.
+
+This phrase later became infamous.
+
+---
+
+## Ilyra Dast and the Leaked Refusal
+
+The refusal might have remained a relatively obscure administrative decision had a copy not reached **Ilyra Dast**, an independent journalist based in Byad.
+
+Dast regularly contributed reporting to ***The National Record***, one of Velu's most widely read and respected news publications.
+
+The *Record* employed editors and a relatively small permanent reporting staff but purchased much of its field reporting from independent correspondents. This allowed journalists such as Dast to pursue stories without being formally employed by the publication.
+
+After receiving the leaked refusal, Dast chose not to publish immediately.
+
+She instead traveled to Khn.
+
+Her later accounts state that she initially believed the dispute might have been exaggerated by local officials seeking additional national funding.
+
+What she found changed the story.
+
+Dast traveled with containment workers south of the Khn River, observed burn operations, visited medical stations, interviewed families of injured and dead workers, and inspected areas where recently cleared ground had already begun producing new runners.
+
+The central conclusion of her reporting was simple:
+
+Khn was not fighting to reclaim the Eastern Void.
+
+It was fighting to keep the Eastern Void where it already was.
+
+---
+
+## Barrel Intervenes
+
+While Dast was still in Khn, the Khn Council began quietly approaching governments outside Velu.
+
+The most important early response came from **Barrel**.
+
+Barrel shared a long land border with Velu and was therefore capable of moving heavy supplies toward Khn far more easily than most other nations.
+
+President **Mara Senn** authorized an emergency relief package after Barrel officials concluded that failure of the Khn containment line represented a regional environmental danger.
+
+The first Barrel shipment included large quantities of:
+
+- salt
+- fuel
+- pumping equipment
+- cutting tools
+- protective equipment
+- food
+- medicine
+- spare machine parts
+
+Barrel also offered mechanics, medical workers, and technical personnel.
+
+Senn's government emphasized that Barrel was not taking a position on whether Khn possessed any right to political independence.
+
+Its position was instead that uncontrolled Konashi represented a threat extending beyond Velu's domestic politics.
+
+A statement attributed to Senn became one of the better-known phrases of the crisis:
+
+> "Konashi does not recognize Veluan sovereignty."
+
+The Barrel government offered to coordinate the shipment with Byad, but did not make delivery conditional on Veluan approval.
+
+The supplies were instead transferred directly to Khn authorities.
+
+---
+
+## *South of the Khn*
+
+Ilyra Dast waited until the first Barrel supplies reached Khn before publishing her account.
+
+The article appeared in *The National Record* under the title:
+
+### **South of the Khn**
+
+Its widely reproduced subtitle read:
+
+> **For twelve days I watched Khn hold a frontier its own government calls a local matter. Yesterday, help arrived. It came from Barrel.**
+
+The article combined descriptions of the containment line with documents showing Khn's request for assistance and the Veluan government's refusal.
+
+Dast contrasted the government's characterization of the issue as a municipal matter with the scale and danger of the operations she witnessed.
+
+Most damaging politically was the arrival of Barrel aid.
+
+For many Veluans, the issue became less about administrative responsibility and more about national embarrassment.
+
+A foreign government was supplying Veluan citizens engaged in the defense of territory that Velu itself continued to claim.
+
+The article circulated rapidly through Intalink and was republished or summarized across East Yanorra.
+
+Within days, the Khn dispute had become an international issue.
+
+---
+
+## The Wanorran Precedent
+
+The international reaction was intensified by the existence of smaller nashi containment zones elsewhere in Yanorra.
+
+The most frequently cited example was the **Hesk Valley Containment Zone** in **Ronobetu**.
+
+Several decades earlier, nashi escaped from a commercial growing operation following flooding in an agricultural valley.
+
+The affected region was small compared with the Eastern Void, but Ronobetu responded aggressively.
+
+Roads were closed, several farms were evacuated, large amounts of soil were salted, and surrounding agricultural land was deliberately sacrificed to create a containment belt.
+
+The government eventually established the **Hesk Containment Service**, which continued maintaining the perimeter long after the initial emergency ended.
+
+The outbreak was contained but never fully eradicated.
+
+Even many years later, crews continued inspecting waterways, cutting new runners, burning growth, and maintaining salt barriers.
+
+The Hesk experience became deeply influential in Ronobetuan agricultural policy.
+
+It also meant that when Khn warned that abandoning an established containment line could allow nashi to begin spreading again, Ronobetuan officials required little explanation.
+
+They had their own line.
+
+The difference was scale.
+
+---
+
+## International Reaction
+
+The publication of *South of the Khn* produced widespread condemnation of Velu.
+
+### Ronobetu
+
+Ronobetu's **Plains Council**, which oversees agricultural reserves and emergency planning, issued one of the strongest technical criticisms of Velu's position.
+
+Its statement rejected the idea that long-term nashi containment could reasonably be considered an ordinary municipal agricultural service.
+
+Ronobetu subsequently offered funding, equipment, and several specialists associated with the Hesk containment system.
+
+Moving physical assistance from Wanorra to East Yanorra was considerably more difficult than sending supplies from Barrel, and much of the initial Ronobetuan contribution consisted of financial support, technical recommendations, and personnel whose journey to Khn would take considerable time.
+
+Nevertheless, the political importance of Ronobetu's support was substantial.
+
+Ronobetu was not speculating about the danger.
+
+It had direct experience with permanent nashi containment.
+
+A remark attributed to a senior Hesk official was widely repeated after Dast interviewed him:
+
+> "If we stop maintaining the line, eventually there isn't a line."
+
+### Bibi Shirif
+
+**Bibi Shirif** also condemned Velu.
+
+Its government argued that a threat capable of expanding beyond national borders could not be dismissed solely as an internal matter.
+
+Bibi Shirif initially offered financial assistance and announced that it would contribute toward foreign relief shipments bound for Khn.
+
+One widely quoted statement from the Shirifi debate declared:
+
+> "Velu has found money to tax the salt, but none to buy it."
+
+The phrase became a popular slogan throughout the crisis.
+
+### Reddelstone
+
+**Reddelstone** strongly supported Khn's request for assistance.
+
+As the principal center of Anqaran nashi cultivation and the region with the longest institutional knowledge of nashi containment, Reddelstone's technical opinion carried considerable weight.
+
+Anqaran specialists warned that Konashi represented a particularly dangerous form of unmanaged growth and that interruption of an established containment system could have consequences that were difficult to reverse.
+
+Several Reddelstone growers and containment specialists later joined foreign technical teams traveling to Khn.
+
+### Wider Reaction
+
+Other governments and private relief organizations began pledging assistance after the Barrel shipment and Dast's reporting.
+
+Offers included:
+
+- food
+- medicine
+- fuel
+- salt
+- vehicles
+- pumps
+- protective equipment
+- medical personnel
+- agricultural specialists
+- money
+
+The issue quickly developed beyond Khn itself.
+
+The growing international position was that Velu could not insist that the Konashi problem was local while simultaneously preventing outside organizations from helping the locality responsible for containing it.
+
+---
+
+## Velu's Response
+
+For President Arven Tal, the issue had by then become larger than the original request for assistance.
+
+Foreign governments were communicating directly with a Veluan municipality.
+
+Khn officials were negotiating shipments, receiving foreign personnel, signing transport documents, and making agreements without approval from Byad.
+
+From the perspective of Tal's government, this threatened Veluan sovereignty.
+
+The government therefore announced that all relief entering Veluan territory remained subject to Veluan law.
+
+Foreign shipments would require:
+
+- customs inspection
+- import authorization
+- payment of applicable duties
+- licensing of foreign personnel
+- inspection of fuels, chemicals, and agricultural materials
+
+Unauthorized shipments could be seized.
+
+Materials considered biologically or environmentally unsafe could be destroyed.
+
+The government argued that these were ordinary sovereign powers being applied to an unusual situation.
+
+Its critics saw something else.
+
+Velu had refused to provide the supplies.
+
+Now it intended to tax or confiscate supplies provided by governments that had agreed to do so.
+
+---
+
+## The Customs Confrontation
+
+The dispute became immediate when Veluan customs authorities attempted to place restrictions on subsequent relief convoys.
+
+Khn refused to surrender the goods.
+
+Byad warned that customs personnel could be accompanied by security forces if necessary.
+
+This produced the most serious internal debate in the Khn Council.
+
+Some councillors argued that Khn should pay the duties rather than risk military confrontation.
+
+Others argued that doing so would acknowledge Byad's right to control the relief effort.
+
+A smaller faction favored declaring independence immediately.
+
+Nera Vey opposed such a declaration.
+
+Tomas Kesh proposed a different response.
+
+If Velu insisted that Khn remained Veluan territory, he argued, then Velu could assume responsibility for defending that territory.
+
+Khn's containment crews could simply remain north of the river.
+
+The suggestion was initially regarded by some councillors as unthinkable.
+
+Suspending containment could allow Konashi to enter recently cleared ground and begin moving north.
+
+Opponents described the proposal as blackmail and argued that it threatened people far beyond Velu.
+
+Supporters answered that Khn had already been asked to risk its people indefinitely while Byad declined responsibility for the work.
+
+The council eventually approved a conditional version of the proposal.
+
+---
+
+## The Khn Ultimatum
+
+Khn informed the Veluan government that if soldiers or tax officials entered the city for the purpose of confiscating, taxing, or preventing the distribution of foreign containment aid, operations south of the Khn River would be suspended.
+
+The exact wording of the communication remains disputed.
+
+The version preserved in later Khn records states:
+
+> **Should Veluan military or customs personnel attempt to seize relief materials intended for containment operations, Khn will suspend all municipal operations south of the Khn River until those personnel withdraw.**
+
+The message did not explicitly threaten to release Konashi.
+
+It did not need to.
+
+Everyone involved understood what suspension meant.
+
+Without burn units, salt crews, river watches, pumps, and perimeter cutting, new growth would begin occupying the cleared belt.
+
+Whether Khn actually intended to abandon the line for an extended period remains one of the central historical controversies surrounding the crisis.
+
+---
+
+## The Standoff
+
+Velu dispatched personnel toward Khn while continuing negotiations with the council.
+
+Khn did not mobilize an army.
+
+Instead, Vey ordered containment crews preparing for their morning crossings to remain north of the river.
+
+For the first time in years, sections of the southern containment belt went unattended.
+
+The suspension was brief.
+
+Nevertheless, observers reported new runners appearing in recently cleared areas and reaching portions of the salt perimeter normally inspected several times each day.
+
+Foreign journalists and relief workers present in Khn recorded the inactivity.
+
+The political meaning was unmistakable.
+
+Khn did not need sufficient military strength to defeat Velu.
+
+Its leverage was the work Velu had refused to perform.
+
+---
+
+## Velu Backs Down
+
+President Tal's government eventually ordered enforcement personnel not to enter Khn.
+
+The customs requirements affecting relief shipments were suspended pending further review.
+
+Velu publicly denied that it had surrendered its authority.
+
+Official statements described the decision as a temporary emergency exemption intended to ensure uninterrupted environmental containment.
+
+Khn immediately resumed operations south of the river.
+
+No formal peace agreement was signed.
+
+No independence treaty followed.
+
+No declaration of independence was issued.
+
+Yet Veluan authority in Khn never meaningfully returned.
+
+---
+
+## Birth of the City-State
+
+The autonomy of Khn developed from the precedent created during the crisis.
+
+Foreign governments continued dealing directly with the Khn Council regarding containment assistance.
+
+Khn increasingly administered its own:
+
+- customs procedures
+- local security
+- relief agreements
+- border access
+- taxation
+- emergency regulations
+- foreign technical missions
+
+Veluan officials entering the city increasingly did so through arrangements negotiated with Khn rather than through direct national authority.
+
+Over time, foreign governments began treating communications issued by the First Councillor as official communications of Khn.
+
+Most stopped routing Khn-related matters through Byad.
+
+Khn therefore became independent in practice without ever experiencing a conventional moment of independence.
+
+Its sovereignty accumulated through use.
+
+Byad continued listing Khn as Veluan territory.
+
+Khn stopped asking.
+
+---
+
+## Political Status
+
+Khn is now generally described outside Velu as an **autonomous city-state**.
+
+Velu continues to maintain that Khn remains part of its national territory and that the emergency arrangements established during the crisis never constituted legal secession.
+
+Khn rejects this interpretation.
+
+Its government maintains that Velu surrendered practical authority when it refused responsibility for the containment line and later accepted Khn's right to administer foreign assistance independently.
+
+Most foreign governments avoid taking an explicit legal position.
+
+In practice, however, they deal directly with Khn.
+
+This distinction has allowed Velu and Khn to avoid a permanent military confrontation while maintaining fundamentally incompatible interpretations of their relationship.
+
+---
+
+## Legacy
+
+The Khn Crisis is remembered for more than the creation of a city-state.
+
+It changed political thinking throughout Yanorra about environmental hazards that cross borders.
+
+Before the crisis, containment was generally treated as the responsibility of the government controlling the affected territory.
+
+After Khn, a different principle gradually gained acceptance:
+
+**A state's sovereignty over a hazard does not remove its responsibility to prevent that hazard from threatening others.**
+
+The principle has never been universally codified, but it influences modern agreements involving invasive organisms, water contamination, wildfire corridors, agricultural disease, and other cross-border environmental threats.
+
+The crisis also transformed international perceptions of Khn.
+
+Before the confrontation, Khn was generally regarded as a remote Veluan frontier town.
+
+Afterward, it became widely viewed as the guardian of one of the most dangerous environmental boundaries in the known world.
+
+---
+
+## Debate and Controversy
+
+The morality of Khn's ultimatum remains disputed.
+
+Critics argue that Khn threatened potentially catastrophic environmental consequences in order to achieve political concessions.
+
+Some Veluan historians describe the incident as **containment blackmail**, arguing that Khn effectively held Velu and neighboring countries hostage.
+
+Supporters reject this interpretation.
+
+They argue that Khn did not create the threat and did not demand wealth, territory, or political privilege.
+
+It asked for the material necessary to continue performing work that Velu itself had refused to assume.
+
+According to this interpretation, the ultimatum merely forced Velu to confront the consequence of its own policy.
+
+A question frequently used to summarize the historical debate is:
+
+> **Did Khn hold Yanorra hostage, or did Yanorra finally discover that Khn had been its hostage all along?**
+
+No consensus exists.
+
+---
+
+## Major Figures
+
+### Nera Vey
+
+First Councillor of Khn during the crisis. Led negotiations with foreign governments and authorized the ultimatum that resulted in Velu withdrawing its enforcement effort.
+
+### Tomas Kesh
+
+Councillor for Containment and Works. Former burn-unit officer and major advocate of suspending containment operations if Veluan forces entered Khn.
+
+### Arven Tal
+
+President of Velu. His government's refusal to assume responsibility for the containment line and subsequent attempt to regulate foreign aid transformed a local funding dispute into an international crisis.
+
+### Mara Senn
+
+President of Barrel. Authorized the first major foreign relief shipment to Khn and defended Barrel's decision as an environmental rather than territorial intervention.
+
+### Ilyra Dast
+
+Independent Veluan journalist whose article ***South of the Khn*** brought the containment crisis to widespread public attention. Her reporting is generally regarded as one of the decisive factors in transforming the dispute into a national and international political issue.
+
+---
+
+## See Also
+
+- [Khn](./Khn.md)
+- [Nashi](./Nashi.md)
+- [Eastern Void](./EasternVoid.md)
+- [Velu](./Velu.md)
+- [Barrel](./Barrel.md)
+- [Ronobetu](./Ronobetu.md)
+- [Reddelstone](./Reddelstone.md)
+- [Bibi Shirif](./Bibi_Shirif.md)
+- [Khn Trail](./EasternVoid.md)
+- Hesk Valley Containment Zone
+
 -------------------------------------------------------- Land_of_Water.md -------------------------------------------------------- 
 
 # Land of Water
@@ -2066,19 +2852,19 @@ Today, Intalink is often taken for granted, but its history is still remembered 
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 
@@ -2532,11 +3318,13 @@ Now classified as a distant cold dwarf.
 
 # Nashi
 
-**Nashi** is a highly valued agricultural plant of Anqaran origin, known equally for its usefulness and its danger. In controlled cultivation, it produces a dark, bitter-sweet flesh used in food, drink, medicine, ceremony, and trade. Its fibers and oils are also prized in several industries. In unmanaged soil, however, nashi spreads aggressively through root-runners and can overwhelm surrounding crops, native vegetation, roads, riverbanks, and even small settlements.
+**Nashi** is a highly valued agricultural plant known equally for its usefulness and its danger.
 
-Among scholars, nashi is often described as one of Yanorra’s most contradictory gifts: a plant that has fed towns, enriched nations, inspired rituals, soothed the sick, clothed the poor, and destroyed entire districts.
+In controlled cultivation, it produces a dark, bitter-sweet herb used in food, drink and medicine. Its fibers and oils are also prized in several industries. 
 
-In most of East Yanorra, nashi is regulated as a high-value crop. In the **Nashi Fields of the Eastern Void**, it is regarded as an advancing disaster.
+In the wild, nashi spreads quickly and aggressively, and can overwhelm surrounding crops, native vegetation, roads, riverbanks, and even small settlements.
+
+In most of Yanorra, nashi is regulated as a high-value crop. In the **Nashi Fields of the Eastern Void**, it is regarded as an advancing disaster.
 
 ---
 
@@ -2580,27 +3368,21 @@ For this reason, most respectable physicians distinguish between **kept nashi** 
 
 ## History
 
-## History
+The earliest accounts of nashi connect it to the Anqaran people, who are said to have arrived in Velu after the disputed voyages of **Thalen of the Eastvoid**. According to Veluan-Anqaran folklore, Thalen returned from the land called **Anqara** with unfamiliar artifacts, plant specimens, and a small group of Anqaran people. Among the plants attributed to those settlers was nashi.
 
-The earliest accounts of nashi connect it to the Anqaran people, who are said to have arrived in Velu after the disputed voyages of **Thalen of the Eastvoid**. According to Veluan and Anqaran folklore, Thalen returned from the land called **Anqara** with unfamiliar artifacts, plant specimens, and a small group of Anqaran settlers. Among the plants attributed to those settlers was nashi.
+The Anqarans understood that it could not be treated like ordinary grain, vine, or orchard stock. It required barriers, burn circles,and disciplined cutting. Early Anqaran growers cultivated it in small, watched plots and passed down strict rules for its handling.
 
-At first, nashi was rare and closely guarded. The Anqarans understood that it could not be treated like ordinary grain, vine, or orchard stock. It required barriers, burn circles, sealed vessels, and disciplined cutting. Early Anqaran growers cultivated it in small, watched plots and passed down strict rules for its handling.
+Veluan farmers attempted to grow nashi themselves. These efforts produced mixed results at first, then disaster. In open farmland, nashi roots spread quickly into nearby fields, choking other crops and returning after ordinary clearing. Within only a few growing seasons, several districts learned that nashi was not merely difficult to control, but capable of making land unusable.
 
-Veluan farmers, impressed by the plant’s value and suspicious of Anqaran secrecy, attempted to grow nashi themselves. These efforts produced mixed results at first, then disaster. In open farmland, nashi root-runners spread quickly into nearby fields, choking other crops and returning after ordinary clearing. Within only a few growing seasons, several districts learned that nashi was not merely difficult to control, but capable of making land unusable.
-
-As tensions between Veluans and Anqarans increased, Anqaran communities were pushed away from the fertile plains and into the mountainous interior of central Velu. There they discovered deposits of **Reddle Stone**, a mineral that, when crushed and mixed into clay, hardened into a barrier capable of blocking the underground spread of nashi roots. This discovery changed the history of the plant. With Reddle Stone, nashi could be cultivated at scale without immediately destroying the surrounding land.
+Anqaran communities were pushed away from the fertile plains of eastern Velu and into the mountainous interior of central Velu. There the Anqarans discovered deposits of **Reddle Stone**, a mineral that, when crushed and mixed into clay, hardened into a barrier capable of blocking the underground spread of nashi roots. This discovery changed the history of the plant. With Reddle Stone, nashi could be cultivated at scale without immediately destroying the surrounding land.
 
 The settlement of **Paz** became the center of controlled nashi production. Over time, Paz and the surrounding highland communities formed the heart of **Reddelstone**, now the largest Anqaran settlement and the greatest producer of nashi-derived goods in Yanorra. In Reddelstone, nashi is not treated as a wild force, but as a profitable and, in some cases, sacred crop—dangerous only when handled without respect.
 
-### The Fall of Kona and the Eastern Void
-
-I worked the political history into the Kona section, while keeping the focus on nashi rather than turning it into a full Khn politics entry.
-
 ## The Fall of Kona and the Eastern Void
 
-For several years after **The Drift**, the city of **Kona** was the largest producer of nashi outside Reddelstone. Its fields supplied demand throughout much of East Yanorra. For a time, Kona was celebrated as proof that nashi could be grown profitably beyond Anqaran control.
+For several years after **The Drift**, the city of **Kona** was the largest producer of nashi outside of Reddelstone. Its fields supplied demand throughout much of East Yanorra. For a time, Kona was celebrated as proof that nashi could be grown profitably beyond Anqaran control.
 
-At the time, the lands east of the **Chatunkut Mountains**, and south of the Khn River, were claimed by **Velu**. This was recognized on maps, tax rolls, and government records. Kona, several smaller towns, and the settlements along the eastern lowlands were governed through local magistrates, trade inspectors, agricultural officers, and military detachments who held loyalty to Byad, Velu's capital.
+At the time, the lands east of the **Chatunkut Mountains**, and south of the Khn River, were claimed by **Velu**. This was recognized on maps, tax rolls, and government records. Kona, several smaller towns, and the settlements along the eastern lowlands were governed through local magistrates, and military detachments who held loyalty to Byad, Velu's capital.
 
 As demand for nashi increased, unlicensed growers began planting nashi outside the sanctioned fields. Some did so in hidden plots beyond the city’s inspection zone. Others bribed local officials, falsified field records, or simply counted on the authorities to look away. Whether through corruption, negligence or incompetence enforcement weakened. Nashi spread from legal fields into illegal ones, then from illegal ones into ditches, roadbeds, marshes, riverbanks, and the edges of ordinary farmland.
 
@@ -2650,7 +3432,7 @@ The **Nashi Fields of the Eastern Void** are the vast unmanaged nashi lands of t
 
 <figure style="max-width: 500px; margin: auto; margin-bottom: 15px; margin-top: 15px; text-align: center;">
     <img src="../Images/Nashi1.png" alt="Nashi Fields" style="width: 100%; height: auto;" />
-    <figcaption style="font-size: 0.9em;">A caravan heading through the Nashi Fields south to Saple Town</figcaption>
+    <figcaption style="font-size: 0.9em;">A caravan heading through the Nashi Fields south of Khn Saple Town</figcaption>
 </figure>
 
 People west of the Chatunkut Mountains often describe the Eastern Void with the phrase **“Only nashi.”** This is mostly true, though birds still appear near the coast, and insects return in wet seasons. 
@@ -2826,19 +3608,19 @@ This entry reflects the current consensus of available sources. New information 
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 
@@ -2947,7 +3729,6 @@ Reference
 <span y-type="mapelement" y-zoom="5" y-center="7.93, 32.87" y-minzoom="2" y-maxzoom="7" y-scrollwheelzoom="true" y-debug="true"/>
 
 **Reddelstone** is a landlocked region located in the mountainous interior of central Velu. It is the single largest settlement of the Anqaran people, and is also the largest producer of nashi-derived products.
----
 
 ## Geography
 
@@ -3170,19 +3951,19 @@ Outside the western uplands, the land descends toward a softer coastal belt of f
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 
@@ -3380,132 +4161,6 @@ When Aveline eventually died, the settlers buried him overlooking the inlet that
 
 *See also:* [The Farlands](./The_Farlands.md), [The Riftlands](./The_Riftlands.md), [Duvessa](./Duvessa.md), [The Drift](./The_Drift.md)
 
--------------------------------------------------------- Samariland.md -------------------------------------------------------- 
-
-# Samariland
-
-<span y-type="mapelement" y-zoom="5" y-center="-22.26, -26.89" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
-
-#### Table of Contents
-- [Overview](#overview)
-- [Geography](#geography)
-- [Climate](#climate)
-- [History](#history)
-- [Politics](#politics)
-- [Economy](#economy)
-- [Culture](#culture)
-- [Technology](#technology)
-- [Military](#military)
-- [Demographics](#demographics)
-- [Infrastructure](#infrastructure)
-- [Environment](#environment)
-- [Notable Events](#notable-events)
-
-**Samariland** is a nation.
-
-<a href="../Maps/Samariland.png" target="_blank"><img src="../Maps/Samariland.png" width="50%" height="50%"></a>
-
-## Overview
-
-- **Name**: Samariland  
-- **Capital**: Thetbury (population: ~80,000)
-- **Largest City**: Levilbury (population: 117,000)
-- **Area**: (TBD) km² (15,000 sq mi)
-- **Government**: (TBD)
-- **Official Language**: (TBD)  
-- **Population**: 1 million (estimated)  
-- **Currency**: (TBD)  
-- **Religion**: (TBD)  
-
-## Geography
-
-### Location
-
-(TBD)
-
-### Terrain 
-
-(TBD)
-
-### Key Regions
-
-(TBD)
-
-## Climate
-
-(TBD)
-
-## History
-
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
-
-(TBD)
-
-### The Drift (~146,100 days ago, ~400 Earth years)
-
-(TBD)
-
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
-
-(TBD)
-
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
-
-(TBD)
-
-## Politics
-
-- **Government**: (TBD)  
-- **Foreign Relations**: (TBD)  
-- **Key Issues**: (TBD)
-
-## Economy
-
-- **Overview**: (TBD)  
-- **Main Exports**: (TBD)  
-- **Main Imports**: (TBD)  
-- **Trade Hubs**: (TBD)  
-- **Challenges**: (TBD)
-
-## Culture
-
-- **Cultural Influences**: (TBD)  
-- **Religion**: (TBD)  
-- **Society**: (TBD)  
-
-## Technology
-
-- **Communication**: (TBD)  
-- **Power**: (TBD)  
-- **Transportation**: (TBD)  
-- **Computing**: (TBD)
-
-## Military
-
-- **Overview**: (TBD)  
-- **Key Conflicts**: (TBD)
-
-## Demographics
-
-- **Population**: 700,000 (estimated)  
-- **Ethnicity**: (TBD)  
-- **Languages**: (TBD)  
-
-## Infrastructure
-
-- **Ports**: (TBD)  
-- **Fortifications**: (TBD)  
-- **Housing**: (TBD)
-
-## Environment
-
-- **Post-Drift Effects**: (TBD)  
-- **Natural Resources**: (TBD)
-
-## Notable Events
-
-(TBD)
-
 -------------------------------------------------------- Saple_Islands.md -------------------------------------------------------- 
 
 # Saple Islands
@@ -3571,19 +4226,19 @@ A group of southern islands located off the shore of Saple between the Veloku Oc
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 
@@ -3697,19 +4352,19 @@ A group of southern islands located off the shore of Saple between the Veloku Oc
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 
@@ -4079,7 +4734,7 @@ The climate of Thornbelt is characterized by mild temperatures and high humidity
 
 ## History
 
-### Pre-Drift Era (<span class="ai-generated" data-ai-label="~1,300 Earth years" tabindex="0">~500,000 days ago</span>)
+### Pre-Drift Era
 
 Before The Drift, Thornbelt was a narrow isthmus linking Ronobetu in the west to Duvessa in the east. Over time, well-known crossings emerged where caravans passed and local communities collected tolls. These routes were frequently contested, with local leaders negotiating with both Ronobetu and Duvessa to preserve their own influence and control over passage.
 
@@ -4091,7 +4746,7 @@ The people of Thornbelt developed a reputation for being pragmatically independe
 
 ---
 
-### The Drift (<span class="ai-generated" data-ai-label="~400 Earth years" tabindex="0">~146,100 days ago</span>)
+### The Drift
 
 The Drift transformed Thornbelt into one of the most strategically critical locations in Yanorra. 
 
@@ -4101,7 +4756,7 @@ Both Ronobetu and Duvessa sought to assert control over the region. Caravans fro
 
 As the effects of The Drift settled in, the people of Thornbelt found themselves caught between two powerful neighbors, each seeking to control the flow of goods through what they viewed as their land. 
 
-Approximately <span class="ai-generated" data-ai-label="~10 Earth years" tabindex="0">3,500 days</span> after The Drift, leaders from across the isthmus gathered in the small town of  **Holt** to formalize their independence. They demanded all soldiers from both sides leave the isthmus, and declared that passage through Thornbelt would be controlled by its own people, not by foreign powers.
+In the year AC10, leaders from across the isthmus gathered in the small town of  **Holt** to formalize their independence. They demanded all soldiers from both sides leave the isthmus, and declared that passage through Thornbelt would be controlled by its own people, not by foreign powers.
 
 This moment is remembered as **The Severing of the Belt** and is remembered not as a violent rebellion, but as a collective refusal to be a passage controlled by others.
 
@@ -4196,133 +4851,97 @@ Thornbelt’s strict tariff regime remains the foundation of its power and the s
 
 (TBD)
 
--------------------------------------------------------- Totoku.md -------------------------------------------------------- 
+-------------------------------------------------------- Transportation.md -------------------------------------------------------- 
 
-# Totoku
+# Transportation in Yanorra
 
-<span y-type="mapelement" y-zoom="5" y-center="-13.80, -38.91" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>
+Transportation in Yanorra is dominated by shared overland services, regional railways, and coastal shipping. The relay is the most widespread passenger transport system, linking settlements beyond the reach of rail. Railroads are particularly common in Ronobetu, Barrel and southern Velu. Privately owned diesel vehicles remain relatively uncommon, although ownership is increasing in the wealthy nations of Barrel and Ronobetu.
 
-- Capital: Totoku (population: ~600,000)
+Long-distance journeys frequently combine several modes of transport. A traveler may take a train between major centers, continue by relay through smaller settlements, and board a ship for the coastal or island stages of a journey. Air travel remains experimental.
 
-#### Table of Contents
-- [Overview](#overview)
-- [Geography](#geography)
-- [Climate](#climate)
-- [History](#history)
-- [Politics](#politics)
-- [Economy](#economy)
-- [Culture](#culture)
-- [Technology](#technology)
-- [Military](#military)
-- [Demographics](#demographics)
-- [Infrastructure](#infrastructure)
-- [Environment](#environment)
-- [Notable Events](#notable-events)
+## Railroads
 
-**Totuku** is a mountanous country located in southern Eanorra. It is one o the three nations collectively known as the **Three Sisters** (Totoku, Obetoku, and Endotoku).
+Railroads form an important part of the transport networks. The largest networks are found in Ronobetu, Barrel and southern Velu. They carry passengers and freight between major settlements and provide connections to ports and industrial centers.
 
-<a href="../Maps/Totuku.png" target="_blank"><img src="../Maps/Totuku.png" width="50%" height="50%"></a>
+Rail service is less extensive elsewhere. Thornbelt is constructing a railroad, but the line is not yet fully operational. Existing roads and relay services continue to carry passengers along the corridor.
 
-## Overview
+Railroads and the relay serve complementary roles. Rail concentrates traffic along established routes, while relay carriages provide connections to settlements without stations and carry passengers beyond the ends of completed lines.
 
-- **Name**: Samariland  
-- **Capital**: Totoku (population: TBD)
-- **Largest City**: (TBD)
-- **Area**: (TBD) km² (15,000 sq mi)
-- **Government**: (TBD)
-- **Official Language**: (TBD)  
-- **Population**: (TBD) (estimated)  
-- **Currency**: (TBD)  
-- **Religion**: (TBD)  
+## The relay
 
-## Geography
+The relay is Yanorra's most common passenger transport system. It consists of scheduled road services linking towns, cities, and intermediate wayhouses. Its organization preserves features of older caravan travel, including travel in stages, established stopping places, and the exchange of towing units along a route.
 
-### Location
+### Vehicles and power
 
-(TBD)
+<figure style="max-width: 500px; margin: auto; margin-bottom: 15px; margin-top: 15px; text-align: center;">
+    <img src="../Images/Transportation_Relay1.png" alt="Nashi Fields" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 0.9em;">Passengers board the electric relay at a Thornbelt wayhouse.</figcaption>
+</figure>
 
-### Terrain 
+Passenger carriages are drawn by separate powered vehicles known as haulers. A hauler may tow one or more carriages, depending on the road, gradients, and size of the service. Separating the passenger accommodation from the powered unit allows a carriage to continue its journey after a change of hauler.
 
-(TBD)
+On electrified routes, haulers draw power from overhead wires. The vehicles run on road wheels rather than rails, allowing the service to use existing roads. The extent of electrification and arrangements for unwired sections vary by route.
 
-### Key Regions
+### Wayhouses and operation
 
-(TBD)
+<figure style="max-width: 500px; margin: auto; margin-bottom: 15px; margin-top: 15px; text-align: center;">
+    <img src="../Images/Transportation_Relay2.png" alt="Nashi Fields" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 0.9em;">A diesel-powered relay carrying passengers through the busy streets of Big Bay, Velu.</figcaption>
+</figure>
 
-## Climate
+Wayhouses serve as stopping places, interchange points, and maintenance facilities. Depending on their size, they provide meals, lodging, luggage handling, repairs, and replacement haulers. Longer journeys may include overnight stops.
 
-(TBD)
+Passengers commonly refer to taking "the relay" and to boarding a particular "carriage." The term "hauler" refers to the powered towing vehicle rather than the passenger accommodation.
 
-## History
+The relay remains important even in nations with extensive railroads. Its broad coverage makes it a principal means of reaching smaller settlements and completing journeys that begin by train or ship.
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+## Personal diesel vehicles
 
-(TBD)
+Personal diesel vehicles are becoming more common in Barrel and Ronobetu. Both nations possess the wealth to support increasing private ownership, although shared transport remains important.
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+Private vehicles allow their owners to travel independently of railway timetables and relay departures. Their usefulness nevertheless depends on road conditions and access to fuel and maintenance. Increasing ownership has not displaced the relay as Yanorra's most widespread passenger system.
 
-(TBD)
+## Ships and maritime routes
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+<figure style="max-width: 500px; margin: auto; margin-bottom: 15px; margin-top: 15px; text-align: center;">
+    <img src="../Images/Transportation_SeaPort1.png" alt="Nashi Fields" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 0.9em;">Passengers board a coastal ferry at Gate Thaurin while dockworkers handle cargo along the quay.</figcaption>
+</figure>
 
-(TBD)
+Ships are a common means of moving passengers and freight between coastal settlements and islands. Maritime travel is constrained by conditions in the open oceans: across much of Yanorra, dependable navigation is limited to routes remaining within a few hundred miles of land.
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+Consequently, shipping commonly follows coastlines or moves between islands. A sea journey may require a succession of ports rather than a direct crossing. The distance that vessels can safely venture offshore varies by region and conditions; it is not a single universal limit.
 
-(TBD)
+These restrictions make coastal ports, island connections, and overland passages important parts of the wider transport network.
 
-## Politics
+## Experimental air travel
 
-- **Government**: (TBD)  
-- **Foreign Relations**: (TBD)  
-- **Key Issues**: (TBD)
+<figure style="max-width: 500px; margin: auto; margin-bottom: 15px; margin-top: 15px; text-align: center;">
+    <img src="../Images/Transportation_Airplane1.png" alt="Experimental Air Travel" style="width: 100%; height: auto;" />
+    <figcaption style="font-size: 0.9em;">An experimental tandem-wing aircraft makes a low pass over a test field in Ronobetu during trials to improve control in gusty air.</figcaption>
+</figure>
 
-## Economy
+Universities, governments, and other institutions are experimenting with air travel, but aviation has not developed into a dependable passenger transport system. Atmospheric instability above the terrain restricts the height, range, and reliability of experimental flights.
 
-- **Overview**: (TBD)  
-- **Main Exports**: (TBD)  
-- **Main Imports**: (TBD)  
-- **Trade Hubs**: (TBD)  
-- **Challenges**: (TBD)
+A shifting zone of dangerous wind shear and vertical air currents often begins low above the terrain, well above the rooftops but still within the lower air. Its lower boundary varies with location and atmospheric conditions, and the hazardous air extends substantially higher than the initial boundary.
 
-## Culture
+Under these conditions, individual flights are possible, but predictable long-distance passenger service remains impractical. Institutional research continues into aircraft control, atmospheric measurement, and the identification of temporary flight corridors.
 
-- **Cultural Influences**: (TBD)  
-- **Religion**: (TBD)  
-- **Society**: (TBD)  
+## Regional overview
 
-## Technology
+Yanorra's transport network is organized around distinct regional corridors, with roads, railways, and sea crossings meeting at a limited number of settlements. The mapped routes show the following connections; a drawn railway does not by itself establish that the whole line is open to traffic.
 
-- **Communication**: (TBD)  
-- **Power**: (TBD)  
-- **Transportation**: (TBD)  
-- **Computing**: (TBD)
-
-## Military
-
-- **Overview**: (TBD)  
-- **Key Conflicts**: (TBD)
-
-## Demographics
-
-- **Population**: 700,000 (estimated)  
-- **Ethnicity**: (TBD)  
-- **Languages**: (TBD)  
-
-## Infrastructure
-
-- **Ports**: (TBD)  
-- **Fortifications**: (TBD)  
-- **Housing**: (TBD)
-
-## Environment
-
-- **Post-Drift Effects**: (TBD)  
-- **Natural Resources**: (TBD)
-
-## Notable Events
-
-(TBD)
+| Region | Transport highlights |
+| --- | --- |
+| Ronobetu and S’Tsutodo | Rail links Dotap, Cam Tower, and Dima Eta, with a line through Clitham toward Evey Crossing. |
+| Thornbelt | Thornbelt Pass carries road and relay traffic between Dotap and Fort 32. Mapped rail ends at West Gate 34. |
+| Duvessa and its southern approaches | Port Moa anchors inland roads. Port Sable connects by sea to Sabletown and the islands toward Velu. |
+| Velu | Roads connect to Barrel. Gate Thaurin links by sea to Duvessa via Gate Genesis and Gunsey. |
+| Barrel | Rail links Seshai and Hawntai. The Seshian Crossing connects Seshai by sea to the Rai rail corridor. |
+| Rai–Towboketer corridor | Continuous rail crosses several countries from Rai to Towboketer. The Chatunkut Connector serves the road corridor. |
+| Barrel Islands | Roads link Vagu and Toton. The lost Barrel Islands Route carries no traffic. |
+| Bibishirif, Totoku, and neighboring southern states | Roads link Zayn al-Qamar, Dudbury, and Totoku. The Three Sisters Connector extends toward Sanceibei. |
+| Hav and the outer approaches | The Queen highway links Dima Eta by sea to Alonah-Clif and Flord-Clif. Local trails continue inland. |
 
 -------------------------------------------------------- Tsutodo.md -------------------------------------------------------- 
 
@@ -4380,19 +4999,19 @@ Thornbelt’s strict tariff regime remains the foundation of its power and the s
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 
@@ -4499,19 +5118,19 @@ Velu is located in the northern half of East Yanorra, bordered by the Veloku Oce
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 Velu flourished as a cornerstone of East Yanorra’s agriculture, supplying grains, vegetables, and livestock to Duvessa, Bibi Shirif, and the Three Sisters (Totoku, Endotoku, Obetoku). Its fertile plains and river valleys supported a robust economy.
 
 Shortly before The Drift, Thalen of the Eastvoid, a legendary Velu navigator, claimed to have crossed the uncharted Eastvoid Ocean, landing on a fertile continent named Anqara, though the origin of the name is unclear. According to oral mythos, Thalen made multiple voyages across the Eastvoid Ocean, returning with settlers -- the Anqaran people -- who introduced advanced irrigation, crop diversification, and ritualistic harvest practices. These Anqaran integrated into Velu’s plains, significantly enhancing its agricultural output. However, skepticism persists, with some scholars arguing Thalen’s tales are exaggerated myths and the Anqaran origins are a fabrication to bolster Velu’s and the Anqaran's prestige.
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 The Drift rendered the Veloku Ocean unnavigable and severed Velu’s direct trade routes with most points in West Yanorra. The Eastvoid Ocean, already treacherous, became inaccessible no more than a few miles offshore, casting further doubt on Thalen’s Anqara voyages. 
 
 Velu’s agricultural surplus, critical for West Yanorra, was rerouted through Duvessa’s Riftlands, a chain of islands that became the sole maritime trade conduit. The Anqaran people, still influential in Velu’s agriculture, helped adapt farming practices to the disrupted climate, while Velu’s economy grew increasingly dependent on Duvessa’s trade infrastructure.
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 Velu solidified its agricultural dominance by fortifying Gate Thaurin, transforming it into a heavily guarded trade hub that strictly regulated imports and prohibited immigration to preserve resources. 
 
@@ -4521,7 +5140,7 @@ About 200 years after The Drift, the Anqaran people declared independence, estab
 
 Tensions with Duvessa grew due to Duvessa's control over the Riftlands trade route, fostering resentment among Velu’s leaders and the Anqaran diaspora.
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 Velu remains East Yanorra’s agricultural and economic powerhouse, exporting food to Duvessa, Bibi Shirif, and the Three Sisters. Its strict immigration protect its resources but exacerbate regional tensions, particularly as frustration with Duvessa’s trade monopoly through The Riftlands grows. 
 
@@ -4559,7 +5178,6 @@ Velu has advanced its communication technology, developing a cable-phone system 
 - **Communication**: Likely limited to packet radio and shortwave relays, similar to Duvessa, with delays due to post-Drift infrastructure challenges.  
 - **Power**: Solar panels, wind-up generators, and possibly hydroelectric sources from inland rivers. Kerosene and firewood are common.  
 - **Transportation**: Coastal ships and ferries (steam/diesel-powered) for trade with Duvessa’s Riftlands. No transoceanic vessels or aircraft.  
-- **Computing**: Equivalent to late 1980s/early 1990s Earth technology, with minimal digital infrastructure.
 
 ## Military
 
@@ -4585,7 +5203,7 @@ Velu has advanced its communication technology, developing a cable-phone system 
 
 ## Notable Events {#notable-events}
 
-- **The Drift (~146,100 days ago, ~400 Earth years)**: Disrupted trade with Ronobetu, forcing reliance on Duvessa’s Riftlands route.  
+- **The Drift**: Disrupted trade with Ronobetu, forcing reliance on Duvessa’s Riftlands route.  
 - **Velu’s Immigration Policy Shift (Post-Drift)**: Implementation of strict controls to protect agricultural resources, centered at Gate Thaurin.
 
 -------------------------------------------------------- Westlands.md -------------------------------------------------------- 
@@ -4645,19 +5263,19 @@ Velu has advanced its communication technology, developing a cable-phone system 
 
 ## History
 
-### Pre-Drift Era (~500,000 days ago, ~1,369 Earth years)
+### Pre-Drift Era
 
 (TBD)
 
-### The Drift (~146,100 days ago, ~400 Earth years)
+### The Drift
 
 (TBD)
 
-### Post-Drift Era (~145,000–130,000 days ago, ~397–356 Earth years)
+### Post-Drift Era
 
 (TBD)
 
-### Current Era (~146,100 days, ~400 Earth years since The Drift)
+### Current Era
 
 (TBD)
 

@@ -1,3 +1,15 @@
+---
+id: stl_noxoch_isle
+name: Noxoch Isle
+category: places
+subcategory: island
+country_id: country_duvessa
+show_in_indexes: true
+search_index:
+    coordinates: 39.04, -5.76
+    zoom: 11
+    tags: []
+---
 # **Noxoch Isle**
 
 <span y-type="mapelement" y-zoom="11" y-center="39.04, -5.76" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true" y-showfullscreenlink="true"/>

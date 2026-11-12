@@ -1,5 +1,5 @@
 ---
-id: settlement_dima_eta
+id: stl_dima_eta
 name: Dima Eta
 category: places
 subcategory: settlements

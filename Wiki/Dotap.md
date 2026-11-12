@@ -1,5 +1,5 @@
 ---
-id: settlement_dotap
+id: stl_dotap
 name: Dotap
 category: places
 subcategory: settlements

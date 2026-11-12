@@ -1,5 +1,5 @@
 ---
-id: settlement_clitham
+id: stl_clitham
 name: Clitham
 category: places
 subcategory: settlements

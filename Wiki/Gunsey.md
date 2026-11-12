@@ -1,12 +1,12 @@
 ---
-id: settlement_gunsey
+id: stl_gunsey
 name: Gunsey
 category: places
 subcategory: settlements
 country_id: country_duvessa
 show_in_indexes: true
 search_index:
-    coordinates: 29.70, -3.60
+    coordinates: 29.71, -3.60
     zoom: 10
     tags: []
 ---

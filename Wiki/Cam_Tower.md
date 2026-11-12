@@ -1,5 +1,5 @@
 ---
-id: settlement_cam_tower
+id: stl_cam_tower
 name: Cam Tower
 category: places
 subcategory: settlements

@@ -1,6 +1,6 @@
 ---
 id: stl_gunsey
-name: Gunsey
+title: Gunsey
 category: places
 subcategory: settlements
 country_id: country_duvessa

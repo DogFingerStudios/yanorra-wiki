@@ -1,6 +1,6 @@
 ---
 id: stl_clitham
-name: Clitham
+title: Clitham
 category: places
 subcategory: settlements
 country_id: country_ronobetu

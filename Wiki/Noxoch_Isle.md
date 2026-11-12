@@ -1,6 +1,6 @@
 ---
 id: stl_noxoch_isle
-name: Noxoch Isle
+title: Noxoch Isle
 category: places
 subcategory: island
 country_id: country_duvessa

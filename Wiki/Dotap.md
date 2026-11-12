@@ -1,6 +1,6 @@
 ---
 id: stl_dotap
-name: Dotap
+title: Dotap
 category: places
 subcategory: settlements
 country_id: country_ronobetu

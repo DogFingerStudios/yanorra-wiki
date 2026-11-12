@@ -1,6 +1,6 @@
 ---
 id: stl_dima_eta
-name: Dima Eta
+title: Dima Eta
 category: places
 subcategory: settlements
 country_id: country_stsutodo

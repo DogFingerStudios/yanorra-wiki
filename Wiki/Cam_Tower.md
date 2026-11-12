@@ -1,6 +1,6 @@
 ---
 id: stl_cam_tower
-name: Cam Tower
+title: Cam Tower
 category: places
 subcategory: settlements
 country_id: country_ronobetu

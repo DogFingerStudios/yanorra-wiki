@@ -9,6 +9,10 @@ capital: Thetbury
 status: confirmed
 map_feature_id: country_stsutodo
 show_in_indexes: true
+search_index:
+    coordinates: -17.49, -29.59
+    zoom: 5.2
+    tags: []
 ---
 # Hennamaria
 

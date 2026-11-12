@@ -9,6 +9,10 @@ capital: Holt
 status: confirmed
 map_feature_id: country_thornbelt
 show_in_indexes: true
+search_index:
+    coordinates: 14.71, -57.92
+    zoom: 5.0
+    tags: []
 ---
 # Thornbelt
 

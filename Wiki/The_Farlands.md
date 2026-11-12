@@ -3,6 +3,10 @@ id: thefarlands
 title: The Farlands
 category: places
 subcategory: island
+search_index:
+    coordinates: 29.45, -4.31
+    zoom: 6.3
+    tags: []
 ---
 # The Farlands
 

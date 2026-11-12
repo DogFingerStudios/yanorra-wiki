@@ -6,6 +6,10 @@ subcategory: island
 region: West Yanorra
 summary: A large island in southeastern West Yanorra, divided among several countries.
 status: confirmed
+search_index:
+    coordinates: -17.82, -29.88
+    zoom: 5.2
+    tags: []
 ---
 # Dairgo
 

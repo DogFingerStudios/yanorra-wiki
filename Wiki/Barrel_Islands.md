@@ -1,3 +1,19 @@
+---
+id: country_barrel_islands
+title: Barrel Islands
+category: places
+subcategory: countries
+region: East Yanorra
+summary: A former maritime power on the western coast of East Yanorra. 
+capital: Seshai
+status: confirmed
+map_feature_id: country_barrel_islands
+show_in_indexes: true
+search_index:
+    coordinates: -27.47, 1.21
+    zoom: 5.5
+    tags: []
+---
 # Barrel Islands
 
 <span y-type="mapelement" y-zoom="5" y-center="-28.00, -0.06" y-minzoom="2" y-scrollwheelzoom="true" y-debug="true"/>

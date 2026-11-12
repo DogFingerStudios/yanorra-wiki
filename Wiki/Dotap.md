@@ -5,6 +5,10 @@ category: places
 subcategory: settlements
 country_id: country_ronobetu
 show_in_indexes: true
+search_index:
+    coordinates: 7.67, -63.58
+    zoom: 8
+    tags: []
 ---
 # Dotap
 

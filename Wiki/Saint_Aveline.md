@@ -14,6 +14,10 @@ info_panel:
     economy: Subsistence fishing, limited agriculture, scavenging, and repair work
     religion: Localized spiritual practices with some influence from Duvessan traditions
     tags: [island, remote, volcanic, settlement, Duvessa, The Farlands]
+search_index:
+    coordinates: 33.90, -5.49
+    zoom: 14
+    tags: [St. Aveline, St Aveline, Aveline]
 ---
 # Saint Aveline
 

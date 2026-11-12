@@ -9,6 +9,10 @@ capital: Côte du Soleil
 status: confirmed
 map_feature_id: country_duvessa
 show_in_indexes: true
+search_index:
+    coordinates: 11.65, -30.72
+    zoom: 4.3
+    tags: [Dornia]
 ---
 
 # Duvessa

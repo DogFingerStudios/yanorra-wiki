@@ -9,6 +9,10 @@ capital: Qaria
 status: confirmed
 map_feature_id: country_landofwater
 show_in_indexes: true
+search_index:
+    coordinates: -26.66, 39.82
+    zoom: 5.8
+    tags: [country, East Yanorra, waterways, coastal]
 ---
 # Land of Water
 

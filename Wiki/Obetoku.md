@@ -9,6 +9,10 @@ capital: Sanceibei
 status: confirmed
 map_feature_id: country_obetoku
 show_in_indexes: true
+search_index:
+    coordinates: -11.48, -41.54
+    zoom: 5.7
+    tags: [three sisters]
 ---
 # Obetoku
 

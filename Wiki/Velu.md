@@ -9,6 +9,10 @@ capital: Byad
 status: confirmed
 map_feature_id: country_velu
 show_in_indexes: true
+search_index:
+    coordinates: 11.74, 28.60
+    zoom: 4.3
+    tags: []
 ---
 # Velu
 

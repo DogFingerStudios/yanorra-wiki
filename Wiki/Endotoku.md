@@ -9,6 +9,10 @@ capital: Onerston
 status: confirmed
 map_feature_id: country_endotoku
 show_in_indexes: true
+search_index:
+    coordinates: -23.53, 47.91
+    zoom: 3.9
+    tags: [three sisters]
 ---
 # Endotoku
 

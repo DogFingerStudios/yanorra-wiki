@@ -9,6 +9,10 @@ capital: Alonah-Clif
 status: confirmed
 map_feature_id: country_alonah
 show_in_indexes: true
+search_index:
+    coordinates: -19.71, -72.62
+    zoom: 11
+    tags: []
 ---
 # Alonah
 

@@ -9,6 +9,10 @@ capital: Zayn al-Qamar
 status: confirmed
 map_feature_id: country_bibishirif
 show_in_indexes: true
+search_index:
+    coordinates: 3.51, -32.11
+    zoom: 4.9
+    tags: []
 ---
 # Bibi Shirif
 

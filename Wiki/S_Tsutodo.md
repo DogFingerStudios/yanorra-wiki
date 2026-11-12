@@ -9,6 +9,10 @@ capital: Dima Eta
 status: confirmed
 map_feature_id: country_stsutodo
 show_in_indexes: true
+search_index:
+    coordinates: -14.72, -72.65
+    zoom: 6.5
+    tags: [stsutodo]
 ---
 # S'Tsutodo
 

@@ -9,6 +9,10 @@ capital: Cam Tower
 status: confirmed
 map_feature_id: country_ronobetu
 show_in_indexes: true
+search_index:
+    coordinates: -4.83, -73.09
+    zoom: 4.7
+    tags: []
 ---
 # Ronobetu
 

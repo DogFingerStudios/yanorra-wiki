@@ -9,6 +9,10 @@ capital: Paz
 status: confirmed
 map_feature_id: country_reddelstone
 show_in_indexes: true
+search_index:
+    coordinates: 7.94, 31.77
+    zoom: 6.4
+    tags: [Anqara]
 ---
 # Reddelstone
 

@@ -9,6 +9,10 @@ capital: Cliford
 status: confirmed
 map_feature_id: country_tsutodo
 show_in_indexes: true
+search_index:
+    coordinates: 0.16, -65.04
+    zoom: 7.1
+    tags: []
 ---
 # Tsutodo
 

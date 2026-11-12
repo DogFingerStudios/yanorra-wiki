@@ -9,6 +9,10 @@ capital: Flord-Clif
 status: confirmed
 map_feature_id: country_hav
 show_in_indexes: true
+search_index:
+    coordinates: -29.75, -69.83
+    zoom: 5.3
+    tags: []
 ---
 # Hav
 

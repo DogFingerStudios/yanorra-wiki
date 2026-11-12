@@ -9,6 +9,10 @@ capital: Seshai
 status: confirmed
 map_feature_id: country_barrel
 show_in_indexes: true
+search_index:
+    coordinates: -4.44, 30.96
+    zoom: 5.1
+    tags: []
 ---
 # Barrel
 

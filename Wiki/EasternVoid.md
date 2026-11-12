@@ -8,6 +8,10 @@ region: East Yanorra
 summary: The nashi-dominated eastern coastal belt of East Yanorra, centered on Khn and the failed coastal route to Saple Town.
 status: contested
 show_in_indexes: true
+search_index:
+    coordinates: -23.53, 47.91
+    zoom: 3.9
+    tags: []
 ---
 ## Eastern Void
 

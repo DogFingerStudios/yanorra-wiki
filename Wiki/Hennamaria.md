@@ -3,8 +3,8 @@ id: country_hennamaria
 title: Hennamaria
 category: places
 subcategory: countries
-region: Dudbinia
-summary: A nation located in Dudbinia, known for its rich history, cultural diversity, and vibrant markets.
+region: Dairgo
+summary: A nation located in Dairgo, known for its rich history, cultural diversity, and vibrant markets.
 capital: Thetbury
 status: confirmed
 map_feature_id: country_stsutodo

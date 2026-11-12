@@ -43,7 +43,7 @@ Located in Eanorra, Bibi Shirif occupies much of the eastern shore, with a long 
 ### Key Regions
 
 * **Zayn al-Qamar**: Capital and largest city, known for its rich history, cultural diversity, and vibrant markets.
-* **Qasr Marcel**: On the island of Dudbinia, off the southeast coast of Bibi Shirif; a significant religious and cultural center and home to the Great Mosque of Zayn al-Qamar, a major pilgrimage site.
+* **Qasr Marcel**: On the island of Dairgo, off the southeast coast of Bibi Shirif; a significant religious and cultural center and home to the Great Mosque of Zayn al-Qamar, a major pilgrimage site.
 
 ## Climate
 

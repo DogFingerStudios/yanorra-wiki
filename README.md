@@ -57,7 +57,7 @@ East Yanorra is the easternmost continent in the known world of Yanorra.
 
 West Yanorra is the western most continent in the known world of Yanorra. It is divided into four major regions:
 
-- **Dudbinia**: A large island in the southeastern region of West Yanorr.
+- **Dairgo**: A large island in the southeastern region of West Yanorr.
 
 - **Eanorra** - The eastern part of West Yanorra, which includes Duvessa, Moe, Bibi Shirif and the Three Sisters (Totoku, Endotoku, Obetoku).
 
@@ -69,7 +69,7 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 
 | Name | Area (approx.) | Population | Capital | Region |
 | --- | --- | --- | --- | --- |
-| [Bharim Islands](./Wiki/Bharim_Islands.md) | 8,200 sq km | ~1.2 million | Thetbury | Dudbinia |
+| [Bharim Islands](./Wiki/Bharim_Islands.md) | 8,200 sq km | ~1.2 million | Thetbury | Dairgo |
 | [Bibi Shirif](./Wiki/Bibi_Shirif.md) | 220,000 sq km | ~1.5 million | Zayn al-Qamar | Wanorra |
 | [Duvessa](./Wiki/Duvessa.md) | 310,000 sq km | ~800,000 | Côte du Soleil | Wanorra |
 | [Endotoku](./Wiki/Endotoku.md) | 180,000 sq km | ~300,000 | Ornerston | Wanorra |
@@ -77,9 +77,9 @@ West Yanorra is the western most continent in the known world of Yanorra. It is 
 | [Obetoku](./Wiki/Obetoku.md) | 120,000 sq km | ~700,000 | Sanceibei | Wanorra |
 | [Ronobetu](./Wiki/Ronobetu.md) | 350,000 sq km | ~1.9 million | Cam Tower | Eanorra |
 | [S'Tsutodo](./Wiki/S_Tsutodo.md) | 200,000 sq km | ~700,000 | Dima Eta | Eanorra |
-| [Hennamaria](./Wiki/Hennamaria.md) | 15,000 sq km | ~1.2 million | Thetbury | Dudbinia |
+| [Hennamaria](./Wiki/Hennamaria.md) | 15,000 sq km | ~1.2 million | Thetbury | Dairgo |
 | [Soumoa](./Wiki/Soumoa.md) | 140,000 sq km | ~1 million | Moa City | Wanorra |
-| [Stanshonia](./Wiki/Stanshonia.md) | 14,000 sq km | ~1.5 million | Carmouth | Dudbinia |
+| [Stanshonia](./Wiki/Stanshonia.md) | 14,000 sq km | ~1.5 million | Carmouth | Dairgo |
 | [Thornbelt](./Wiki/Thornbelt.md) | 210,000 sq km | ~800,000 | Holt | Eanorra |
 | [Totoku](./Wiki/Totoku.md) | 80,000 sq km | ~600,000 | Totoku | Wanorra |
 | [Tsutodo](./Wiki/Tsutodo.md) | 160,000 sq km | ~400,000 | Cliford | Eanorra |

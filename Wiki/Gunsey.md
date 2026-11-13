@@ -7,7 +7,7 @@ country_id: country_duvessa
 show_in_indexes: true
 search_index:
     coordinates: 29.71, -3.60
-    zoom: 10
+    zoom: 12
     tags: []
 ---
 # Gunsey

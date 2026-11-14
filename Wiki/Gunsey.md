@@ -6,7 +6,7 @@ subcategory: settlements
 country_id: country_duvessa
 show_in_indexes: true
 search_index:
-    coordinates: 29.71, -3.60
+    coordinates: 29.71, -3.66
     zoom: 12
     tags: []
 ---

@@ -51,9 +51,12 @@ Velu is located in the northern half of East Yanorra, bordered by the Veloku Oce
 
 ### Key Regions
 
-- **Byad**: The capital city, renowned for its administrative prominence and rich cultural heritage. Byad is famed as the starting point for Thalen of the Eastvoid’s legendary voyages to Anqara, a purported continent beyond the Eastvoid Ocean. The existence of Anqara remains fiercely debated, with scholars and locals divided over whether Thalen’s tales describe a real land or a myth born of pre-Drift optimism.
+- **Big Bay**: A significant coastal city and main trading hub for goods from Reddelstone. 
 
-- **Gate Thaurin** The primary port, a heavily fortified coastal city controlling access to Velu’s agricultural exports.  
+- **Byad**: The capital city, renowned for its administrative prominence. Byad is famous as the starting point for Thalen of the Eastvoid’s legendary voyages to Anqara, a purported continent beyond the Eastvoid Ocean. 
+
+- **Gate Thaurin** The primary immigration port through which all traffic from Wanorra must pass. It is a heavily fortified coastal city controlling access to Velu.
+
 - **Inland Plains**: Expansive farmlands producing grains, vegetables, and livestock, critical for trade with Duvessa and other East Yanorra nations.  
 
 ## Climate

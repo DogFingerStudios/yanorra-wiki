@@ -37,7 +37,7 @@ search_index:
 
 ### The Mariven Refusal
 
-For centuries, Hennamaria was a distant coastal province of [Bibi Shirif](./Bibi_Shirif.md), enjoying considerable autonomy due to its distance from the imperial capital. Its eastern ports prospered as important trading centers along the maritime route connecting [Barrel](./Barrel.md)via the [Barrel Islands](./Barrel_Islands.md) with the rest of [Wanorra](./Wanorra.md)
+For centuries, Hennamaria was a distant coastal province of [Bibi Shirif](./Bibi_Shirif.md), enjoying considerable autonomy due to its distance from the imperial capital. Its eastern ports prospered as important trading centers along the maritime route connecting [Barrel](./Barrel.md) via the [Barrel Islands](./Barrel_Islands.md) with the rest of [Wanorra](./Wanorra.md)
 
 During a period of costly wars elsewhere in Dairgo, Bibi Shirif sought greater control over this profitable trade. Imperial authorities imposed new duties on goods arriving from the Barrel Islands and demanded that Hennamarian merchants surrender control of their harbors to imperial administrators.
 

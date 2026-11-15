@@ -11,7 +11,7 @@ show_in_indexes: true
 search_index:
     coordinates: 5.18, 21.94
     zoom: 8
-    tags: []
+    tags: [lughunya, hunia]
 ---
 # Laghunya
 
